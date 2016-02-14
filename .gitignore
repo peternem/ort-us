@@ -1,3 +1,12 @@
+# Directory to ignore
+ortlieb/
+storefront/*
+storefront-backup/*
+
+#####################################
+#Node IGNORE
+#######################################
+
 # Logs
 logs
 *.log
@@ -31,3 +40,87 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+
+###########################
+# Wordpress Ignore
+############################
+
+*~
+*.log
+.htaccess
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+node_modules
+node_modules/*
+sitemap.xml
+sitemap.xml.gz
+Thumbs.db
+wp-config.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/cache/*
+wp-content/cache/supercache/*
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+wp-content/advanced-cache.php
+
+wp-content/gallery
+wp-content/gallery/ben-berden
+wp-content/gallery/colors
+wp-content/gallery/the-works
+wp-content/plugins/
+images/*
+images/
+images
+
+
+#####################################
+# ECLIPSE IGNORE
+#######################################
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# PDT-specific
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# TeXlipse plugin
+.texlipse
+
+#iis
+web.config
+wp-content/themes/Stoemper-autofocus-5.0/page-templates/contact-form-submitted.php

@@ -1,0 +1,5455 @@
+{
+	"status": "ok",
+	"count": 495,
+	"count_total": 495,
+	"pages": 0,
+	"posts": [
+		{
+			"id": 1409,
+			"title": "The Mob Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.themobshop.com\/",
+				"phone_number": "805-272-8102",
+				"address": {
+					"coordinates": "34.447947,-119.24743899999998",
+					"address": "110 W. Ojai Ave."
+				}
+			}
+		}, {
+			"id": 1405,
+			"title": "Southwest Bikes",
+			"custom_fields": {
+				"website": "http:\/\/southwestbikes.com\/",
+				"phone_number": "702-227-7433",
+				"address": {
+					"coordinates": "36.2740197,-115.2539213",
+					"address": "7290 W. Azure #110 Las Vegas, NV 89130"
+				}
+			}
+		}, {
+			"id": 1391,
+			"title": "Elevation Cycles- Boulder",
+			"custom_fields": {
+				"website": "http:\/\/elevationcycles.com\/",
+				"phone_number": "(303) 835-3438",
+				"address": {
+					"coordinates": "39.99972,-105.26098460000003",
+					"address": "2626 Baseline Rd. Boudler, CO 80305"
+				}
+			}
+		}, {
+			"id": 1390,
+			"title": "Elevation Cycles- Denver",
+			"custom_fields": {
+				"website": "http:\/\/elevationcycles.com\/",
+				"phone_number": "(303) 413-0228",
+				"address": {
+					"coordinates": "39.750976,-105.00173430000001",
+					"address": "1500 Wynkoop st. Denver, CO 80202"
+				}
+			}
+		}, {
+			"id": 1389,
+			"title": "Elevation- Highlands Ranch",
+			"custom_fields": {
+				"website": "http:\/\/elevationcycles.com\/",
+				"phone_number": "(303) 730-8038",
+				"address": {
+					"coordinates": "39.5649615,-104.96175410000001",
+					"address": "2030 E. County Line Rd. Unit R Highlands Ranch, Co 80126"
+				}
+			}
+		}, {
+			"id": 1388,
+			"title": "Electric &#038; Folding Bike NW",
+			"custom_fields": {
+				"website": "http:\/\/www.electricvehiclesnw.com\/",
+				"phone_number": "206-547-4621",
+				"address": {
+					"coordinates": "47.6640825,-122.37859760000003",
+					"address": "4810 17th Ave. NW Seattle, 98107"
+				}
+			}
+		}, {
+			"id": 1381,
+			"title": "Seattle Electric Bike",
+			"custom_fields": {
+				"website": "http:\/\/electricbikecentral.com\/",
+				"phone_number": "619-564-7028",
+				"address": {
+					"coordinates": "32.7257328,-117.16894430000002",
+					"address": "2021 India St. San Diego, CA 92101"
+				}
+			}
+		}, {
+			"id": 1377,
+			"title": "Danny&#8217;s Cycle NY",
+			"custom_fields": {
+				"website": "http:\/\/www.dannyscycles.com\/",
+				"phone_number": "Multiple Locations- Visit website",
+				"address": {
+					"coordinates": "40.7127837,-74.00594130000002",
+					"address": "NY"
+				}
+			}
+		}, {
+			"id": 1376,
+			"title": "True Wheel Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.truewheelbikes.com\/",
+				"phone_number": "712-328-0767",
+				"address": {
+					"coordinates": "41.2630974,-95.84465219999998",
+					"address": "120 W Broadway Council Bluffs, IA 51503"
+				}
+			}
+		}, {
+			"id": 1375,
+			"title": "Recumbent Cycles of Lancaster",
+			"custom_fields": {
+				"website": "http:\/\/lancasterrecumbent.com\/",
+				"phone_number": "717-553-5834",
+				"address": {
+					"coordinates": "40.05327219999999,-76.3602497",
+					"address": "2207 Marietta Ave. Lancaster, PA 17603"
+				}
+			}
+		}, {
+			"id": 1373,
+			"title": "Propel Bikes",
+			"custom_fields": {
+				"website": "http:\/\/propelbikes.com\/",
+				"phone_number": "631-306-4542",
+				"address": {
+					"coordinates": "40.697832,-73.97151629999996",
+					"address": "134 Flushing Ave. Brooklyn, NY"
+				}
+			}
+		}, {
+			"id": 1367,
+			"title": "Holy Spokes",
+			"custom_fields": {
+				"website": "http:\/\/www.holyspokespdx.com\/",
+				"phone_number": "503-265-8980",
+				"address": {
+					"coordinates": "45.5046467,-122.63408240000001",
+					"address": "3050 SE Division St #175 Portland"
+				}
+			}
+		}, {
+			"id": 1366,
+			"title": "Gannett Peak Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.gannettpeaksports.com\/#new-page",
+				"phone_number": "307-332-2926",
+				"address": {
+					"coordinates": "42.833044,-108.73243300000001",
+					"address": "351-B Main St. Lander"
+				}
+			}
+		}, {
+			"id": 1365,
+			"title": "Yucaipa Bike Center",
+			"custom_fields": {
+				"website": "http:\/\/www.yucaipabikecenter.com\/",
+				"phone_number": "909-790-1551",
+				"address": {
+					"coordinates": "34.0342139,-117.0444789",
+					"address": "34844 Yucaipa Blvd. Yucaipa"
+				}
+			}
+		}, {
+			"id": 1364,
+			"title": "Bluegrass Bicycle Co.",
+			"custom_fields": {
+				"website": "http:\/\/www.bluegrassbicyclecompany.com\/",
+				"phone_number": "317-513-3017",
+				"address": {
+					"coordinates": "39.873402,-86.33001860000001",
+					"address": "10929 E CR 750 N Brownsburg"
+				}
+			}
+		}, {
+			"id": 1363,
+			"title": "Redmond Cycle",
+			"custom_fields": {
+				"website": "www.redmondcycle.com",
+				"phone_number": "425-885-6363",
+				"address": {
+					"coordinates": "47.671963,-122.12824699999999",
+					"address": "7495 159th Pl NE Redmond, WA"
+				}
+			}
+		}, {
+			"id": 1362,
+			"title": "Black Diamond Bicycles",
+			"custom_fields": {
+				"website": "www.blackdiamondbicycles.com",
+				"phone_number": "740-797-0880",
+				"address": {
+					"coordinates": "39.3642113,-82.11771629999998",
+					"address": "11325 Jackson Dr. The plaims"
+				}
+			}
+		}, {
+			"id": 1361,
+			"title": "Joe&#8217;s Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.joesbikeshop.com\/",
+				"phone_number": "410-323-2788",
+				"address": {
+					"coordinates": "39.3672462,-76.64786120000002",
+					"address": "5813 Falls Rd. Baltimore"
+				}
+			}
+		}, {
+			"id": 1360,
+			"title": "Rose City Recumbent",
+			"custom_fields": {
+				"website": "http:\/\/www.rosecityrecumbentcycles.com\/",
+				"phone_number": "971-337-5685",
+				"address": {
+					"coordinates": "45.4940748,-122.60408919999997",
+					"address": "5720 SE Center St. portland"
+				}
+			}
+		}, {
+			"id": 1359,
+			"title": "Summit Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.summitbicycles.com\/",
+				"phone_number": "650*343-8483",
+				"address": {
+					"coordinates": "37.586238,-122.36105800000001",
+					"address": "1031 California Dr. burlingame"
+				}
+			}
+		}, {
+			"id": 1348,
+			"title": "Racer Parts Wholesale",
+			"custom_fields": {
+				"website": "http:\/\/www.racerpartswholesale.com\/category\/Ortlieb",
+				"phone_number": "800-397-7815",
+				"address": {
+					"coordinates": "39.7728815,-86.13795700000003",
+					"address": "411 Dorman Indianapolis, IN 46202"
+				}
+			}
+		}, {
+			"id": 1284,
+			"title": "Corner Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.cornerbikes.com\/",
+				"phone_number": "(530) 674-2453",
+				"address": {
+					"coordinates": "39.1483147,-121.64701969999998",
+					"address": "1465 Tharp Rd Suite C Yuba City, CA 95993"
+				}
+			}
+		}, {
+			"id": 1283,
+			"title": "Bike Vermont",
+			"custom_fields": {
+				"website": "",
+				"phone_number": "802-457-3553",
+				"address": {
+					"coordinates": "43.63,-72.507092",
+					"address": "2174 Maxham Meadow Way Unit 1A Woodstock, VT 05091"
+				}
+			}
+		}, {
+			"id": 1282,
+			"title": "Bountiful Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.bountifulbicycle.com\/",
+				"phone_number": "(801) 295-6711",
+				"address": {
+					"coordinates": "40.856043,-111.90025100000002",
+					"address": "2482 S Hwy 89 Woods Cross, UT 84010"
+				}
+			}
+		}, {
+			"id": 1281,
+			"title": "Wilson Backcountry Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.wilsonbackcountry.com\/",
+				"phone_number": "307-733-5228",
+				"address": {
+					"coordinates": "43.49769999999999,-110.87299999999999",
+					"address": "1230 IDA dr. Wilson, WY 83014"
+				}
+			}
+		}, {
+			"id": 1280,
+			"title": "Two Wheeler Dealer",
+			"custom_fields": {
+				"website": "http:\/\/bikesarefun.com\/",
+				"phone_number": "910-799-6444",
+				"address": {
+					"coordinates": "34.2139472,-77.88808519999998",
+					"address": "4408 Wrightsville Ave Wilmington, NC 28403-6338"
+				}
+			}
+		}, {
+			"id": 1279,
+			"title": "Bike Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.bikecycleshop.com\/",
+				"phone_number": "910-256-2545",
+				"address": {
+					"coordinates": "34.2356936,-77.83116969999997",
+					"address": "Bike Cycles 6801 Parker Farm RD. Wilmington, NC 28405"
+				}
+			}
+		}, {
+			"id": 1278,
+			"title": "Bicycle Pedaler",
+			"custom_fields": {
+				"website": "http:\/\/www.bicyclepedaler.com\/",
+				"phone_number": "316-685-4545",
+				"address": {
+					"coordinates": "37.6914235,-97.24361349999998",
+					"address": "330 N Rock Rd. Wichita, KS 67206"
+				}
+			}
+		}, {
+			"id": 1277,
+			"title": "Glacier Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/glaciercyclery.com\/",
+				"phone_number": "406-862-6446",
+				"address": {
+					"coordinates": "48.41077809999999,-114.33895330000001",
+					"address": "326 2ND St E Whitefish, MT 59937"
+				}
+			}
+		}, {
+			"id": 1276,
+			"title": "Harris Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/harriscyclery.net\/",
+				"phone_number": "(617) 244-1040",
+				"address": {
+					"coordinates": "42.3488169,-71.22869960000003",
+					"address": "1353 Washington ST West Newton, MA 02465-2004"
+				}
+			}
+		}, {
+			"id": 1275,
+			"title": "Town Cycle",
+			"custom_fields": {
+				"website": "http:\/\/www.towncycle.com\/",
+				"phone_number": "201-728-8878",
+				"address": {
+					"coordinates": "41.129095,-74.370338",
+					"address": "1468 Union Valley Rd West Milford, NJ 07480"
+				}
+			}
+		}, {
+			"id": 1273,
+			"title": "Nick&#8217;s Cycling &#038; Fitness",
+			"custom_fields": {
+				"website": "http:\/\/nickscyclingandfitness.com\/oc\/profile?g=1463903",
+				"phone_number": "319-752-8480",
+				"address": {
+					"coordinates": "40.812713,-91.15795400000002",
+					"address": "203 W. Agency Road Suite F West Burlington, IA 52655"
+				}
+			}
+		}, {
+			"id": 1272,
+			"title": "Ellis Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.elliscycles.com\/",
+				"phone_number": "262-442-6639",
+				"address": {
+					"coordinates": "42.765771,-88.21756490000001",
+					"address": "500 Racine St Waterford, WI 53185"
+				}
+			}
+		}, {
+			"id": 1271,
+			"title": "Rollin Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.rollincyclesdc.com\/",
+				"phone_number": "202-525-3712",
+				"address": {
+					"coordinates": "38.907797,-77.03236800000002",
+					"address": "1314-A 14th ST NW Washington, DC 20005"
+				}
+			}
+		}, {
+			"id": 1270,
+			"title": "DJ Bennett",
+			"custom_fields": {
+				"website": "http:\/\/www.djbennett.com\/",
+				"phone_number": "202-524-4484",
+				"address": {
+					"coordinates": "38.9603517,-77.08486749999997",
+					"address": "5335 Wisconsin Ave. NW Washington, DC 20015"
+				}
+			}
+		}, {
+			"id": 1269,
+			"title": "The Daily Rider",
+			"custom_fields": {
+				"website": "http:\/\/thedailyriderdc.com\/",
+				"phone_number": "(202) 396-0704",
+				"address": {
+					"coordinates": "38.9004229,-76.9910807",
+					"address": "1108 H St. NE Washington, DC 20002"
+				}
+			}
+		}, {
+			"id": 1268,
+			"title": "City Bikes",
+			"custom_fields": {
+				"website": "http:\/\/citybikes.com\/",
+				"phone_number": "202-265-1564",
+				"address": {
+					"coordinates": "38.9232089,-77.04116579999999",
+					"address": "2501 Champlain St. NW Washington, DC 20009"
+				}
+			}
+		}, {
+			"id": 1267,
+			"title": "W.E. Stedman Co",
+			"custom_fields": {
+				"website": "http:\/\/www.westedman.com\/home\/",
+				"phone_number": "(401) 789-8664",
+				"address": {
+					"coordinates": "41.4406301,-71.49567569999999",
+					"address": "196 Main St Wakefield, RI 02879"
+				}
+			}
+		}, {
+			"id": 1266,
+			"title": "Fit Werx",
+			"custom_fields": {
+				"website": "http:\/\/fitwerx.com\/",
+				"phone_number": "802-496-7570",
+				"address": {
+					"coordinates": "44.191249,-72.82368129999997",
+					"address": "4312 Main St Waitsfield, VT 05673"
+				}
+			}
+		}, {
+			"id": 1265,
+			"title": "Bikes @ Vienna",
+			"custom_fields": {
+				"website": "http:\/\/www.bikesatvienna.com\/",
+				"phone_number": "703-938-8900",
+				"address": {
+					"coordinates": "38.90128,-77.26689499999997",
+					"address": "128-A Church St NW Vienna, VA 22180"
+				}
+			}
+		}, {
+			"id": 1264,
+			"title": "Leo&#8217;s Mobile Bicycle Service",
+			"custom_fields": {
+				"website": "http:\/\/www.leosbike.com\/",
+				"phone_number": "219-246-2504",
+				"address": {
+					"coordinates": "41.4687427,-87.04640440000003",
+					"address": "10 N Roosevelt Road Valparaiso, IN 46383"
+				}
+			}
+		}, {
+			"id": 1263,
+			"title": "Transit Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.transitcycles.com\/",
+				"phone_number": "(520) 352-9490",
+				"address": {
+					"coordinates": "32.2201355,-110.98562850000002",
+					"address": "100 S Avenida Del Convento Ste. 116 Tucson, AZ 85745"
+				}
+			}
+		}, {
+			"id": 1262,
+			"title": "Topanga Creek Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.topangacreekbicycles.com\/",
+				"phone_number": "310-455-2111",
+				"address": {
+					"coordinates": "34.1077655,-118.59172030000002",
+					"address": "1273 North Topanga Canyon Blvd Topanga, CA 90290"
+				}
+			}
+		}, {
+			"id": 1261,
+			"title": "The Bicycle Cellar",
+			"custom_fields": {
+				"website": "http:\/\/www.thebicyclecellar.com\/",
+				"phone_number": "480-219-7225",
+				"address": {
+					"coordinates": "33.4257196,-111.93684580000001",
+					"address": "200 E. 5th St. #105 Tempe, AZ 85281"
+				}
+			}
+		}, {
+			"id": 1260,
+			"title": "Landis Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/landiscyclery.com\/",
+				"phone_number": "(480) 839-9383",
+				"address": {
+					"coordinates": "33.393442,-111.8928467",
+					"address": "2180 E Southern Ave Tempe, AZ 85282"
+				}
+			}
+		}, {
+			"id": 1259,
+			"title": "Great Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.greatbicycle.com\/",
+				"phone_number": "850-224-7461",
+				"address": {
+					"coordinates": "30.4653544,-84.26893769999998",
+					"address": "1909 Tomasville Rd Tallahassee, FL 32303"
+				}
+			}
+		}, {
+			"id": 1257,
+			"title": "Flywheel Bicycle Solutions",
+			"custom_fields": {
+				"website": "http:\/\/www.flywheelbicycles.com\/",
+				"phone_number": "541-512-8891",
+				"address": {
+					"coordinates": "42.240386,-122.775984",
+					"address": "550 S Pacific Hwy Talent, OR 97540"
+				}
+			}
+		}, {
+			"id": 1256,
+			"title": "Mello Velo",
+			"custom_fields": {
+				"website": "http:\/\/www.mellovelobicycles.com\/",
+				"phone_number": "(315) 307-3104",
+				"address": {
+					"coordinates": "43.0403885,-76.11944219999998",
+					"address": "556 Westcott St Syracuse, NY 13210"
+				}
+			}
+		}, {
+			"id": 1255,
+			"title": "Procycles",
+			"custom_fields": {
+				"website": "http:\/\/www.procycles.net\/",
+				"phone_number": "(772) 692-8476",
+				"address": {
+					"coordinates": "27.2186341,-80.26285139999999",
+					"address": "1098 NW Federal Hwy Stuart, FL 34994"
+				}
+			}
+		}, {
+			"id": 1254,
+			"title": "High Gear Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/highgearcyclery.com\/",
+				"phone_number": "908-647-2010",
+				"address": {
+					"coordinates": "40.6680504,-74.4939099",
+					"address": "Sterling 393 Main Ave Stirling, NJ 07980"
+				}
+			}
+		}, {
+			"id": 1253,
+			"title": "Freeze Thaw Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.freezethaw.com\/",
+				"phone_number": "814-272-0178",
+				"address": {
+					"coordinates": "40.7943017,-77.8612094",
+					"address": "109 S ALLEN ST STATE COLLEGE PA 16801-4737"
+				}
+			}
+		}, {
+			"id": 1252,
+			"title": "The Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.thebicycleshopinc.com\/",
+				"phone_number": "814-238-9422",
+				"address": {
+					"coordinates": "40.7910478,-77.86645950000002",
+					"address": "441 W COLLEGE AVE STATE COLLEGE PA  16801-3814"
+				}
+			}
+		}, {
+			"id": 1251,
+			"title": "Revolution Cycles",
+			"custom_fields": {
+				"website": "http:\/\/revolutioncycles.com\/",
+				"phone_number": "540-659-4006",
+				"address": {
+					"coordinates": "38.45649,-77.40740299999999",
+					"address": "Stafford 2773 Jefferson Davis Highway #111 Stafford, VA 22554 USA"
+				}
+			}
+		}, {
+			"id": 1250,
+			"title": "Bike Rack Inc.",
+			"custom_fields": {
+				"website": "http:\/\/thebikerack.com\/",
+				"phone_number": "630-584-6588",
+				"address": {
+					"coordinates": "41.9136101,-88.35187859999996",
+					"address": "2930 Campton Hills Rd. St. Charles, IL 60175 USA"
+				}
+			}
+		}, {
+			"id": 1249,
+			"title": "Now Bikes &#038; Fitness",
+			"custom_fields": {
+				"website": "http:\/\/nowbikes-fitness.com\/",
+				"phone_number": "651-644-2354",
+				"address": {
+					"coordinates": "44.9436915,-93.16701979999999",
+					"address": "75 N Snelling Ave St Paul, MN 55104"
+				}
+			}
+		}, {
+			"id": 1248,
+			"title": "The Hub Bicycle Company",
+			"custom_fields": {
+				"website": "http:\/\/www.thehubbicyclecompany.com\/",
+				"phone_number": "314-963-0300",
+				"address": {
+					"coordinates": "38.592662,-90.35849389999998",
+					"address": "40 W Lockwood Ave St Louis, MO 63119"
+				}
+			}
+		}, {
+			"id": 1247,
+			"title": "Spokane Bicycle Company",
+			"custom_fields": {
+				"website": "http:\/\/www.spokanebicycleclub.org\/page-1472001",
+				"phone_number": "509-747-5220",
+				"address": {
+					"coordinates": "47.6560001,-117.41950529999997",
+					"address": "125 S. Stevens St. Spokane, WA 99201"
+				}
+			}
+		}, {
+			"id": 1246,
+			"title": "North Divison Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.northdivision.com\/",
+				"phone_number": "509-467-2453",
+				"address": {
+					"coordinates": "47.7525209,-117.41085989999999",
+					"address": "10503 N Division St. Spokane, WA 99218"
+				}
+			}
+		}, {
+			"id": 1245,
+			"title": "Elephant Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.elephantbikes.com\/",
+				"phone_number": "509-953-0633",
+				"address": {
+					"coordinates": "47.640077,-117.38098600000001",
+					"address": "2001 E 17th Ave Spokane, WA 99203"
+				}
+			}
+		}, {
+			"id": 1244,
+			"title": "Earl&#8217;s Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/earlsbikes.com\/",
+				"phone_number": "802-864-9197",
+				"address": {
+					"coordinates": "44.459057,-73.14417300000002",
+					"address": "2500 Williston Road South Burlington, VT 05403"
+				}
+			}
+		}, {
+			"id": 1243,
+			"title": "Bicycle Belle",
+			"custom_fields": {
+				"website": "http:\/\/bicyclebelleboston.com\/",
+				"phone_number": "617-661-0969",
+				"address": {
+					"coordinates": "42.3859606,-71.11603339999999",
+					"address": "368 Beacon St. Somerville, MA 02143"
+				}
+			}
+		}, {
+			"id": 1242,
+			"title": "Spoke-N-Sport",
+			"custom_fields": {
+				"website": "http:\/\/spoke-n-sport.com\/",
+				"phone_number": "(605) 275-2453",
+				"address": {
+					"coordinates": "43.5263925,-96.73163420000003",
+					"address": "2019 S Minnesota Ave Sioux Falls, SD 57105 USA"
+				}
+			}
+		}, {
+			"id": 1241,
+			"title": "Gila Hike &#038; Bike",
+			"custom_fields": {
+				"website": "http:\/\/www.gilahikeandbike.com\/",
+				"phone_number": "575-388-3222",
+				"address": {
+					"coordinates": "32.7746432,-108.27590670000001",
+					"address": "103 E College ave Silver City, NM 88061"
+				}
+			}
+		}, {
+			"id": 1240,
+			"title": "Clever Training",
+			"custom_fields": {
+				"website": "http:\/\/www.clevertraining.com\/",
+				"phone_number": "251-751-6186",
+				"address": {
+					"coordinates": "27.8656252,-82.73882019999996",
+					"address": "10360 72nd St. N Suite 802 Seminole, FL 33777"
+				}
+			}
+		}, {
+			"id": 1239,
+			"title": "Bicycle Outfitters",
+			"custom_fields": {
+				"website": "http:\/\/bicycleoutfitters.net\/",
+				"phone_number": "727-319-2453",
+				"address": {
+					"coordinates": "27.8360279,-82.7938259",
+					"address": "11198 70th Avenue North Seminole, FL 33772"
+				}
+			}
+		}, {
+			"id": 1238,
+			"title": "Velo Transit",
+			"custom_fields": {
+				"website": "http:\/\/www.velotransit.com\/",
+				"phone_number": "206-588-1544",
+				"address": {
+					"coordinates": "47.6543368,-122.32051509999996",
+					"address": "701 NE Northlake Way Seattle, WA 98105"
+				}
+			}
+		}, {
+			"id": 1237,
+			"title": "Velo Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/velobikeshop.com\/",
+				"phone_number": "206-325-3292",
+				"address": {
+					"coordinates": "47.6155656,-122.34094070000003",
+					"address": "2151 Sixth Avenue Seattle, WA 98121"
+				}
+			}
+		}, {
+			"id": 1236,
+			"title": "Montlake Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.montlakebike.com\/",
+				"phone_number": "206-720-0530",
+				"address": {
+					"coordinates": "47.63940059999999,-122.30232920000003",
+					"address": "2223 24th Ave E Seattle, WA 98112-3038"
+				}
+			}
+		}, {
+			"id": 1235,
+			"title": "JRA Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.jrabikeshop.com\/",
+				"phone_number": "(206) 782-1323",
+				"address": {
+					"coordinates": "47.689722,-122.36575060000001",
+					"address": "8318 8th Ave NW Seattle, WA 98117"
+				}
+			}
+		}, {
+			"id": 1233,
+			"title": "Hello Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.hellobicycle.com\/",
+				"phone_number": "(206) 805-6700",
+				"address": {
+					"coordinates": "47.57522729999999,-122.3095662",
+					"address": "3067 Beacon Ave S Seattle, WA 98144"
+				}
+			}
+		}, {
+			"id": 1232,
+			"title": "CycoActive",
+			"custom_fields": {
+				"website": "http:\/\/www.cycoactive.com\/",
+				"phone_number": "206-323-2349",
+				"address": {
+					"coordinates": "47.56741100000001,-122.32306699999998",
+					"address": "4021 Airport Way S Seattle, WA 98108-5216 USA"
+				}
+			}
+		}, {
+			"id": 1231,
+			"title": "Bike Works",
+			"custom_fields": {
+				"website": "http:\/\/bikeworks.org\/",
+				"phone_number": "206 725 9408",
+				"address": {
+					"coordinates": "47.5576732,-122.28574070000002",
+					"address": "3709 S Ferdinand Seattle, WA 98118"
+				}
+			}
+		}, {
+			"id": 1230,
+			"title": "Bike Sport",
+			"custom_fields": {
+				"website": "http:\/\/ilovemybike.com\/",
+				"phone_number": "206-706-4700",
+				"address": {
+					"coordinates": "47.66184459999999,-122.36859420000002",
+					"address": "4550 9th Avenue NW Seattle, WA 98107"
+				}
+			}
+		}, {
+			"id": 1229,
+			"title": "Bike So Good",
+			"custom_fields": {
+				"website": "http:\/\/bikesogood.com\/",
+				"phone_number": "206-462-3154",
+				"address": {
+					"coordinates": "47.5483414,-122.31635819999997",
+					"address": "6107 13th Ave. S. Seattle WA 98108"
+				}
+			}
+		}, {
+			"id": 1228,
+			"title": "The Bicycle Repair Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.thebicyclerepairshop.com\/",
+				"phone_number": "206-682-7057",
+				"address": {
+					"coordinates": "47.6038647,-122.33772469999996",
+					"address": "928 Alaskan Way Seattle, WA 98104"
+				}
+			}
+		}, {
+			"id": 1227,
+			"title": "Alpine Hut",
+			"custom_fields": {
+				"website": "http:\/\/www.alpinehut.com\/",
+				"phone_number": "(206) 284-3575",
+				"address": {
+					"coordinates": "47.63926010000001,-122.37674170000002",
+					"address": "2215 15th Avenue West Seattle, WA 98119"
+				}
+			}
+		}, {
+			"id": 1226,
+			"title": "Alki Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/alkibikeandboard.com\/",
+				"phone_number": "206-938-3322",
+				"address": {
+					"coordinates": "47.5809207,-122.38619340000002",
+					"address": "2606 California Ave SW Seattle, WA  98116"
+				}
+			}
+		}, {
+			"id": 1225,
+			"title": "20\/20 Cycle",
+			"custom_fields": {
+				"website": "http:\/\/2020cycle.com\/",
+				"phone_number": "206-568-3090",
+				"address": {
+					"coordinates": "47.6130782,-122.30525110000002",
+					"address": "2020 E Union Seattle, WA 98122"
+				}
+			}
+		}, {
+			"id": 1224,
+			"title": "Rage Cycles",
+			"custom_fields": {
+				"website": "http:\/\/ragecycles.com\/",
+				"phone_number": "480-968-8116",
+				"address": {
+					"coordinates": "33.4785849,-111.92647",
+					"address": "2724 N Scottsdale RD Scottsdale, AZ 85257"
+				}
+			}
+		}, {
+			"id": 1223,
+			"title": "A Bicycle Odyssey",
+			"custom_fields": {
+				"website": "http:\/\/www.bicycleodyssey.com\/",
+				"phone_number": "415-332-3050",
+				"address": {
+					"coordinates": "37.86012090000001,-122.4876984",
+					"address": "1417 Bridgeway Sausalito, CA 94965"
+				}
+			}
+		}, {
+			"id": 1222,
+			"title": "Veloworx",
+			"custom_fields": {
+				"website": "http:\/\/www.veloworx.com\/",
+				"phone_number": "310-584-9797",
+				"address": {
+					"coordinates": "34.00320749999999,-118.47171120000001",
+					"address": "3106 Lincoln Blvd Santa Monica, CA 90405-5737"
+				}
+			}
+		}, {
+			"id": 1221,
+			"title": "Bike Attack",
+			"custom_fields": {
+				"website": "http:\/\/www.bikeattack.com\/",
+				"phone_number": "310-581-8014",
+				"address": {
+					"coordinates": "34.0040408,-118.48599460000002",
+					"address": "2400 Main Street Santa Monica, CA 90405"
+				}
+			}
+		}, {
+			"id": 1220,
+			"title": "Mellow Velo",
+			"custom_fields": {
+				"website": "http:\/\/www.mellowvelo.com\/",
+				"phone_number": "505-982-8986",
+				"address": {
+					"coordinates": "35.6883088,-105.93552899999997",
+					"address": "NM 132 East Marcy St Santa Fe, NM 87501"
+				}
+			}
+		}, {
+			"id": 1218,
+			"title": "Family Cycling Center",
+			"custom_fields": {
+				"website": "http:\/\/www.familycycling.com\/",
+				"phone_number": "831-475-3883",
+				"address": {
+					"coordinates": "36.9652089,-121.96470090000002",
+					"address": "914 41st Ave Santa Cruz, CA 95062 USA"
+				}
+			}
+		}, {
+			"id": 1217,
+			"title": "The Bike Church",
+			"custom_fields": {
+				"website": "http:\/\/bikechurch.santacruzhub.org\/",
+				"phone_number": "831-425-2453",
+				"address": {
+					"coordinates": "36.9685569,-122.02503330000002",
+					"address": "703 Pacific Ave Suite B Santa Cruz, CA 95060-4427"
+				}
+			}
+		}, {
+			"id": 1216,
+			"title": "Cranky&#8217;s Cycle Works",
+			"custom_fields": {
+				"website": "http:\/\/www.crankysbikes.com\/",
+				"phone_number": "805-963-7433",
+				"address": {
+					"coordinates": "34.422028,-119.70221300000003",
+					"address": "1014 State St Santa Barbara, CA 93101"
+				}
+			}
+		}, {
+			"id": 1215,
+			"title": "Sloughs Bike Shoppe",
+			"custom_fields": {
+				"website": "",
+				"phone_number": "408-293-1616",
+				"address": {
+					"coordinates": "37.3244204,-121.91144700000001",
+					"address": "260 Race St San Jose, CA 95126"
+				}
+			}
+		}, {
+			"id": 1214,
+			"title": "La Dolce Velo",
+			"custom_fields": {
+				"website": "http:\/\/www.ladolcevelo.com\/",
+				"phone_number": "(408) 244-8356",
+				"address": {
+					"coordinates": "37.3321913,-121.9122668",
+					"address": "1280 The Alameda San Jose, CA 95126"
+				}
+			}
+		}, {
+			"id": 1213,
+			"title": "Swell Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.swellbicycles.com\/",
+				"phone_number": "(415) 731-3838",
+				"address": {
+					"coordinates": "37.762759,-122.50093700000002",
+					"address": "4002 Irving Street San Francisco, CA 94122"
+				}
+			}
+		}, {
+			"id": 1212,
+			"title": "Pedal Revolution",
+			"custom_fields": {
+				"website": "http:\/\/www.pedalrevolution.org\/",
+				"phone_number": "(415) -641-1264",
+				"address": {
+					"coordinates": "37.7570336,-122.41623240000001",
+					"address": "3085 21st St San Francisco, CA 94110"
+				}
+			}
+		}, {
+			"id": 1211,
+			"title": "Market Street Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.marketstreetcycles.com\/",
+				"phone_number": "415-255-2453",
+				"address": {
+					"coordinates": "37.7745034,-122.42045259999997",
+					"address": "1592 Market St San Francisco, CA 94102"
+				}
+			}
+		}, {
+			"id": 1210,
+			"title": "MJ&#8217;s Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.mjscyclery.com\/",
+				"phone_number": "619-288-9220",
+				"address": {
+					"coordinates": "32.7480962,-117.14612420000003",
+					"address": "3841 Park Blvd. San Diego, CA 92103 USA"
+				}
+			}
+		}, {
+			"id": 1209,
+			"title": "Cycle Quest",
+			"custom_fields": {
+				"website": "http:\/\/www.cyclequestsd.com\/",
+				"phone_number": "858-622-9636",
+				"address": {
+					"coordinates": "32.9021504,-117.2257586",
+					"address": "10920 Roselle Street #103 San Diego, CA 92121"
+				}
+			}
+		}, {
+			"id": 1208,
+			"title": "Adams Avenue Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.aabikes.net\/",
+				"phone_number": "619-295-8500",
+				"address": {
+					"coordinates": "32.7630783,-117.13622989999999",
+					"address": "2606 Adams Avenue San Diego, CA 92116"
+				}
+			}
+		}, {
+			"id": 1207,
+			"title": "Saturday Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.saturdaycycles.com\/",
+				"phone_number": "801-935-4605",
+				"address": {
+					"coordinates": "40.782651,-111.90011900000002",
+					"address": "605 N 300 W. Salt Lake City, UT 84103"
+				}
+			}
+		}, {
+			"id": 1206,
+			"title": "Absolute Bikes",
+			"custom_fields": {
+				"website": "http:\/\/absolutebikes.com\/",
+				"phone_number": "719-539-9295",
+				"address": {
+					"coordinates": "38.5383771,-105.99224370000002",
+					"address": "330 West Sackett Salida, CO 81201-1655"
+				}
+			}
+		}, {
+			"id": 1205,
+			"title": "Santiam Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/santiambicycle.com\/",
+				"phone_number": "503 363-6602",
+				"address": {
+					"coordinates": "44.943374,-123.03837699999997",
+					"address": "388 Commercial ST NE Salem, OR 97301"
+				}
+			}
+		}, {
+			"id": 1204,
+			"title": "Salem Cycle Inc.",
+			"custom_fields": {
+				"website": "http:\/\/salemcycle.com\/",
+				"phone_number": "978-741-2222",
+				"address": {
+					"coordinates": "42.5221124,-70.89609059999998",
+					"address": "72 Washington St. Salem, MA 01970"
+				}
+			}
+		}, {
+			"id": 1203,
+			"title": "The Bike Peddler",
+			"custom_fields": {
+				"website": "http:\/\/www.bikepeddler.com\/blog\/",
+				"phone_number": "503-399-7741",
+				"address": {
+					"coordinates": "44.9411549,-123.04008540000001",
+					"address": "174 Commercial ST NE Salem, OR 97301-3401"
+				}
+			}
+		}, {
+			"id": 1202,
+			"title": "Evo- Seattle",
+			"custom_fields": {
+				"website": "http:\/\/www.evo.com\/shop\/ortlieb.aspx",
+				"phone_number": "206.973.4470",
+				"address": {
+					"coordinates": "47.6496674,-122.34227829999997",
+					"address": "3500 Stone Way N seattle, WA "
+				}
+			}
+		}, {
+			"id": 1201,
+			"title": "Evo- Portland",
+			"custom_fields": {
+				"website": "http:\/\/www.evo.com\/shop\/ortlieb.aspx",
+				"phone_number": "(503)972-5850",
+				"address": {
+					"coordinates": "45.5213023,-122.66145870000002",
+					"address": "200 SE MLK Jr. Blvd Portland, OR"
+				}
+			}
+		}, {
+			"id": 1199,
+			"title": "City Bicycle Works",
+			"custom_fields": {
+				"website": "http:\/\/citybicycleworks.com\/",
+				"phone_number": "916-447-2453",
+				"address": {
+					"coordinates": "38.5742276,-121.47404649999998",
+					"address": "CA 2419 K St Sacramento, CA  95816"
+				}
+			}
+		}, {
+			"id": 1198,
+			"title": "The Bicycle Business",
+			"custom_fields": {
+				"website": "http:\/\/www.thebikebiz.com\/",
+				"phone_number": "916-442-5246",
+				"address": {
+					"coordinates": "38.54819,-121.48934400000001",
+					"address": "3077 Freeport Boulevard Sacramento, CA 95818"
+				}
+			}
+		}, {
+			"id": 1197,
+			"title": "Carytown Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.carytownbikes.com\/",
+				"phone_number": "804-440-2453",
+				"address": {
+					"coordinates": "37.5534855,-77.48045840000003",
+					"address": "3112W Cary St Richmond VA 23221"
+				}
+			}
+		}, {
+			"id": 1196,
+			"title": "Bunnyhop Bike Shop",
+			"custom_fields": {
+				"website": "https:\/\/bunnyhoprva.wordpress.com\/",
+				"phone_number": "804-248-5878",
+				"address": {
+					"coordinates": "37.5406318,-77.45154960000002",
+					"address": "349 South Laurel St Richmond, VA 23220"
+				}
+			}
+		}, {
+			"id": 1186,
+			"title": "Pipeline24",
+			"custom_fields": {
+				"website": "http:\/\/www.pipeline24.com\/catalogsearch\/result\/?q=ortlieb",
+				"phone_number": "(617) 250-7545",
+				"address": {
+					"coordinates": "42.2800012,-71.03401939999997",
+					"address": "133 Hancock St Quincy, MA 02171"
+				}
+			}
+		}, {
+			"id": 1185,
+			"title": "Inspired Ride",
+			"custom_fields": {
+				"website": "http:\/\/www.iridebicycle.com\/iride\/HOME.html",
+				"phone_number": "253-380-5783",
+				"address": {
+					"coordinates": "47.1222437,-122.29396989999998",
+					"address": "14712 Meridian #F Pullayup, WA 98375"
+				}
+			}
+		}, {
+			"id": 1183,
+			"title": "Legend Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.legendbicycle.com\/",
+				"phone_number": "401-383-3070",
+				"address": {
+					"coordinates": "41.8214559,-71.3982939",
+					"address": "181 Brook Street Providence, RI 02906-1037"
+				}
+			}
+		}, {
+			"id": 1182,
+			"title": "Works Electric",
+			"custom_fields": {
+				"website": "http:\/\/www.works-electric.com\/",
+				"phone_number": "(740) 707-1409",
+				"address": {
+					"coordinates": "45.462704,-122.766615",
+					"address": "8750 SW Dolph St Portland, OR 97223"
+				}
+			}
+		}, {
+			"id": 1181,
+			"title": "West End Bikes &#8211; OR",
+			"custom_fields": {
+				"website": "http:\/\/westendbikespdx.com\/",
+				"phone_number": "(503)-208-2933",
+				"address": {
+					"coordinates": "45.5225499,-122.68225799999999",
+					"address": "1111 SW Stark St Portland, OR 97205"
+				}
+			}
+		}, {
+			"id": 1180,
+			"title": "Veloce Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.velocebicycles.com\/",
+				"phone_number": "503-234-8400",
+				"address": {
+					"coordinates": "45.5119149,-122.63250779999998",
+					"address": "3202 SE Hawthorne Blvd Portland, OR 97214-5045"
+				}
+			}
+		}, {
+			"id": 1179,
+			"title": "Up Cycles",
+			"custom_fields": {
+				"website": "http:\/\/upcyclespdx.com\/",
+				"phone_number": "(503) 388-0305",
+				"address": {
+					"coordinates": "45.571967,-122.65613100000001",
+					"address": "911 NE Dekum St Portland, OR 97211"
+				}
+			}
+		}, {
+			"id": 1178,
+			"title": "Sellwood Cycle Repair",
+			"custom_fields": {
+				"website": "http:\/\/sellwoodcycle.com\/",
+				"phone_number": "503-233-9392",
+				"address": {
+					"coordinates": "45.4663488,-122.65318009999998",
+					"address": "7953 SE 13th Ave Portland, OR 97202-6114"
+				}
+			}
+		}, {
+			"id": 1177,
+			"title": "Renovo Hardwood Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.renovobikes.com\/",
+				"phone_number": "503-231-4888",
+				"address": {
+					"coordinates": "45.508485,-122.65806370000001",
+					"address": "2005 SE 8th Ave Portland, OR 97214"
+				}
+			}
+		}, {
+			"id": 1176,
+			"title": "Portland Bicycle Studio",
+			"custom_fields": {
+				"website": "http:\/\/portlandbicyclestudio.com\/",
+				"phone_number": "503-335-8356",
+				"address": {
+					"coordinates": "45.53443559999999,-122.68635940000001",
+					"address": "1435 NW Raleigh st. Portland, OR 97209"
+				}
+			}
+		}, {
+			"id": 1175,
+			"title": "North Portland Bike Works",
+			"custom_fields": {
+				"website": "http:\/\/www.northportlandbikeworks.org\/",
+				"phone_number": "(503) 287-1098",
+				"address": {
+					"coordinates": "45.5552616,-122.6760615",
+					"address": "3978 N Mississippi Portland, OR 97217"
+				}
+			}
+		}, {
+			"id": 1174,
+			"title": "Metropolis Cycle Repair",
+			"custom_fields": {
+				"website": "http:\/\/www.metropoliscycles.com\/",
+				"phone_number": "503-287-7116",
+				"address": {
+					"coordinates": "45.5551452,-122.66735649999998",
+					"address": "2249 N. Williams Ave. Portland, OR 97217"
+				}
+			}
+		}, {
+			"id": 1173,
+			"title": "Cycle Path",
+			"custom_fields": {
+				"website": "http:\/\/cyclepathnw.com\/",
+				"phone_number": "503-281-0485",
+				"address": {
+					"coordinates": "45.5400909,-122.66113489999998",
+					"address": "2436 NE MLK Jr. Blvd Portland, OR 97212"
+				}
+			}
+		}, {
+			"id": 1172,
+			"title": "Crank",
+			"custom_fields": {
+				"website": "http:\/\/crankpdx.com\/",
+				"phone_number": "503-610-8356",
+				"address": {
+					"coordinates": "45.5216632,-122.63772449999999",
+					"address": "2725 SE Ash St. Portland, OR 97214"
+				}
+			}
+		}, {
+			"id": 1171,
+			"title": "Coventry Cycle Works",
+			"custom_fields": {
+				"website": "http:\/\/coventrycycleworks.com\/",
+				"phone_number": "503-230-7723",
+				"address": {
+					"coordinates": "45.5122602,-122.64484600000003",
+					"address": "2025 SE Hawthorne Blvd Portland, OR 97214"
+				}
+			}
+		}, {
+			"id": 1170,
+			"title": "Community Cycling Center",
+			"custom_fields": {
+				"website": "http:\/\/www.communitycyclingcenter.org\/",
+				"phone_number": "503-288-8864",
+				"address": {
+					"coordinates": "45.5589016,-122.64757580000002",
+					"address": "1700 NE Alberta St Portland, OR 97211"
+				}
+			}
+		}, {
+			"id": 1169,
+			"title": "Citybikes Workers&#8217; CO-OP",
+			"custom_fields": {
+				"website": "http:\/\/www.citybikes.coop\/",
+				"phone_number": "503-239-6951",
+				"address": {
+					"coordinates": "45.5220383,-122.657917",
+					"address": "734 SE Ankeny Portland, OR 97214-1212"
+				}
+			}
+		}, {
+			"id": 1168,
+			"title": "The Bike Commuter",
+			"custom_fields": {
+				"website": "http:\/\/www.pdxbikecommuter.com\/",
+				"phone_number": "503-234-7538",
+				"address": {
+					"coordinates": "45.5203288,-122.66035220000003",
+					"address": "324 S.E. Grand Ave Portland, OR 97214"
+				}
+			}
+		}, {
+			"id": 1167,
+			"title": "21st Ave. Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.21stbikes.com\/",
+				"phone_number": "503-222-2851",
+				"address": {
+					"coordinates": "45.5356938,-122.68664089999998",
+					"address": "916 NW Thurman Portland, OR 97209"
+				}
+			}
+		}, {
+			"id": 1166,
+			"title": "The Broken Spoke",
+			"custom_fields": {
+				"website": "http:\/\/thebrokenspokept.blogspot.com\/",
+				"phone_number": "360-379-1295",
+				"address": {
+					"coordinates": "48.114916,-122.756664",
+					"address": "230 Taylor Street Port Townsend, WA 98368"
+				}
+			}
+		}, {
+			"id": 1165,
+			"title": "Thick Bikes",
+			"custom_fields": {
+				"website": "http:\/\/thickbikes.com\/",
+				"phone_number": "412-390-3590",
+				"address": {
+					"coordinates": "40.4292307,-79.9834181",
+					"address": "62 South 15th St Pittsburgh, PA 15203"
+				}
+			}
+		}, {
+			"id": 1164,
+			"title": "Kindred Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.kindredcycles.com\/",
+				"phone_number": "(412) 445-5225",
+				"address": {
+					"coordinates": "40.454386,-79.97963600000003",
+					"address": "2515 Penn Avenue Pittsburgh, PA 15222"
+				}
+			}
+		}, {
+			"id": 1163,
+			"title": "Iron City Bikes",
+			"custom_fields": {
+				"website": "http:\/\/ironcitybikes.com\/",
+				"phone_number": "412-681-1310",
+				"address": {
+					"coordinates": "40.4403498,-79.9533571",
+					"address": "331 South Bouquet Street Pittsburgh, PA 15213-4242"
+				}
+			}
+		}, {
+			"id": 1162,
+			"title": "Biketek",
+			"custom_fields": {
+				"website": "http:\/\/biketek.com\/",
+				"phone_number": "412-521-6448",
+				"address": {
+					"coordinates": "40.4378503,-79.92126489999998",
+					"address": "Biketek 5842 Forbes Ave Pittsburgh, PA 15217"
+				}
+			}
+		}, {
+			"id": 1161,
+			"title": "Slippery Pig Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/slipperypigbikes.com\/",
+				"phone_number": "602-263-5143",
+				"address": {
+					"coordinates": "33.500814,-112.0742563",
+					"address": "4412 N Central AVE Phoenix AZ  85012-1506"
+				}
+			}
+		}, {
+			"id": 1160,
+			"title": "Trophy Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.trophybikes.com\/",
+				"phone_number": "215 592-1234",
+				"address": {
+					"coordinates": "39.9624169,-75.14141230000001",
+					"address": "712 North 2nd St. Philadelphia, PA 19123"
+				}
+			}
+		}, {
+			"id": 1159,
+			"title": "Firth &#038; Wilson Transport Cycles",
+			"custom_fields": {
+				"website": "http:\/\/transportcycle.com\/",
+				"phone_number": "215-425-4672",
+				"address": {
+					"coordinates": "39.9619072,-75.15411999999998",
+					"address": "933 Spring Garden St Philadelphia, PA 19123"
+				}
+			}
+		}, {
+			"id": 1158,
+			"title": "Fairmount Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/fairmountbicycles.com\/",
+				"phone_number": "267-507-9370",
+				"address": {
+					"coordinates": "39.967469,-75.17082490000001",
+					"address": "2015 Fairmount Ave Philadelphia PA 19130"
+				}
+			}
+		}, {
+			"id": 1157,
+			"title": "VeloTech  Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.velotechcycles.com\/",
+				"phone_number": "650-462-0789",
+				"address": {
+					"coordinates": "37.4425975,-122.15985610000001",
+					"address": "732 Emmerson St. Palo Alto, CA 94301"
+				}
+			}
+		}, {
+			"id": 1156,
+			"title": "Bike America",
+			"custom_fields": {
+				"website": "http:\/\/bikekc.com\/",
+				"phone_number": "913-381-5431",
+				"address": {
+					"coordinates": "38.9556089,-94.6513774",
+					"address": "9514 Nall Ave. Overland Park, KS 66207"
+				}
+			}
+		}, {
+			"id": 1155,
+			"title": "OlyBikes",
+			"custom_fields": {
+				"website": "http:\/\/www.olybikes.com\/",
+				"phone_number": "360-753-7525",
+				"address": {
+					"coordinates": "47.0459702,-122.90081929999996",
+					"address": "124 State AVE NE Olympia, WA  98501-1131"
+				}
+			}
+		}, {
+			"id": 1154,
+			"title": "The Bike Stand",
+			"custom_fields": {
+				"website": "http:\/\/olycentro.com\/the-bike-stand",
+				"phone_number": "360-943-1997",
+				"address": {
+					"coordinates": "47.0471575,-122.89793939999998",
+					"address": "408 Olympia Ave Olympia, WA 98501"
+				}
+			}
+		}, {
+			"id": 1153,
+			"title": "Montano Velo",
+			"custom_fields": {
+				"website": "http:\/\/www.montanovelo.com\/",
+				"phone_number": "510-654-8356",
+				"address": {
+					"coordinates": "37.82832130000001,-122.2495394",
+					"address": "4266 Piedmont Ave Oakland, CA 94611"
+				}
+			}
+		}, {
+			"id": 1152,
+			"title": "Ciel Bicycle Stores",
+			"custom_fields": {
+				"website": "http:\/\/cielbikes.com\/",
+				"phone_number": "212-288-0996",
+				"address": {
+					"coordinates": "40.7633458,-73.95960579999996",
+					"address": "360 E 65th Street NYC, NY 10065"
+				}
+			}
+		}, {
+			"id": 1151,
+			"title": "Mike&#8217;s Bikes",
+			"custom_fields": {
+				"website": "http:\/\/mikesbikes.com\/",
+				"phone_number": "415-454-6921",
+				"address": {
+					"coordinates": "38.074292,-122.53321299999999",
+					"address": "55 Leveroni Court Novato, CA 94949"
+				}
+			}
+		}, {
+			"id": 1150,
+			"title": "Buchanan Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.buchananbikes.com\/",
+				"phone_number": "405-364-5513",
+				"address": {
+					"coordinates": "35.212494,-97.44442500000002",
+					"address": "561 BUCHANAN AVE NORMAN, OK 73069-5709"
+				}
+			}
+		}, {
+			"id": 1149,
+			"title": "International Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/internationalbike.com\/",
+				"phone_number": "617-527-0967",
+				"address": {
+					"coordinates": "42.3152028,-71.21109890000002",
+					"address": "66 Needham St Newton, MA 02461"
+				}
+			}
+		}, {
+			"id": 1148,
+			"title": "Zen Bikes",
+			"custom_fields": {
+				"website": "http:\/\/zenbikes.com\/",
+				"phone_number": "212-929-2453",
+				"address": {
+					"coordinates": "40.74407679999999,-73.99397469999996",
+					"address": "134 W 24th St. New York, NY 10011"
+				}
+			}
+		}, {
+			"id": 1147,
+			"title": "Sid&#8217;s Bikes NYC",
+			"custom_fields": {
+				"website": "http:\/\/www.sidsbikes.com\/",
+				"phone_number": "(212) 989-1060",
+				"address": {
+					"coordinates": "40.7415119,-73.9964592",
+					"address": "151 W 19th Street New York, NY 10011-0015"
+				}
+			}
+		}, {
+			"id": 1146,
+			"title": "NYC Velo Inc",
+			"custom_fields": {
+				"website": "http:\/\/www.nycvelo.com\/",
+				"phone_number": "212-253-7771",
+				"address": {
+					"coordinates": "40.7258356,-73.9893457",
+					"address": "64 2nd Avenue New York, NY 10003-8649"
+				}
+			}
+		}, {
+			"id": 1145,
+			"title": "Gotham Bikes Downtown",
+			"custom_fields": {
+				"website": "http:\/\/togabikes.com\/",
+				"phone_number": "212 732 2453",
+				"address": {
+					"coordinates": "40.7163856,-74.00882480000001",
+					"address": "112 West Broadway New York, NY 10013-3803"
+				}
+			}
+		}, {
+			"id": 1144,
+			"title": "Fast Boy Cycles",
+			"custom_fields": {
+				"website": "http:\/\/fastboycycles.com\/about",
+				"phone_number": "917-674-8141",
+				"address": {
+					"coordinates": "40.809334,-73.95398899999998",
+					"address": "545 Manhattan Ave New York, NY 10027"
+				}
+			}
+		}, {
+			"id": 1143,
+			"title": "Echelon Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.echeloncyclesnyc.com\/",
+				"phone_number": "212-206-7656",
+				"address": {
+					"coordinates": "40.7386714,-74.0040732",
+					"address": "51 8th Avenue New York, NY 10014"
+				}
+			}
+		}, {
+			"id": 1142,
+			"title": "B&#038;H Photo Video Inc.",
+			"custom_fields": {
+				"website": "http:\/\/www.bhphotovideo.com\/",
+				"phone_number": "212 239 7500",
+				"address": {
+					"coordinates": "40.752462,-73.99599810000001",
+					"address": "349 W 33rd Street New York, NY 10001"
+				}
+			}
+		}, {
+			"id": 1141,
+			"title": "Green Fleet Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/greenfleetbikes.com\/",
+				"phone_number": "615-870-8848",
+				"address": {
+					"coordinates": "36.1432949,-86.79255460000001",
+					"address": "1579 Edgehill Ave Nashville, TN 37212"
+				}
+			}
+		}, {
+			"id": 1140,
+			"title": "Bicycle World",
+			"custom_fields": {
+				"website": "http:\/\/www.bicycleworldny.com\/",
+				"phone_number": "(914) 666-4044",
+				"address": {
+					"coordinates": "41.2089347,-73.72833079999998",
+					"address": "7 East Main St. Mt. Kisco, NY 10549"
+				}
+			}
+		}, {
+			"id": 1139,
+			"title": "eoGear",
+			"custom_fields": {
+				"website": "http:\/\/www.eogear.com\/index.php\/",
+				"phone_number": "435-462-2266",
+				"address": {
+					"coordinates": "39.544637,-111.45574920000001",
+					"address": "11874 E 18500N Mt Pleasant, UT 84647-3502"
+				}
+			}
+		}, {
+			"id": 1138,
+			"title": "BestRest Product",
+			"custom_fields": {
+				"website": "http:\/\/www.bestrestproducts.com\/",
+				"phone_number": "425-673-1023",
+				"address": {
+					"coordinates": "47.7992233,-122.32407130000001",
+					"address": "6710 220th ST SW Mountlake Terrace, WA 98043"
+				}
+			}
+		}, {
+			"id": 1137,
+			"title": "Rolling Hills Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.rollinghillsbikes.com\/",
+				"phone_number": "208-882-6362",
+				"address": {
+					"coordinates": "46.7301116,-117.0011821",
+					"address": "113 E.6th St. Moscow, ID 83843"
+				}
+			}
+		}, {
+			"id": 1136,
+			"title": "Onion River Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.onionriver.com\/",
+				"phone_number": "802 229 9409",
+				"address": {
+					"coordinates": "44.2607984,-72.5755044",
+					"address": "20 Langdon Street Montpelier, VT 05602-2902 USA"
+				}
+			}
+		}, {
+			"id": 1135,
+			"title": "Hiawatha Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/hiawathacyclery.blogspot.com\/",
+				"phone_number": "612-727-2565",
+				"address": {
+					"coordinates": "44.9052514,-93.21087139999997",
+					"address": "4313 E 54th ST Minneapolis, MN 55417-2205"
+				}
+			}
+		}, {
+			"id": 1134,
+			"title": "The Alt",
+			"custom_fields": {
+				"website": "http:\/\/www.altbikeboard.com\/index.cfm",
+				"phone_number": "(612) 374-3635",
+				"address": {
+					"coordinates": "44.9478341,-93.28774670000001",
+					"address": "3013 Lyndale Ave S Minneapolis, MN 55408"
+				}
+			}
+		}, {
+			"id": 1133,
+			"title": "Studio Velo",
+			"custom_fields": {
+				"website": "http:\/\/www.studiovelocycling.com\/",
+				"phone_number": "(415) 380-1882",
+				"address": {
+					"coordinates": "37.9055139,-122.54754739999998",
+					"address": "31 Miller Avenue Mill Valley, CA 94941"
+				}
+			}
+		}, {
+			"id": 1132,
+			"title": "Veloce Velo",
+			"custom_fields": {
+				"website": "http:\/\/www.velocevelo.com\/",
+				"phone_number": "206-236-0123",
+				"address": {
+					"coordinates": "47.5850325,-122.23474709999999",
+					"address": "2750 77th ave S.E. Mercer Island, WA 98040"
+				}
+			}
+		}, {
+			"id": 1131,
+			"title": "Oswald Cycle Works",
+			"custom_fields": {
+				"website": "http:\/\/www.oswaldcycleworks.com\/",
+				"phone_number": "570-662-3097",
+				"address": {
+					"coordinates": "41.807257,-77.078528",
+					"address": "7 N Main St Mansfield, PA 16933"
+				}
+			}
+		}, {
+			"id": 1130,
+			"title": "Campmor Inc",
+			"custom_fields": {
+				"website": "http:\/\/www.campmor.com\/",
+				"phone_number": "800-525-4784",
+				"address": {
+					"coordinates": "41.0862989,-74.15879089999998",
+					"address": "400 Corporate Dr Mahwah, NJ 07430"
+				}
+			}
+		}, {
+			"id": 1129,
+			"title": "Revolution Cycles",
+			"custom_fields": {
+				"website": "",
+				"phone_number": "Revolution Cycles - WI 2330 Atwood Ave Madison, WI 53704",
+				"address": {
+					"coordinates": "43.0937818,-89.347553",
+					"address": "2330 Atwood Ave Madison, WI 53704"
+				}
+			}
+		}, {
+			"id": 1128,
+			"title": "The Randonnee Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.therandonneeshop.com\/content\/about",
+				"phone_number": "773-610-6832",
+				"address": {
+					"coordinates": "39.98939720000001,-105.13971549999996",
+					"address": "The Randonnee Shop 348 Peerless St. Louisville, CO 80027"
+				}
+			}
+		}, {
+			"id": 1127,
+			"title": "Orange 20 Bikes",
+			"custom_fields": {
+				"website": "http:\/\/orange20bikes.com\/",
+				"phone_number": "323-662-4537",
+				"address": {
+					"coordinates": "34.083808,-118.2951377",
+					"address": "4351 Melrose Ave Los Angeles, CA 90029-3542"
+				}
+			}
+		}, {
+			"id": 1126,
+			"title": "Golden Saddle Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/goldensaddlecyclery.com\/",
+				"phone_number": "323-661-1174",
+				"address": {
+					"coordinates": "34.0914044,-118.27814060000003",
+					"address": "1618 Lucile Ave. Los Angeles, CA 90026"
+				}
+			}
+		}, {
+			"id": 1125,
+			"title": "The Bicycle Outfitter",
+			"custom_fields": {
+				"website": "http:\/\/bicycleoutfitter.com\/",
+				"phone_number": "650-948-8092",
+				"address": {
+					"coordinates": "37.3534642,-122.08790060000001",
+					"address": "963 Fremont Ave. Los Altos, CA  94024"
+				}
+			}
+		}, {
+			"id": 1124,
+			"title": "The Community Bicyclist",
+			"custom_fields": {
+				"website": "http:\/\/www.thecommunitybicyclist.com\/index.html",
+				"phone_number": "501-663-7300",
+				"address": {
+					"coordinates": "34.7704286,-92.3570042",
+					"address": "7509 Cantrell Rd Suite 118 Little Rock, AR 72207"
+				}
+			}
+		}, {
+			"id": 1123,
+			"title": "Plum Grove Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.plumgrovecyclery.com\/",
+				"phone_number": "703-777-2252",
+				"address": {
+					"coordinates": "39.1647052,-77.5336562",
+					"address": "16286 ROCKLAND LN LEESBURG VA  20176-5924"
+				}
+			}
+		}, {
+			"id": 1122,
+			"title": "Sunflower Outdoor and Bike",
+			"custom_fields": {
+				"website": "http:\/\/sunfloweroutdoorandbike.com\/",
+				"phone_number": "785-843-5000",
+				"address": {
+					"coordinates": "39.0176677,-95.20579090000001",
+					"address": "804 Mass Street Lawerence, KS 66044"
+				}
+			}
+		}, {
+			"id": 1120,
+			"title": "Joy Ride Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.joyridebicycles.com\/",
+				"phone_number": "360-491-9551",
+				"address": {
+					"coordinates": "47.0355736,-122.81842570000003",
+					"address": "1225 Ruddell Road SE Suite D Lacey, WA 98503"
+				}
+			}
+		}, {
+			"id": 1119,
+			"title": "Tennessee Valley Bikes",
+			"custom_fields": {
+				"website": "865-540-9979",
+				"phone_number": "",
+				"address": {
+					"coordinates": "35.97163820000001,-83.92089670000001",
+					"address": "214 W. Magnolia Ave. Knoxville, TN 37917"
+				}
+			}
+		}, {
+			"id": 1118,
+			"title": "Kirkland Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.kirklandbikes.com\/",
+				"phone_number": "425-828-3800",
+				"address": {
+					"coordinates": "47.6756822,-122.2044803",
+					"address": "208 Kirkland Ave Kirkland, WA 98033"
+				}
+			}
+		}, {
+			"id": 1117,
+			"title": "Cycle Therapy",
+			"custom_fields": {
+				"website": "http:\/\/cycletherapybikeshop.com\/",
+				"phone_number": "253-854-7487",
+				"address": {
+					"coordinates": "47.3749799,-122.2308107",
+					"address": "708 Central Ave S Kent, WA 98032"
+				}
+			}
+		}, {
+			"id": 1116,
+			"title": "Family Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/familybicycles-kc.com\/",
+				"phone_number": "(816) 268-1757",
+				"address": {
+					"coordinates": "38.9948865,-94.59368239999998",
+					"address": "7337 Broadway Kansas City, MO 64114"
+				}
+			}
+		}, {
+			"id": 1115,
+			"title": "Pedal &#8211; MI",
+			"custom_fields": {
+				"website": "http:\/\/pedalbicycle.com\/",
+				"phone_number": "(269) 567-3325",
+				"address": {
+					"coordinates": "42.291306,-85.59147489999998",
+					"address": "611 W Michigan Ave Kalamazoo, MI 49007"
+				}
+			}
+		}, {
+			"id": 1114,
+			"title": "The Hub Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.thehubbikes.com\/welcome",
+				"phone_number": "(307)-200-6144",
+				"address": {
+					"coordinates": "43.4718472,-110.78729729999998",
+					"address": "1160 Alpine Lane #1F Jackson, Wyoming 83001"
+				}
+			}
+		}, {
+			"id": 1113,
+			"title": "Geoff&#8217;s Bike and Ski",
+			"custom_fields": {
+				"website": "http:\/\/www.geoffsbikeandski.com\/",
+				"phone_number": "319-338-7202",
+				"address": {
+					"coordinates": "41.65159389999999,-91.53103620000001",
+					"address": "816 S Gilbert St Iowa City, IA 52240"
+				}
+			}
+		}, {
+			"id": 1112,
+			"title": "30th Century Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/30thcentury.wordpress.com\/",
+				"phone_number": "319-248-1288",
+				"address": {
+					"coordinates": "41.6546928,-91.53109389999997",
+					"address": "310 E Prentiss ST Unit C Iowa City, IA 52240"
+				}
+			}
+		}, {
+			"id": 1111,
+			"title": "Circle City Bicycles &#038; Fitness",
+			"custom_fields": {
+				"website": "http:\/\/circlecitybicycles.com\/",
+				"phone_number": "317 786 9244",
+				"address": {
+					"coordinates": "39.686569,-86.13557400000002",
+					"address": "5506 Madison Avenue Indianapolis, IN 46227-4669"
+				}
+			}
+		}, {
+			"id": 1110,
+			"title": "Sea Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.capecodseasports.com\/",
+				"phone_number": "(508) 790-1217",
+				"address": {
+					"coordinates": "41.66166760000001,-70.28122489999998",
+					"address": "195-D Ridgewood Ave Hyannis, MA 02601"
+				}
+			}
+		}, {
+			"id": 1109,
+			"title": "Houston Bicycle Company",
+			"custom_fields": {
+				"website": "http:\/\/houstonbicyclecompany.com\/",
+				"phone_number": "713-522-4622",
+				"address": {
+					"coordinates": "29.7447955,-95.38616050000001",
+					"address": "404 1\/2 Westheimer Houston, TX 77006"
+				}
+			}
+		}, {
+			"id": 1108,
+			"title": "Long Island Electric Bikes",
+			"custom_fields": {
+				"website": "http:\/\/longislandelectricbikes.com\/",
+				"phone_number": "(631) 306-4542",
+				"address": {
+					"coordinates": "40.776278,-73.08241499999997",
+					"address": "1121 Lincoln Ave Unit 30 Holbrook, NY 11741"
+				}
+			}
+		}, {
+			"id": 1107,
+			"title": "Great Divide Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/greatdividecyclery.com\/",
+				"phone_number": "406-443-5188",
+				"address": {
+					"coordinates": "46.5896725,-112.03744710000001",
+					"address": "336 Jackson Helena, MT 59601"
+				}
+			}
+		}, {
+			"id": 1106,
+			"title": "Big Sky Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.bigskybikes.com\/",
+				"phone_number": "406-442-4644",
+				"address": {
+					"coordinates": "46.5954226,-112.03396859999998",
+					"address": "801 N Last Chance Gulch Helena, MT 59601"
+				}
+			}
+		}, {
+			"id": 1105,
+			"title": "The Bicycle Doctor",
+			"custom_fields": {
+				"website": "http:\/\/www.thebicycledoctors.com\/",
+				"phone_number": "248-545-1225",
+				"address": {
+					"coordinates": "42.4723288,-83.10409550000003",
+					"address": "24436 John R Rd Hazel Park, MI 48030-1114"
+				}
+			}
+		}, {
+			"id": 1104,
+			"title": "Two Wheeler &#038; Ski Dealer",
+			"custom_fields": {
+				"website": "http:\/\/www.twowheelerskidealer.com\/v",
+				"phone_number": "208-772-8179",
+				"address": {
+					"coordinates": "47.75867299999999,-116.79182700000001",
+					"address": "9551 N. Highway 95 Hayden, ID 83835"
+				}
+			}
+		}, {
+			"id": 1103,
+			"title": "Shenadoah Bicycle Company",
+			"custom_fields": {
+				"website": "http:\/\/www.shenandoahbicycle.com\/",
+				"phone_number": "540-437-9000",
+				"address": {
+					"coordinates": "38.4480157,-78.86961610000003",
+					"address": "135 South Maine St. Harrisonburg, VA 22801 USA"
+				}
+			}
+		}, {
+			"id": 1101,
+			"title": "Pedal Pusher",
+			"custom_fields": {
+				"website": "http:\/\/www.pedalpusherharrisburg.com\/",
+				"phone_number": "717-652-7760",
+				"address": {
+					"coordinates": "40.2904229,-76.834452",
+					"address": "3798 Walnut Street Harrisburg, PA 17109-2528"
+				}
+			}
+		}, {
+			"id": 1100,
+			"title": "Rock N Roll Sports",
+			"custom_fields": {
+				"website": "http:\/\/rockandrollsports.com\/",
+				"phone_number": "970-641-9150",
+				"address": {
+					"coordinates": "38.544678,-106.93406600000003",
+					"address": "608 W Tomichi Gunnison, CO 81230"
+				}
+			}
+		}, {
+			"id": 1099,
+			"title": "Bikeworks",
+			"custom_fields": {
+				"website": "http:\/\/bikeworksltd.com\/",
+				"phone_number": "(516) 484-4422",
+				"address": {
+					"coordinates": "40.809425,-73.62944199999998",
+					"address": "7 Northern Blvd Greenvale, NY 11548"
+				}
+			}
+		}, {
+			"id": 1098,
+			"title": "Swift Cycle",
+			"custom_fields": {
+				"website": "http:\/\/swift-cycle.com\/site\/",
+				"phone_number": "352-226-8790",
+				"address": {
+					"coordinates": "29.64225159999999,-82.32891110000003",
+					"address": "Swift Cycle 607 W University Ave Gainsville, FL 32601"
+				}
+			}
+		}, {
+			"id": 1071,
+			"title": "Absolute Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.absolutebikes.net\/",
+				"phone_number": "928-779-5969",
+				"address": {
+					"coordinates": "35.1970118,-111.64676259999999",
+					"address": "202 E RT 66 Flagstaff, AZ 86001"
+				}
+			}
+		}, {
+			"id": 1070,
+			"title": "Ferguson Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/fergusonbicycleshop.com\/",
+				"phone_number": "(314) 315 4940",
+				"address": {
+					"coordinates": "38.73821239999999,-90.30279810000002",
+					"address": "429 S. Florissant Rd. Ferguson, MO 63135 USA"
+				}
+			}
+		}, {
+			"id": 1069,
+			"title": "Bikenetic",
+			"custom_fields": {
+				"website": "http:\/\/www.bikenetic.com\/",
+				"phone_number": "703-534-7433",
+				"address": {
+					"coordinates": "38.8904156,-77.1831305",
+					"address": "922 W Broad St Falls Church, VA 22046"
+				}
+			}
+		}, {
+			"id": 1068,
+			"title": "Fairview Cycle",
+			"custom_fields": {
+				"website": "http:\/\/www.fairviewcycle.com\/index.php4",
+				"phone_number": "440-734-2266",
+				"address": {
+					"coordinates": "41.4410829,-81.86644030000002",
+					"address": "22230 Lorain Rd Fairview Park, OH 44126"
+				}
+			}
+		}, {
+			"id": 1067,
+			"title": "Sunshine Bicycle Center",
+			"custom_fields": {
+				"website": "http:\/\/www.sunshinebicycle.com\/",
+				"phone_number": "415-459-3334",
+				"address": {
+					"coordinates": "37.9859543,-122.58375990000002",
+					"address": "737 Center Blvd Fairfax, CA  94930"
+				}
+			}
+		}, {
+			"id": 1066,
+			"title": "Henderson Center Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.hendersoncenterbicycles.com\/",
+				"phone_number": "707 443-7827",
+				"address": {
+					"coordinates": "40.7825614,-124.16329669999999",
+					"address": "2811 F Street Eureka, CA 95501-4422"
+				}
+			}
+		}, {
+			"id": 1065,
+			"title": "Oregon Paddle Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.oregonpaddlesports.com\/",
+				"phone_number": "541-505-9020",
+				"address": {
+					"coordinates": "44.05425899999999,-123.16772400000002",
+					"address": "520 Commercial St. Eugene, OR 97402"
+				}
+			}
+		}, {
+			"id": 1064,
+			"title": "Life Cycle Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.lifecyclebikeshop.com\/",
+				"phone_number": "541-343-1477",
+				"address": {
+					"coordinates": "44.0405737,-123.08932809999999",
+					"address": "1733 Pearl St Suite B Eugene, OR 97401"
+				}
+			}
+		}, {
+			"id": 1063,
+			"title": "Hutch&#8217;s Eugene",
+			"custom_fields": {
+				"website": "http:\/\/hutchsbicycles.com\/",
+				"phone_number": "541-345-7521",
+				"address": {
+					"coordinates": "44.049251,-123.096224",
+					"address": "960 Charnelton Street Eugene, OR 97401-3028"
+				}
+			}
+		}, {
+			"id": 1062,
+			"title": "Wildlife Cycles",
+			"custom_fields": {
+				"website": "http:\/\/wildlifecycles.com\/",
+				"phone_number": "360-376-4708",
+				"address": {
+					"coordinates": "48.696986,-122.90592900000001",
+					"address": "350 North Beach Rd Eastsound, WA 98245"
+				}
+			}
+		}, {
+			"id": 1061,
+			"title": "North Georgia Mountain Outfitters",
+			"custom_fields": {
+				"website": "http:\/\/www.hikenorthgeorgia.com\/",
+				"phone_number": "(706) 698-4453",
+				"address": {
+					"coordinates": "34.7559238,-84.52048990000003",
+					"address": "583 Highland Crossing Suite 230 East Ellijay, GA 30540"
+				}
+			}
+		}, {
+			"id": 1060,
+			"title": "Shirk&#8217;s Bike Shop",
+			"custom_fields": {
+				"website": "",
+				"phone_number": "(717) 445-5731",
+				"address": {
+					"coordinates": "40.11948599999999,-75.998941",
+					"address": "1649 Ligalaw Rd East Earl, PA 17519"
+				}
+			}
+		}, {
+			"id": 1059,
+			"title": "Bullseye Bicycle &#8211; NC",
+			"custom_fields": {
+				"website": "http:\/\/bullseyebicycle.com\/",
+				"phone_number": "919-438-3883",
+				"address": {
+					"coordinates": "35.9971678,-78.9036764",
+					"address": "102 Morris St Durham, NC 27701"
+				}
+			}
+		}, {
+			"id": 1058,
+			"title": "Bicycle Doctor",
+			"custom_fields": {
+				"website": "http:\/\/www.bikedr.com\/",
+				"phone_number": "(262) 965-4144",
+				"address": {
+					"coordinates": "43.01414399999999,-88.473883",
+					"address": "105 E Main St Dousman, WI 53118"
+				}
+			}
+		}, {
+			"id": 1057,
+			"title": "Peak Mtn. Bike Pro Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.peakmtnbike.com\/",
+				"phone_number": "718-225-5119",
+				"address": {
+					"coordinates": "40.7674865,-73.74793640000001",
+					"address": "42-42 235st Douglaston, NY 11363"
+				}
+			}
+		}, {
+			"id": 1056,
+			"title": "Tandem Cycle Works",
+			"custom_fields": {
+				"website": "http:\/\/www.tandemcycleworks.com\/",
+				"phone_number": "(303) 715-9690",
+				"address": {
+					"coordinates": "39.6670874,-105.08061929999996",
+					"address": "2720 S Wadsworth Blvd #D Denver, CO 80227"
+				}
+			}
+		}, {
+			"id": 1055,
+			"title": "Bicycle South",
+			"custom_fields": {
+				"website": "http:\/\/bicyclesouth.com\/",
+				"phone_number": "404-636-4444",
+				"address": {
+					"coordinates": "33.7912236,-84.3055377",
+					"address": "2098 N. Decatur Dr Decatur, GA 30033"
+				}
+			}
+		}, {
+			"id": 1054,
+			"title": "The Bike Hub",
+			"custom_fields": {
+				"website": "http:\/\/thebikehubonline.com\/",
+				"phone_number": "(920) 339-0229",
+				"address": {
+					"coordinates": "44.4610495,-88.053451",
+					"address": "1025 N Broadway De Pere, WI 54115"
+				}
+			}
+		}, {
+			"id": 1053,
+			"title": "B &#038; L Bike shop",
+			"custom_fields": {
+				"website": "http:\/\/blbikeshop.com\/",
+				"phone_number": "530-756-3540",
+				"address": {
+					"coordinates": "38.5444079,-121.740903",
+					"address": "610 3rd St Davis, CA 95616"
+				}
+			}
+		}, {
+			"id": 1052,
+			"title": "Oak Cliff Bicycle Co.",
+			"custom_fields": {
+				"website": "http:\/\/ocbicycleco.com\/",
+				"phone_number": "214-941-0010",
+				"address": {
+					"coordinates": "32.7483822,-96.82801519999998",
+					"address": "408 N. Bishop Ste 103 Dallas, TX 75208"
+				}
+			}
+		}, {
+			"id": 1051,
+			"title": "Peak Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.peaksportscorvallis.com\/",
+				"phone_number": "541-754-6444 Ext 310",
+				"address": {
+					"coordinates": "44.5647188,-123.25913559999998",
+					"address": "135 NW 2nd Street Corvallis, OR 97330-4834"
+				}
+			}
+		}, {
+			"id": 1050,
+			"title": "Corvallis Cyclery",
+			"custom_fields": {
+				"website": "",
+				"phone_number": "541-752-5952",
+				"address": {
+					"coordinates": "44.5613252,-123.26163099999996",
+					"address": "344 SW 2nd Street Corvallis, OR 97333-4632"
+				}
+			}
+		}, {
+			"id": 1049,
+			"title": "ATA Cycle",
+			"custom_fields": {
+				"website": "http:\/\/atabike.com\/",
+				"phone_number": "978-369-5960",
+				"address": {
+					"coordinates": "42.4567667,-71.3570163",
+					"address": "93 Thoreau Street Concord, MA 01742"
+				}
+			}
+		}, {
+			"id": 1048,
+			"title": "Paradise Garage",
+			"custom_fields": {
+				"website": "http:\/\/www.paradisegarage.com\/",
+				"phone_number": "614-299-0899",
+				"address": {
+					"coordinates": "39.9811702,-83.0046375",
+					"address": "921 N. High Street Columbus, OH 43201"
+				}
+			}
+		}, {
+			"id": 1047,
+			"title": "Walt&#8217;s Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.waltsbikeshop.com\/",
+				"phone_number": "573-886-9258",
+				"address": {
+					"coordinates": "38.956623,-92.32196299999998",
+					"address": "1217 Rogers St Columbia, MO 65201-4743"
+				}
+			}
+		}, {
+			"id": 1046,
+			"title": "Colorado Cyclist &#8211; CO",
+			"custom_fields": {
+				"website": "http:\/\/www.coloradocyclist.com\/",
+				"phone_number": "(719) 591-4040",
+				"address": {
+					"coordinates": "38.8375474,-104.75318529999998",
+					"address": "3970 E Bijou St. Colorado Springs, CO 80909"
+				}
+			}
+		}, {
+			"id": 1045,
+			"title": "Proteus Bicycles &#8211; MD",
+			"custom_fields": {
+				"website": "http:\/\/www.proteusbicycles.com\/",
+				"phone_number": "301-441-2928",
+				"address": {
+					"coordinates": "39.0064197,-76.92944979999998",
+					"address": "9217 Baltimore Blvd College Park, MD 20740"
+				}
+			}
+		}, {
+			"id": 1044,
+			"title": "Village Cycle Shoppe",
+			"custom_fields": {
+				"website": "http:\/\/www.villagecycleshoppe.com\/",
+				"phone_number": "321-806-3917",
+				"address": {
+					"coordinates": "28.3549378,-80.72399080000002",
+					"address": "4 Harrison St Suite 105 Cocoa, FL 32922"
+				}
+			}
+		}, {
+			"id": 1043,
+			"title": "Joy Machines",
+			"custom_fields": {
+				"website": "http:\/\/joymachines.net\/",
+				"phone_number": "216-394-0230",
+				"address": {
+					"coordinates": "41.4860574,-81.7052443",
+					"address": "1836 W 25St #1B Cleveland, OH 44113"
+				}
+			}
+		}, {
+			"id": 1042,
+			"title": "Spun Bicycles &#8211; OH",
+			"custom_fields": {
+				"website": "http:\/\/spunbicycles.com\/",
+				"phone_number": "(513) 265-4544",
+				"address": {
+					"coordinates": "39.1609486,-84.5391965",
+					"address": "4122 A Hamilton ave Cincinnati, OH 45223"
+				}
+			}
+		}, {
+			"id": 1041,
+			"title": "Campus Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/campuscyclery.com\/",
+				"phone_number": "513- 721-6628",
+				"address": {
+					"coordinates": "39.127688,-84.52098590000003",
+					"address": "241 West McMillan St Cincinnati, OH 45219-1238"
+				}
+			}
+		}, {
+			"id": 1040,
+			"title": "J.C. Lind Bike Co.",
+			"custom_fields": {
+				"website": "http:\/\/www.jclindbikes.com\/",
+				"phone_number": "(312) 643-1670",
+				"address": {
+					"coordinates": "41.9060749,-87.63427030000002",
+					"address": "1311 N Wells St Chicago, IL 60610"
+				}
+			}
+		}, {
+			"id": 1039,
+			"title": "Green Machine Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.greenmachinecycles.com\/",
+				"phone_number": "(773) 506-2453",
+				"address": {
+					"coordinates": "41.96179739999999,-87.6706509",
+					"address": "1634 W Montrose Ave Chicago, IL 60613"
+				}
+			}
+		}, {
+			"id": 1038,
+			"title": "Cycle Smithy",
+			"custom_fields": {
+				"website": "http:\/\/www.cyclesmithy.com\/",
+				"phone_number": "773-281-0444",
+				"address": {
+					"coordinates": "41.9273,-87.64176929999996",
+					"address": "2468 1\/2 N Clark St Chicago, IL 60614"
+				}
+			}
+		}, {
+			"id": 1037,
+			"title": "Boulevard Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.boulevardbikeshop.com\/",
+				"phone_number": "773-235-9109",
+				"address": {
+					"coordinates": "41.9276133,-87.70671270000002",
+					"address": "2535 N. Kedzie Blvd. Chicago, IL 60647"
+				}
+			}
+		}, {
+			"id": 1035,
+			"title": "Blue City Cycles &#8211; IL",
+			"custom_fields": {
+				"website": "http:\/\/www.bluecitycycles.com\/",
+				"phone_number": "312-225-3780",
+				"address": {
+					"coordinates": "41.836089,-87.64587999999997",
+					"address": "3201 S Halsted St Chicago, IL 60608-6605"
+				}
+			}
+		}, {
+			"id": 1034,
+			"title": "Blue Ridge Cyclery &#8211; VA",
+			"custom_fields": {
+				"website": "http:\/\/blueridgecyclery.com\/",
+				"phone_number": "434-995-2453",
+				"address": {
+					"coordinates": "38.0516153,-78.50365479999999",
+					"address": "1039 Millmont Street Charlottesville, VA 22903"
+				}
+			}
+		}, {
+			"id": 1033,
+			"title": "Bicycle Sport",
+			"custom_fields": {
+				"website": "http:\/\/bicyclesport.com\/",
+				"phone_number": "704-335-0323",
+				"address": {
+					"coordinates": "35.1734518,-80.84080689999996",
+					"address": "2916 Selwyn Ave Charlotte, NC 28209"
+				}
+			}
+		}, {
+			"id": 1032,
+			"title": "Performance Bicycle, Inc.",
+			"custom_fields": {
+				"website": "http:\/\/www.performancebike.com\/webapp\/wcs\/stores\/servlet\/RetailStoreDetailView?catalogId=10551&langId=-1&rsId=11580&storeId=10052",
+				"phone_number": "919-933-9113",
+				"address": {
+					"coordinates": "35.8514346,-79.0835538",
+					"address": "144 OLD LYSTRA ROAD CHAPEL HILL NC 27517 USA"
+				}
+			}
+		}, {
+			"id": 1031,
+			"title": "Bicycle Shop , The &#8211; OH",
+			"custom_fields": {
+				"website": "http:\/\/bicycleshopinc.com\/",
+				"phone_number": "330-209-4114",
+				"address": {
+					"coordinates": "40.8216279,-81.42646000000002",
+					"address": "4445 20th St NW Suite G Canton, OH 44708"
+				}
+			}
+		}, {
+			"id": 1030,
+			"title": "Outdoor Gear Exchange &#8211; VT",
+			"custom_fields": {
+				"website": "http:\/\/gearx.com\/",
+				"phone_number": "802-860-0190",
+				"address": {
+					"coordinates": "44.4792581,-73.21273730000001",
+					"address": "37 Church St. Burlington, VT 05401"
+				}
+			}
+		}, {
+			"id": 1029,
+			"title": "Local Motion",
+			"custom_fields": {
+				"website": "http:\/\/www.localmotion.org\/",
+				"phone_number": "(802)-861-2700",
+				"address": {
+					"coordinates": "44.47513499999999,-73.21961099999998",
+					"address": "1 Steele St Suite 103 Burlington, VT 05401"
+				}
+			}
+		}, {
+			"id": 1028,
+			"title": "The Kickstand",
+			"custom_fields": {
+				"website": "http:\/\/www.thekickstandllc.com\/",
+				"phone_number": "859-748-5425",
+				"address": {
+					"coordinates": "37.7535183,-84.7744553",
+					"address": "500 East Main Street Burgin, KY 40310"
+				}
+			}
+		}, {
+			"id": 1027,
+			"title": "Silk Road Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.silkroadcycles.net\/",
+				"phone_number": "718-389-2222",
+				"address": {
+					"coordinates": "40.727206,-73.95687299999997",
+					"address": "76 Franklin St Brooklyn, NY 11222"
+				}
+			}
+		}, {
+			"id": 1026,
+			"title": "Fulton Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.fultonbikes.com\/",
+				"phone_number": "718-638-2453",
+				"address": {
+					"coordinates": "40.682846,-73.96300099999996",
+					"address": "997 Fulton St. Brooklyn, NY 11238"
+				}
+			}
+		}, {
+			"id": 1025,
+			"title": "Bicycle Roots",
+			"custom_fields": {
+				"website": "http:\/\/www.bicycleroots.com\/",
+				"phone_number": "(718)-668-5224",
+				"address": {
+					"coordinates": "40.67635569999999,-73.94969249999997",
+					"address": "609 Nostrand Ave Brooklyn, NY 11216"
+				}
+			}
+		}, {
+			"id": 1024,
+			"title": "9th Street Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.9thstreetcycles.com\/",
+				"phone_number": "718-768-2453",
+				"address": {
+					"coordinates": "40.668297,-73.98393340000001",
+					"address": "375 9TH ST Brooklyn, NY 11215-4007"
+				}
+			}
+		}, {
+			"id": 1023,
+			"title": "Vecchio&#8217;s Biclcetteria",
+			"custom_fields": {
+				"website": "http:\/\/www.vecchios.com\/",
+				"phone_number": "303-440-3535",
+				"address": {
+					"coordinates": "40.0199252,-105.2712325",
+					"address": "1833 Pearl Street Boulder, CO 80302"
+				}
+			}
+		}, {
+			"id": 1022,
+			"title": "University Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/ubikes.com\/",
+				"phone_number": "303-444-4196",
+				"address": {
+					"coordinates": "40.0172754,-105.28404310000002",
+					"address": "839 Pearl St Boulder, CO 80302"
+				}
+			}
+		}, {
+			"id": 1021,
+			"title": "Community Cycles",
+			"custom_fields": {
+				"website": "http:\/\/communitycycles.org\/",
+				"phone_number": "720-565-6019",
+				"address": {
+					"coordinates": "40.0255783,-105.24845260000001",
+					"address": "2805 Wilderness Place Suite 1000 Boulder, CO 80301"
+				}
+			}
+		}, {
+			"id": 1020,
+			"title": "Giant Cycling World of Boston",
+			"custom_fields": {
+				"website": "http:\/\/www.giantboston.com\/en-US\/",
+				"phone_number": "(617) 424-6400",
+				"address": {
+					"coordinates": "42.3444077,-71.1002469",
+					"address": "11 Kilmarnock St Boston, MA 02215"
+				}
+			}
+		}, {
+			"id": 1019,
+			"title": "Cascade Outfitters",
+			"custom_fields": {
+				"website": "https:\/\/www.cascadeoutfitters.com\/",
+				"phone_number": "208-322-4411",
+				"address": {
+					"coordinates": "43.6404637,-116.24981079999998",
+					"address": "604 E. 45th ST Boise, ID 83714"
+				}
+			}
+		}, {
+			"id": 1017,
+			"title": "Bike Touring News",
+			"custom_fields": {
+				"website": "http:\/\/biketouringnews.com\/",
+				"phone_number": "208-941-6769",
+				"address": {
+					"coordinates": "43.655115,-116.234575",
+					"address": "3853 N Garden Center Way Boise, ID 83703"
+				}
+			}
+		}, {
+			"id": 1016,
+			"title": "Erik&#8217;s Bike Shop &#8211; MN",
+			"custom_fields": {
+				"website": "http:\/\/www.eriksbikeshop.com\/",
+				"phone_number": "952-885-9886",
+				"address": {
+					"coordinates": "44.8367595,-93.308085",
+					"address": "9201 Penn Ave S. #1 Bloomington, MN  55431"
+				}
+			}
+		}, {
+			"id": 1015,
+			"title": "Blue Heron Bikes",
+			"custom_fields": {
+				"website": "http:\/\/blueheronbikesberkeley.com\/",
+				"phone_number": "510-524-1937",
+				"address": {
+					"coordinates": "37.881349,-122.28966409999998",
+					"address": "1306 Gilman St Berkeley, CA 94706"
+				}
+			}
+		}, {
+			"id": 1014,
+			"title": "WebCyclery",
+			"custom_fields": {
+				"website": "http:\/\/webcyclery.com\/",
+				"phone_number": "541-318-6188",
+				"address": {
+					"coordinates": "44.0507887,-121.31560790000003",
+					"address": "550 SW Industrial Way Suite 150 Bend, OR 97701"
+				}
+			}
+		}, {
+			"id": 1013,
+			"title": "Tumalo Creek Kayak",
+			"custom_fields": {
+				"website": "http:\/\/tumalocreek.com\/",
+				"phone_number": "541-317-9407",
+				"address": {
+					"coordinates": "44.0497406,-121.31894699999998",
+					"address": "805 SW Industrial Way Suite 6 Bend, OR 97702"
+				}
+			}
+		}, {
+			"id": 1012,
+			"title": "Sunnyside Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.sunnysidesports.com\/",
+				"phone_number": "541-382-8018",
+				"address": {
+					"coordinates": "44.0626943,-121.32555350000001",
+					"address": "930 NW Newport Ave Bend, OR  97701"
+				}
+			}
+		}, {
+			"id": 1011,
+			"title": "The Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/bicycleshop.com\/",
+				"phone_number": "225-344-5624",
+				"address": {
+					"coordinates": "30.41797129999999,-91.17638549999998",
+					"address": "3315 Highland Road Baton Rouge, LA 70802-7923"
+				}
+			}
+		}, {
+			"id": 1010,
+			"title": "South Coast Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/southcoastbicycles.com\/",
+				"phone_number": "541-347-1995",
+				"address": {
+					"coordinates": "43.1192034,-124.402826",
+					"address": "805 2nd Street SE Bandon, OR 97411"
+				}
+			}
+		}, {
+			"id": 1009,
+			"title": "Ozone Bike Dept",
+			"custom_fields": {
+				"website": "http:\/\/www.ozonebikes.com\/",
+				"phone_number": "512-302-1164",
+				"address": {
+					"coordinates": "30.2995856,-97.74058539999998",
+					"address": "3202-C Guadalupe Street Austin, TX 78705-2329"
+				}
+			}
+		}, {
+			"id": 1007,
+			"title": "Mellow Johnny&#8217;s",
+			"custom_fields": {
+				"website": "http:\/\/mellowjohnnys.com\/",
+				"phone_number": "512-473-0222",
+				"address": {
+					"coordinates": "30.268109,-97.74926900000002",
+					"address": "400 Nueces St. Austin, TX 78701"
+				}
+			}
+		}, {
+			"id": 1006,
+			"title": "Division 1 Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/division-1-bicycles.myshopify.com\/",
+				"phone_number": "(512) 481-1333",
+				"address": {
+					"coordinates": "30.2636449,-97.7244068",
+					"address": "1620 East 7th St Austin, TX 78702"
+				}
+			}
+		}, {
+			"id": 1005,
+			"title": "Evo",
+			"custom_fields": {
+				"website": "http:\/\/www.evo.com\/shop\/bike.aspx",
+				"phone_number": "206-973-4470",
+				"address": {
+					"coordinates": "47.6496674,-122.34227829999997",
+					"address": "3500 Stone Way N seattle, WA"
+				}
+			}
+		}, {
+			"id": 1004,
+			"title": "Loose Nuts Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.loosenutscycles.com\/",
+				"phone_number": "(404) 228-5555",
+				"address": {
+					"coordinates": "33.7432323,-84.37336870000001",
+					"address": "425-A Cherokee Ave SE Atlanta, GA 30312"
+				}
+			}
+		}, {
+			"id": 1003,
+			"title": "Athens Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.athensbicycle.com\/",
+				"phone_number": "740-594-9944",
+				"address": {
+					"coordinates": "39.3324602,-82.09354569999999",
+					"address": "4 W. Stimson Ave. Athens, OH 45701"
+				}
+			}
+		}, {
+			"id": 1002,
+			"title": "Bear Creek Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.bearcreekbicycle.com\/",
+				"phone_number": "541-488-4270",
+				"address": {
+					"coordinates": "42.21960869999999,-122.73787920000001",
+					"address": "1988 Hwy 99 North Ashland, OR 97520"
+				}
+			}
+		}, {
+			"id": 1001,
+			"title": "Chainheart Cycling Studio",
+			"custom_fields": {
+				"website": "https:\/\/www.facebook.com\/pages\/Chainheart-Cycling-Studio\/114146383243",
+				"phone_number": "828-505-7301",
+				"address": {
+					"coordinates": "35.6200234,-82.576235",
+					"address": "897 Riverside Dr Asheville, NC 28804"
+				}
+			}
+		}, {
+			"id": 1000,
+			"title": "Sic Transit Cycles",
+			"custom_fields": {
+				"website": "http:\/\/sictransitcycles.com\/about",
+				"phone_number": "734-327-6900",
+				"address": {
+					"coordinates": "42.2898071,-83.73882630000003",
+					"address": "1033 Broadway Ann Arbor, MI 48105"
+				}
+			}
+		}, {
+			"id": 999,
+			"title": "Great Lakes Cycling &#038; Fitness",
+			"custom_fields": {
+				"website": "http:\/\/www.greatlakescycling.com\/",
+				"phone_number": "(734) 688-6484",
+				"address": {
+					"coordinates": "42.275395,-83.77694300000001",
+					"address": "2270 W. Stadium Blvd Ann Arbor, MI 48103"
+				}
+			}
+		}, {
+			"id": 998,
+			"title": "Skunk River Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.skunkrivercycles.com\/",
+				"phone_number": "515-232-0322",
+				"address": {
+					"coordinates": "42.02483,-93.61423100000002",
+					"address": "308 Main St Ames, IA 50010"
+				}
+			}
+		}, {
+			"id": 997,
+			"title": "Bicycle Pro Shop",
+			"custom_fields": {
+				"website": "http:\/\/bicycleproshop.com\/",
+				"phone_number": "703-212-2453",
+				"address": {
+					"coordinates": "38.807849,-77.08667600000001",
+					"address": "3240 Duke Street Alexandria, VA 22314"
+				}
+			}
+		}, {
+			"id": 996,
+			"title": "Fat Tire Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.fattirecycles.com\/",
+				"phone_number": "505-345-9005",
+				"address": {
+					"coordinates": "35.136695,-106.62597099999999",
+					"address": "421 Montano Road NE Albuquerque, NM 87107"
+				}
+			}
+		}, {
+			"id": 995,
+			"title": "Cycle Monkey, Inc.- CA",
+			"custom_fields": {
+				"website": "http:\/\/www.cyclemonkey.com\/index.shtml",
+				"phone_number": "510-868-1777",
+				"address": {
+					"coordinates": "37.888996,-122.30656799999997",
+					"address": "713 Solano Ave Albany CA 94706"
+				}
+			}
+		}, {
+			"id": 992,
+			"title": "Zach Kaplan Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.zachkaplancycles.com\/",
+				"phone_number": "510 522 2368",
+				"address": {
+					"coordinates": "37.776398,-122.25979000000001",
+					"address": "1518 Buena Vista Ave Alameda, CA 94501"
+				}
+			}
+		}, {
+			"id": 991,
+			"title": "Stones Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.stonescyclery.com\/",
+				"phone_number": "510-523-3264",
+				"address": {
+					"coordinates": "37.765417,-122.24260370000002",
+					"address": "2320 Santa Clara Ave Alameda, CA 94501"
+				}
+			}
+		}, {
+			"id": 990,
+			"title": "Abington Wheel Wright",
+			"custom_fields": {
+				"website": "http:\/\/www.awwbs.com\/awwbs.com\/Home.html",
+				"phone_number": "(215) 884-6331",
+				"address": {
+					"coordinates": "40.1153249,-75.12163670000001",
+					"address": "1120 Old York Rd Abington, PA 19001"
+				}
+			}
+		}, {
+			"id": 959,
+			"title": "Ben&#8217;s Cycle and Fitness",
+			"custom_fields": {
+				"website": "https:\/\/www.benscycle.com\/",
+				"phone_number": "(414) 384-2236",
+				"address": {
+					"coordinates": "43.003094,-87.92543999999998",
+					"address": "1018 W. Lincoln Ave. Milwaukee, WI 53215"
+				}
+			}
+		}, {
+			"id": 957,
+			"title": "Warm Planet Bikes",
+			"custom_fields": {
+				"website": "www.warmplanetbikes.com",
+				"phone_number": "(415) 974-6440",
+				"address": {
+					"coordinates": "37.7814386,-122.41184980000003",
+					"address": "1098A Market St San Francisco, CA 94102"
+				}
+			}
+		}, {
+			"id": 956,
+			"title": "University Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/ubikes.com\/",
+				"phone_number": "(303) 444-4196",
+				"address": {
+					"coordinates": "40.0172754,-105.28404310000002",
+					"address": "839 Pearl St, Boulder, CO 80302"
+				}
+			}
+		}, {
+			"id": 955,
+			"title": "The Spoke",
+			"custom_fields": {
+				"website": "www.spokebicycles.com",
+				"phone_number": "(413) 458-3456",
+				"address": {
+					"coordinates": "42.70199239999999,-73.18459210000003",
+					"address": "250 Main St Williamstown, MA 01267"
+				}
+			}
+		}, {
+			"id": 954,
+			"title": "The Bicycle Planet",
+			"custom_fields": {
+				"website": "www.thebicycleplanet.com",
+				"phone_number": "(516) 364-4434",
+				"address": {
+					"coordinates": "40.810468,-73.49702709999997",
+					"address": "340 Robbins Lane Syosset, NY 11791"
+				}
+			}
+		}, {
+			"id": 953,
+			"title": "Roaring Mouse Cycles",
+			"custom_fields": {
+				"website": "www.roaringmousecycles.com",
+				"phone_number": "(415) 753-6272",
+				"address": {
+					"coordinates": "37.8051887,-122.46863180000003",
+					"address": "934 Old Mason St, San Francisco, CA 94129"
+				}
+			}
+		}, {
+			"id": 952,
+			"title": "Revolution Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.revolutionbicycle.com\/",
+				"phone_number": "(707) 822-2562",
+				"address": {
+					"coordinates": "40.8743152,-124.08395989999997",
+					"address": "1593 G Street Arcata, CA 95521"
+				}
+			}
+		}, {
+			"id": 951,
+			"title": "Pedal Inn",
+			"custom_fields": {
+				"website": "www.pedalinn.com",
+				"phone_number": "(415) 890-6910",
+				"address": {
+					"coordinates": "37.7519496,-122.40719280000002",
+					"address": "1259 Hampshire St. San Francisco, CA 94110"
+				}
+			}
+		}, {
+			"id": 950,
+			"title": "Now Bikes &#038; Fitness",
+			"custom_fields": {
+				"website": "http:\/\/nowbikes-fitness.com\/",
+				"phone_number": "(651) 644-2354",
+				"address": {
+					"coordinates": "44.9436119,-93.16732139999999",
+					"address": "75 N Snelling Ave St Paul, MN 55104"
+				}
+			}
+		}, {
+			"id": 949,
+			"title": "North Georgia Mountain Outfitters",
+			"custom_fields": {
+				"website": "www.hikenorthgeorgia.com",
+				"phone_number": "(706) 698-4453",
+				"address": {
+					"coordinates": "34.6625857,-84.4874982",
+					"address": "583 Highland Crossing Suite 230 East Ellijay, GA 30540"
+				}
+			}
+		}, {
+			"id": 948,
+			"title": "Mike&#8217;s Bicycle Center &#8211; San Francisco",
+			"custom_fields": {
+				"website": "http:\/\/mikesbikes.com",
+				"phone_number": "(415) 241-2453",
+				"address": {
+					"coordinates": "37.7756948,-122.4119948",
+					"address": "1233 Howard St San Francisco, CA 94103"
+				}
+			}
+		}, {
+			"id": 947,
+			"title": "Mike&#8217;s Bicycle Center &#8211; Los Gatos",
+			"custom_fields": {
+				"website": "http:\/\/mikesbikes.com",
+				"phone_number": "(408) 402-5550",
+				"address": {
+					"coordinates": "37.2264496,-121.9823505",
+					"address": "201 N Santa Cruz Ave Los Gatos, CA 95030"
+				}
+			}
+		}, {
+			"id": 397,
+			"title": "Mike&#8217;s Bicycle Center &#8211; San Rafael",
+			"custom_fields": {
+				"website": "http:\/\/mikesbikes.com",
+				"phone_number": "(415) 454-3747",
+				"address": {
+					"coordinates": "37.96211,-122.50660800000003",
+					"address": "24 Tiburon St San Rafael, CA 94901"
+				}
+			}
+		}, {
+			"id": 946,
+			"title": "JRA Bike Shop",
+			"custom_fields": {
+				"website": "www.jrabikeshop.com",
+				"phone_number": "(206) 782-1323",
+				"address": {
+					"coordinates": "47.689722,-122.36575060000001",
+					"address": "8318 8th Ave NW Seattle, WA 98117"
+				}
+			}
+		}, {
+			"id": 945,
+			"title": "Idaho Mountain Touring",
+			"custom_fields": {
+				"website": "http:\/\/www.idahomountaintouring.com\/",
+				"phone_number": "(208) 336-3854",
+				"address": {
+					"coordinates": "43.619017,-116.20946200000003",
+					"address": "1310 W Main St, Boise, ID 83702"
+				}
+			}
+		}, {
+			"id": 944,
+			"title": "Erik&#8217;s Bike Shop",
+			"custom_fields": {
+				"website": "www.eriksbikeshop.com",
+				"phone_number": "(952) 885-9886",
+				"address": {
+					"coordinates": "44.8367595,-93.308085",
+					"address": "9201 Penn Ave S. #1 Bloomington, MN  55431"
+				}
+			}
+		}, {
+			"id": 942,
+			"title": "Deschutes River Cyclery",
+			"custom_fields": {
+				"website": "www.deschutesrivercyclery.com",
+				"phone_number": "(360) 352-4240",
+				"address": {
+					"coordinates": "47.0164073,-122.89940630000001",
+					"address": "533 Custer Way SE Suite C Tumwater, WA 98501"
+				}
+			}
+		}, {
+			"id": 940,
+			"title": "Chocolate Spokes Bike Studio",
+			"custom_fields": {
+				"website": "http:\/\/chocolatespokes.com",
+				"phone_number": "(303) 292-1876",
+				"address": {
+					"coordinates": "39.7571798,-104.9733703",
+					"address": "2805 Downing Street Denver, CO 80205"
+				}
+			}
+		}, {
+			"id": 939,
+			"title": "Cascade Bicycle Studio",
+			"custom_fields": {
+				"website": "www.cascadebicyclestudio.com",
+				"phone_number": "(206) 547-4900",
+				"address": {
+					"coordinates": "47.65072809999999,-122.35509569999999",
+					"address": "180 N Canal St Seattle WA 98103"
+				}
+			}
+		}, {
+			"id": 938,
+			"title": "Motorless Motion Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/motorlessmotionbicycles.com\/",
+				"phone_number": "(608) 251-8413",
+				"address": {
+					"coordinates": "43.0683135,-89.39475190000002",
+					"address": "640 W Washington Ave Madison, WI 53703"
+				}
+			}
+		}, {
+			"id": 937,
+			"title": "Machinery Row Bicycles",
+			"custom_fields": {
+				"website": "www.machineryrowbicycles.com",
+				"phone_number": "(608) 442-5974",
+				"address": {
+					"coordinates": "43.0758129,-89.37458300000003",
+					"address": "601 Williamson St, Madison, WI 53703"
+				}
+			}
+		}, {
+			"id": 936,
+			"title": "Budget Bicycle Center",
+			"custom_fields": {
+				"website": "http:\/\/budgetbicyclectr.com\/bike-bicycle-accessories-buy-online-for-sale.html",
+				"phone_number": "(608) 251-8413",
+				"address": {
+					"coordinates": "43.0675147,-89.40597550000001",
+					"address": "1124 Regent St Madison, WI 53715"
+				}
+			}
+		}, {
+			"id": 934,
+			"title": "Bike Ahead",
+			"custom_fields": {
+				"website": "http:\/\/www.bikeahead.com\/",
+				"phone_number": "(718) 387-1030",
+				"address": {
+					"coordinates": "40.707096,-73.954702",
+					"address": "386 Broadway Brooklyn, NY 11211"
+				}
+			}
+		}, {
+			"id": 933,
+			"title": "Bent Up Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.bentupcycles.com\/",
+				"phone_number": "(818) 358-2740",
+				"address": {
+					"coordinates": "34.1719009,-118.3830542",
+					"address": "11522 Burbank Blvd. North Hollywood, CA 91601"
+				}
+			}
+		}, {
+			"id": 932,
+			"title": "Baltimore Bicycle Works",
+			"custom_fields": {
+				"website": "http:\/\/baltimorebicycleworks.com\/",
+				"phone_number": "(410) 605-0705",
+				"address": {
+					"coordinates": "39.310409,-76.619261",
+					"address": "1813 Falls Road Baltimore, MD 21201"
+				}
+			}
+		}, {
+			"id": 931,
+			"title": "Baer Wheels",
+			"custom_fields": {
+				"website": "http:\/\/www.baerwheels.com\/",
+				"phone_number": "(614) 267-7171",
+				"address": {
+					"coordinates": "40.0239832,-83.01367499999998",
+					"address": "3510 N High St Columbus, OH 43202"
+				}
+			}
+		}, {
+			"id": 930,
+			"title": "BFF Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.bffbikes.com",
+				"phone_number": "(773)666-5153",
+				"address": {
+					"coordinates": "41.917474,-87.68068099999999",
+					"address": "2113 W. Armitage Ave Chicago, IL 60647"
+				}
+			}
+		}, {
+			"id": 831,
+			"title": "Zen Bikes",
+			"custom_fields": {
+				"website": "zenbikes.com",
+				"phone_number": "(212) 929-2453",
+				"address": {
+					"coordinates": "40.7441441,-73.99386470000002",
+					"address": "134 W 24th St, New York, NY 10001"
+				}
+			}
+		}, {
+			"id": 828,
+			"title": "Velotech",
+			"custom_fields": {
+				"website": "www.velotech.com",
+				"phone_number": "1-800-682-0570",
+				"address": {
+					"coordinates": "45.5647211,-122.5738407",
+					"address": "5741 NE 87th Ave Portland, OR 97220"
+				}
+			}
+		}, {
+			"id": 826,
+			"title": "Trek Southcenter",
+			"custom_fields": {
+				"website": "http:\/\/www.trekstorewashington.com\/",
+				"phone_number": "(206) 575-1996",
+				"address": {
+					"coordinates": "47.4611672,-122.25318649999997",
+					"address": "331 Tukwila Pkwy, Seattle, WA 98188"
+				}
+			}
+		}, {
+			"id": 818,
+			"title": "Rocktown Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.rocktownbicycles.com\/",
+				"phone_number": "(540) 689-0070",
+				"address": {
+					"coordinates": "38.448521,-78.86646200000001",
+					"address": "50 S Mason St, Harrisonburg, VA 22801"
+				}
+			}
+		}, {
+			"id": 817,
+			"title": "Pipeline24",
+			"custom_fields": {
+				"website": "http:\/\/www.pipeline24.com\/",
+				"phone_number": "service@pipeline24.com",
+				"address": {
+					"coordinates": "42.2828811,-71.0378872",
+					"address": "133 Hancock St  Quincy, MA 02171"
+				}
+			}
+		}, {
+			"id": 814,
+			"title": "Paradise Garage",
+			"custom_fields": {
+				"website": "http:\/\/www.paradisegarage.com\/",
+				"phone_number": "(614) 299-0899",
+				"address": {
+					"coordinates": "39.9811726,-83.0045091",
+					"address": "921 N. High Street Columbus, OH 43201"
+				}
+			}
+		}, {
+			"id": 807,
+			"title": "Cycle Quest",
+			"custom_fields": {
+				"website": "http:\/\/www.cyclequestsd.com\/",
+				"phone_number": "(858) 622-9636",
+				"address": {
+					"coordinates": "32.9021504,-117.2257586",
+					"address": "10920 Roselle Street, Ste 103 San Diego, CA 92121"
+				}
+			}
+		}, {
+			"id": 805,
+			"title": "Clever Training",
+			"custom_fields": {
+				"website": "http:\/\/www.clevertraining.com",
+				"phone_number": "(800) 577-8538",
+				"address": {
+					"coordinates": "27.89871,-82.84794699999998",
+					"address": "1519 Gulf Blvd, Suite 1 Indian Rocks Beach, FL 33785"
+				}
+			}
+		}, {
+			"id": 801,
+			"title": "Bois Blanc Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.boisblancsports.com\/",
+				"phone_number": "(571) 970-1818",
+				"address": {
+					"coordinates": "38.80815,-77.0510089",
+					"address": "1101 Queen St, Alexandria, VA 22314"
+				}
+			}
+		}, {
+			"id": 790,
+			"title": "Angry Catfish Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/angrycatfishbicycle.com\/",
+				"phone_number": "(612) 722-1538",
+				"address": {
+					"coordinates": "44.9265332,-93.23231290000001",
+					"address": "4208 28th Ave S, Minneapolis, MN 55406"
+				}
+			}
+		}, {
+			"id": 788,
+			"title": "Alpine Hut",
+			"custom_fields": {
+				"website": "www.alpinehut.com",
+				"phone_number": "(206) 284-3575",
+				"address": {
+					"coordinates": "47.63945409999999,-122.37621039999999",
+					"address": "2215 15th Ave W, Seattle, WA 98119"
+				}
+			}
+		}, {
+			"id": 770,
+			"title": "Element Cycles",
+			"custom_fields": {
+				"website": "",
+				"phone_number": "425-881-8442",
+				"address": {
+					"coordinates": "47.67634049999999,-122.127636",
+					"address": "8215 160th Avenue Northeast, Redmond, WA 98052, USA"
+				}
+			}
+		}, {
+			"id": 713,
+			"title": "Fitzgerald&#8217;s Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.fitzgeraldsbicycles.com\/",
+				"phone_number": "208-787-2453",
+				"address": {
+					"coordinates": "43.60684120000001,-111.1115029",
+					"address": "20 Cedron Rd Victor, ID 83455"
+				}
+			}
+		}, {
+			"id": 675,
+			"title": "The Bike Rack &#8211; Lincoln",
+			"custom_fields": {
+				"website": "http:\/\/bike-rack.com\/",
+				"phone_number": "402-488-2101",
+				"address": {
+					"coordinates": "40.769571,-96.67197199999998",
+					"address": "3321 Pioneers Blvd\tLincoln\tNE\t68506"
+				}
+			}
+		}, {
+			"id": 674,
+			"title": "The Bike Rack &#8211; Omaha",
+			"custom_fields": {
+				"website": "http:\/\/bike-rack.com\/",
+				"phone_number": "402-333-1031",
+				"address": {
+					"coordinates": "41.2879399,-96.14079930000002",
+					"address": "14510 Eagle Run Dr\tOmaha\tNE\t68116"
+				}
+			}
+		}, {
+			"id": 644,
+			"title": "Epicenter Cycling",
+			"custom_fields": {
+				"website": "http:\/\/www.epicentercycling.com\/",
+				"phone_number": "831-662-8100",
+				"address": {
+					"coordinates": "36.9770469,-121.90217630000001",
+					"address": "8035 Soquel Dr #23\tAptos\tCA\t95003"
+				}
+			}
+		}, {
+			"id": 636,
+			"title": "Metropolis Cycle Repair",
+			"custom_fields": {
+				"website": "http:\/\/metropoliscycles.com\/",
+				"phone_number": "503-287-7116",
+				"address": {
+					"coordinates": "45.53925,-122.66703100000001",
+					"address": "2249 N. Williams Ave.\tPortland\tOR\t97227"
+				}
+			}
+		}, {
+			"id": 632,
+			"title": "The Bicycle Works",
+			"custom_fields": {
+				"website": "http:\/\/www.thebicycleworks.org\/",
+				"phone_number": "415-419-5831",
+				"address": {
+					"coordinates": "37.9792291,-122.57184419999998",
+					"address": "1117 San Anselmo Ave\tSan Anselmo\tCA\t94960"
+				}
+			}
+		}, {
+			"id": 619,
+			"title": "Orange Peel",
+			"custom_fields": {
+				"website": "http:\/\/www.orangepeelbikes.com\/",
+				"phone_number": "970-879-2957",
+				"address": {
+					"coordinates": "40.4877711,-106.83963319999998",
+					"address": "1136 Yampa Street\tSteamboat Springs\tCO\t80487"
+				}
+			}
+		}, {
+			"id": 618,
+			"title": "One on One Bicycle Studio",
+			"custom_fields": {
+				"website": "http:\/\/www.oneononebike.com\/",
+				"phone_number": "612-371-9565",
+				"address": {
+					"coordinates": "44.98311,-93.271253",
+					"address": "117 Washington Ave N\tMinneapolis\tMN\t55401"
+				}
+			}
+		}, {
+			"id": 616,
+			"title": "Boulevard Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.boulevardbikeshop.com\/",
+				"phone_number": "773-235-9109",
+				"address": {
+					"coordinates": "41.9270771,-87.70726389999998",
+					"address": "2535 N Kedzie Blvd\tChicago\tIL\t60647"
+				}
+			}
+		}, {
+			"id": 603,
+			"title": "Earl&#8217;s Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.earlsbicycle.com\/",
+				"phone_number": "360-746-2401",
+				"address": {
+					"coordinates": "48.7678602,-122.48611970000002",
+					"address": "2827 Meridian St\tBellingham\tWA\t98225"
+				}
+			}
+		}, {
+			"id": 596,
+			"title": "Hutch&#8217;s -Klamath Falls",
+			"custom_fields": {
+				"website": "http:\/\/hutchsbicyclestest.com\/",
+				"phone_number": "541-850-2453",
+				"address": {
+					"coordinates": "42.2257101,-121.77993320000001",
+					"address": "808 Klamath Ave\tKlamath Falls\tOR\t97601"
+				}
+			}
+		}, {
+			"id": 595,
+			"title": "Hutch&#8217;s -Redmond",
+			"custom_fields": {
+				"website": "http:\/\/hutchsbicyclestest.com\/",
+				"phone_number": "541-548-8200",
+				"address": {
+					"coordinates": "44.269032,-121.17562800000002",
+					"address": "827 SW 7th St\tRedmond\tOR\t97756"
+				}
+			}
+		}, {
+			"id": 594,
+			"title": "Hutch&#8217;s Bend-Westside",
+			"custom_fields": {
+				"website": "http:\/\/hutchsbicyclestest.com\/",
+				"phone_number": "541-382-9253",
+				"address": {
+					"coordinates": "44.057046,-121.326976",
+					"address": "725 NW Columbia St\tBend\tOR\t97701"
+				}
+			}
+		}, {
+			"id": 593,
+			"title": "Hutch&#8217;s Bend-Eastside",
+			"custom_fields": {
+				"website": "http:\/\/hutchsbicyclestest.com\/",
+				"phone_number": "541-382-6248",
+				"address": {
+					"coordinates": "44.058318,-121.30215800000002",
+					"address": "820 NE 3RD ST\tBEND\tOR\t97701"
+				}
+			}
+		}, {
+			"id": 592,
+			"title": "Peregrine Bicycle Works",
+			"custom_fields": {
+				"website": "http:\/\/www.pbwbikes.com\/",
+				"phone_number": "530-521-8101",
+				"address": {
+					"coordinates": "38.587167,-121.488178",
+					"address": "1114 C Street, Sacramento, CA 95814 "
+				}
+			}
+		}, {
+			"id": 585,
+			"title": "Revolver Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.revolverbikes.com\/",
+				"phone_number": "503-285-1084",
+				"address": {
+					"coordinates": "45.57017949999999,-122.68235440000001",
+					"address": "6509 N. Interstate Ave\tPortland\tOR\t97217"
+				}
+			}
+		}, {
+			"id": 568,
+			"title": "Zen Cog",
+			"custom_fields": {
+				"website": "http:\/\/www.zencog.com\/indexold.html",
+				"phone_number": "904-619-0496",
+				"address": {
+					"coordinates": "30.3151365,-81.6892105",
+					"address": "883 Stockton St\tJacksonville\tFL\t32204"
+				}
+			}
+		}, {
+			"id": 558,
+			"title": "Broadway Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.thebroadwaycyclery.com\/",
+				"phone_number": "440-735-2453",
+				"address": {
+					"coordinates": "41.392216,-81.53592300000002",
+					"address": "665 Broadway Ave\tBedford\tOH\t44146"
+				}
+			}
+		}, {
+			"id": 557,
+			"title": "Bilenky Cycle Works",
+			"custom_fields": {
+				"website": "http:\/\/www.bilenky.com\/",
+				"phone_number": "215-329-4744",
+				"address": {
+					"coordinates": "40.0318614,-75.12620879999997",
+					"address": "5319 N 2nd Street\tPhiladelphia\tPA\t19120"
+				}
+			}
+		}, {
+			"id": 556,
+			"title": "Cory the Bike Fixer",
+			"custom_fields": {
+				"website": "http:\/\/www.corythebikefixer.com\/",
+				"phone_number": "414-967-9446",
+				"address": {
+					"coordinates": "43.06168599999999,-87.88522699999998",
+					"address": "2410 N Murray Ave\tMilwaukee\tWI\t53211"
+				}
+			}
+		}, {
+			"id": 553,
+			"title": "Velosoul Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/velosoul.com\/",
+				"phone_number": "720-570-5039",
+				"address": {
+					"coordinates": "39.6964022,-104.98049909999997",
+					"address": "1109 S. Pearl St.\tDenver\tCO\t80210"
+				}
+			}
+		}, {
+			"id": 551,
+			"title": "Bike Doctor Frederick",
+			"custom_fields": {
+				"website": "http:\/\/www.bikedoctorfrederick.com\/",
+				"phone_number": "301-620-8868",
+				"address": {
+					"coordinates": "39.3919451,-77.40941179999998",
+					"address": "5732 Buckeystown Pike #10\tFrederick\tMD\t21704"
+				}
+			}
+		}, {
+			"id": 546,
+			"title": "Zion Adventure Company",
+			"custom_fields": {
+				"website": "http:\/\/www.zionadventures.com\/",
+				"phone_number": "435-772-1001",
+				"address": {
+					"coordinates": "37.1941262,-112.99398250000001",
+					"address": "36 Lion Blvd\tSpringdale\tUT\t84767"
+				}
+			}
+		}, {
+			"id": 542,
+			"title": "Wheel &#038; Sprocket &#8211; Oshkosh",
+			"custom_fields": {
+				"website": "http:\/\/wheelandsprocket.com\/",
+				"phone_number": "920-232-0900",
+				"address": {
+					"coordinates": "44.0046604,-88.58283259999996",
+					"address": "1451 S Washburn\tOshkosh\tWI\t54904"
+				}
+			}
+		}, {
+			"id": 541,
+			"title": "Wheel &#038; Sprocket &#8211; Northshore",
+			"custom_fields": {
+				"website": "http:\/\/wheelandsprocket.com\/",
+				"phone_number": "414-247-8100",
+				"address": {
+					"coordinates": "43.1428788,-87.9025871",
+					"address": "6940 N Santa Monica Blvd\tFox Point\tWI\t53217"
+				}
+			}
+		}, {
+			"id": 540,
+			"title": "Wheel &#038; Sprocket &#8211; Evanston",
+			"custom_fields": {
+				"website": "http:\/\/wheelandsprocket.com\/",
+				"phone_number": "847-864-7660",
+				"address": {
+					"coordinates": "42.0472021,-87.68624360000001",
+					"address": "1027 Davis Street\tEvanston\tWI\t60201"
+				}
+			}
+		}, {
+			"id": 539,
+			"title": "Wheel &#038; Sprocket &#8211; Delafield",
+			"custom_fields": {
+				"website": "http:\/\/wheelandsprocket.com\/",
+				"phone_number": "262-646-6300",
+				"address": {
+					"coordinates": "43.059027,-88.40571",
+					"address": "528 Wells Street\tDelafield\tWI\t53018"
+				}
+			}
+		}, {
+			"id": 538,
+			"title": "Wheel &#038; Sprocket &#8211; Brookfield",
+			"custom_fields": {
+				"website": "http:\/\/wheelandsprocket.com\/",
+				"phone_number": "262-783-0700",
+				"address": {
+					"coordinates": "43.089056,-88.08575400000001",
+					"address": "13925 W Capitol Drive\tBrookfield\tWI\t53005"
+				}
+			}
+		}, {
+			"id": 537,
+			"title": "Wheel &#038; Sprocket &#8211; Appleton",
+			"custom_fields": {
+				"website": "http:\/\/wheelandsprocket.com\/",
+				"phone_number": "920-997-9300",
+				"address": {
+					"coordinates": "44.26073100000001,-88.462785",
+					"address": "3939 W College Ave\tAppleton\tWI\t54914"
+				}
+			}
+		}, {
+			"id": 536,
+			"title": "Wheel &#038; Sprocket &#8211; Hales Corners",
+			"custom_fields": {
+				"website": "http:\/\/wheelandsprocket.com\/",
+				"phone_number": "414-529-6600",
+				"address": {
+					"coordinates": "42.940438,-88.04829640000002",
+					"address": "5722 S. 108th St\tHales Corners\tWI\t53130"
+				}
+			}
+		}, {
+			"id": 535,
+			"title": "21st Ave Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.21stbikes.com\/",
+				"phone_number": "503-222-2851",
+				"address": {
+					"coordinates": "45.5294205,-122.69440500000002",
+					"address": "916 NW 21st Ave \tPortland\tOR\t97209"
+				}
+			}
+		}, {
+			"id": 527,
+			"title": "Clarksville Schwinn",
+			"custom_fields": {
+				"website": "http:\/\/www.clarksvilleschwinn.com\/",
+				"phone_number": "812-948-2453",
+				"address": {
+					"coordinates": "38.3063748,-85.7759436",
+					"address": "111 W Lewis and Clark Parkway\tClarksville\tIN\t47129"
+				}
+			}
+		}, {
+			"id": 526,
+			"title": "Oak City Cycling Project",
+			"custom_fields": {
+				"website": "http:\/\/oakcitycycling.com\/",
+				"phone_number": "919-436-0527",
+				"address": {
+					"coordinates": "35.7900123,-78.63486820000003",
+					"address": "212 E. Franklin St.\tRaleigh\tNC\t27604"
+				}
+			}
+		}, {
+			"id": 523,
+			"title": "The Bicycle Escape",
+			"custom_fields": {
+				"website": "http:\/\/www.thebicycleescape.com\/",
+				"phone_number": "301-663-0007",
+				"address": {
+					"coordinates": "39.4425856,-77.39897300000001",
+					"address": "7820 E Wormans Mill Road\tFrederick\tMD\t21701"
+				}
+			}
+		}, {
+			"id": 519,
+			"title": "Transit Bicycle Company",
+			"custom_fields": {
+				"website": "http:\/\/www.transitbikes.com\/",
+				"phone_number": "214-219-2453",
+				"address": {
+					"coordinates": "32.8087876,-96.79582370000003",
+					"address": "3839 McKinney Ave #155\tDallas\tTX\t75204"
+				}
+			}
+		}, {
+			"id": 514,
+			"title": "Apogee Adventures",
+			"custom_fields": {
+				"website": "http:\/\/www.apogeeadventures.com\/",
+				"phone_number": "207-725-7025",
+				"address": {
+					"coordinates": "43.9140162,-69.96699610000002",
+					"address": "P.O. Box 505\tBrunswick\tME\t04011"
+				}
+			}
+		}, {
+			"id": 507,
+			"title": "Joe Bike",
+			"custom_fields": {
+				"website": "http:\/\/www.joe-bike.com\/",
+				"phone_number": "503-954-2039",
+				"address": {
+					"coordinates": "45.5083555,-122.62273490000001",
+					"address": "2039 SE Cesar E Chavez Blvd\tPortland\tOR\t97214"
+				}
+			}
+		}, {
+			"id": 506,
+			"title": "Bikesmiths",
+			"custom_fields": {
+				"website": "http:\/\/bikesmiths.net\/",
+				"phone_number": "812-339-9970",
+				"address": {
+					"coordinates": "39.1660632,-86.53488920000001",
+					"address": "112 South College Avenue\tBloomington\tIN\t47404"
+				}
+			}
+		}, {
+			"id": 504,
+			"title": "R &#038; E Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.rodcycle.com\/",
+				"phone_number": "206-527-4822",
+				"address": {
+					"coordinates": "47.670295,-122.31339600000001",
+					"address": "5627 University Way NE\tSeattle\tWA\t98105-2619"
+				}
+			}
+		}, {
+			"id": 502,
+			"title": "Dirty Harrys Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/dirtyharrys.net\/",
+				"phone_number": "412-828-2667",
+				"address": {
+					"coordinates": "40.5058021,-79.84311489999999",
+					"address": "730 Allegheny River Blvd\tVerona\tPA\t15147"
+				}
+			}
+		}, {
+			"id": 501,
+			"title": "Jim&#8217;s Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.jimsbicycleshop.com\/",
+				"phone_number": "513-793-1163",
+				"address": {
+					"coordinates": "39.2080445,-84.39912879999997",
+					"address": "8015 Plainfield Rd\tCincinnati\tOH\t45236"
+				}
+			}
+		}, {
+			"id": 498,
+			"title": "Bicycle Trip",
+			"custom_fields": {
+				"website": "http:\/\/www.bicycletrip.com\/",
+				"phone_number": "831-427-2580",
+				"address": {
+					"coordinates": "36.978858,-122.013035",
+					"address": "1001 Soquel Ave\tSanta Cruz\tCA\t95062"
+				}
+			}
+		}, {
+			"id": 494,
+			"title": "College Park Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.bike123.com\/",
+				"phone_number": "310-864-2211",
+				"address": {
+					"coordinates": "38.9810841,-76.93959970000003",
+					"address": "4360 Knox Road\tCollege Park\tMD\t20740-3171"
+				}
+			}
+		}, {
+			"id": 493,
+			"title": "Hostel Shoppe",
+			"custom_fields": {
+				"website": "http:\/\/www.hostelshoppe.com\/",
+				"phone_number": "800-233-4340",
+				"address": {
+					"coordinates": "44.5035843,-89.50942620000001",
+					"address": "3201 John Joanis Drive\tStevens Point\tWI\t54482"
+				}
+			}
+		}, {
+			"id": 491,
+			"title": "Paragon Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.paragonsports.com\/webapp\/wcs\/stores\/servlet\/TopCategories1_10551_10051_-1",
+				"phone_number": "800-961-3030",
+				"address": {
+					"coordinates": "40.737749,-73.99064899999996",
+					"address": "867 Broadway\tNew York\tNY\t10003"
+				}
+			}
+		}, {
+			"id": 490,
+			"title": "Eastside Ski &#038; Sport &#8211; Woodinville",
+			"custom_fields": {
+				"website": "http:\/\/www.eastsideskiandsport.com",
+				"phone_number": "425-485-7547",
+				"address": {
+					"coordinates": "47.762035,-122.13073400000002",
+					"address": "15606 NE Woodinville-Duvall Road\tWoodinville\tWA\t98072"
+				}
+			}
+		}, {
+			"id": 489,
+			"title": "Eastside Ski &#038; Sport &#8211; Redmond",
+			"custom_fields": {
+				"website": "http:\/\/www.eastsideskiandsport.com",
+				"phone_number": "425-885-3000",
+				"address": {
+					"coordinates": "47.6447015,-122.13013710000001",
+					"address": "West Commons Campus, 1 Microsoft Way, Building 98\tRedmond\tWA\t98052-8300"
+				}
+			}
+		}, {
+			"id": 488,
+			"title": "Ride Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.ridebicycles.com\/",
+				"phone_number": "206-985-7433",
+				"address": {
+					"coordinates": "47.6728094,-122.31752649999998",
+					"address": "6029 Roosevelt Way NE\tSeattle\tWA\t98115"
+				}
+			}
+		}, {
+			"id": 486,
+			"title": "Oregon Paddle Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.oregonpaddlesports.com\/",
+				"phone_number": "541-505-9020",
+				"address": {
+					"coordinates": "44.05425899999999,-123.16772400000002",
+					"address": "520 Commercial St.\tEugene\tOR\t97402"
+				}
+			}
+		}, {
+			"id": 481,
+			"title": "Virtuous Cycles",
+			"custom_fields": {
+				"website": "http:\/\/virtuouscycles.us\/",
+				"phone_number": "765-807-6557",
+				"address": {
+					"coordinates": "40.4192549,-86.8858371",
+					"address": "215 N 10th St\tLafayette\tIN\t47901"
+				}
+			}
+		}, {
+			"id": 480,
+			"title": "The Devil&#8217;s Gear",
+			"custom_fields": {
+				"website": "http:\/\/www.thedevilsgear.com\/",
+				"phone_number": "203-773-9288",
+				"address": {
+					"coordinates": "41.3058618,-72.92361389999996",
+					"address": "151 Orange St.\tNew Haven\tCT\t06511"
+				}
+			}
+		}, {
+			"id": 478,
+			"title": "Topanga Creek Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.topangacreekbicycles.com\/",
+				"phone_number": "310-455-2111",
+				"address": {
+					"coordinates": "34.107655,-118.591658",
+					"address": "1273 North Topanga Canyon Blvd\tTopanga\tCA\t90290"
+				}
+			}
+		}, {
+			"id": 474,
+			"title": "Bothell Ski &#038; Bike",
+			"custom_fields": {
+				"website": "http:\/\/www.bikesale.com\/",
+				"phone_number": "425-486-3747",
+				"address": {
+					"coordinates": "47.7554307,-122.23316469999997",
+					"address": "8020 Bothell Way NE\tKenmore\tWA\t98028"
+				}
+			}
+		}, {
+			"id": 473,
+			"title": "Old Town Bicycle &#8211; Olympia",
+			"custom_fields": {
+				"website": "http:\/\/oldtownbicycle.com\/",
+				"phone_number": "360-943-7661",
+				"address": {
+					"coordinates": "47.044291,-122.90123599999998",
+					"address": "420 Capitol Way South\tOlympia\tWA\t98501"
+				}
+			}
+		}, {
+			"id": 455,
+			"title": "Kozy&#8217;s Cyclery &#8211; Near North",
+			"custom_fields": {
+				"website": "http:\/\/kozy.com\/",
+				"phone_number": "312-266-1700",
+				"address": {
+					"coordinates": "41.8938898,-87.63494320000001",
+					"address": "219 W Erie\tChicago\tIL\t60654"
+				}
+			}
+		}, {
+			"id": 470,
+			"title": "Old Town Bicycle &#8211; Tacoma",
+			"custom_fields": {
+				"website": "http:\/\/oldtownbicycle.com\/",
+				"phone_number": "253-573-9400",
+				"address": {
+					"coordinates": "47.275076,-122.46511190000001",
+					"address": "3009 McCarver St\tTacoma\tWA\t98403"
+				}
+			}
+		}, {
+			"id": 469,
+			"title": "Old Town Bicycle &#8211; Gig Harbor",
+			"custom_fields": {
+				"website": "http:\/\/oldtownbicycle.com\/",
+				"phone_number": "253-858-8040",
+				"address": {
+					"coordinates": "47.32079299999999,-122.58757700000001",
+					"address": "6820 Kimball Dr Suite B1\tGig Harbor\tWA\t98335-5124"
+				}
+			}
+		}, {
+			"id": 468,
+			"title": "Classic Cycle",
+			"custom_fields": {
+				"website": "http:\/\/www.classiccycleus.com\/home\/",
+				"phone_number": "206-842-9191",
+				"address": {
+					"coordinates": "47.624861,-122.51253839999998",
+					"address": "740 Winslow Way NE\tBainbridge Island\tWA\t98110-2410"
+				}
+			}
+		}, {
+			"id": 466,
+			"title": "Peak Sports",
+			"custom_fields": {
+				"website": "http:\/\/www.peaksportscorvallis.com\/",
+				"phone_number": "541-754-6444",
+				"address": {
+					"coordinates": "44.565228,-123.25884100000002",
+					"address": "207 NW 2nd St\tCorvallis\tOR\t97330-4834"
+				}
+			}
+		}, {
+			"id": 464,
+			"title": "Comrade Cycles",
+			"custom_fields": {
+				"website": "http:\/\/comradecycles.com\/",
+				"phone_number": "773-292-2522",
+				"address": {
+					"coordinates": "41.8960819,-87.67504029999998",
+					"address": "1908 W. Chicago Ave\tChicago\tIL\t60622"
+				}
+			}
+		}, {
+			"id": 462,
+			"title": "The Bicycle Outfitter",
+			"custom_fields": {
+				"website": "http:\/\/bicycleoutfitter.com\/",
+				"phone_number": "650-948-8092",
+				"address": {
+					"coordinates": "37.353408,-122.08779800000002",
+					"address": "963 Fremont Ave\tLos Altos\tCA\t94024"
+				}
+			}
+		}, {
+			"id": 458,
+			"title": "Bicycle Space",
+			"custom_fields": {
+				"website": "http:\/\/www.bicyclespacedc.com\/",
+				"phone_number": "202-962-0123",
+				"address": {
+					"coordinates": "38.92143410000001,-77.04233629999999",
+					"address": "2424 18th St NW Washington D.C."
+				}
+			}
+		}, {
+			"id": 457,
+			"title": "Trophy Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.trophybikes.com\/",
+				"phone_number": "215-592-1234",
+				"address": {
+					"coordinates": "39.9623225,-75.14128169999998",
+					"address": "712 North 2nd St.\tPhiladelphia\tPA\t19123"
+				}
+			}
+		}, {
+			"id": 456,
+			"title": "Kozy&#8217;s Cyclery &#8211; South Loop",
+			"custom_fields": {
+				"website": "http:\/\/kozy.com\/",
+				"phone_number": "312-360-0020",
+				"address": {
+					"coordinates": "41.8716637,-87.64362189999997",
+					"address": "811 S Desplaines\tChicago\tIL\t60607"
+				}
+			}
+		}, {
+			"id": 454,
+			"title": "Kozy&#8217;s Cyclery &#8211; Northwest",
+			"custom_fields": {
+				"website": "http:\/\/kozy.com\/",
+				"phone_number": "773-282-0202",
+				"address": {
+					"coordinates": "41.9403549,-87.725371",
+					"address": "3255 N Milwakee\tChicago\tIL\t60618"
+				}
+			}
+		}, {
+			"id": 453,
+			"title": "Kozy&#8217;s Cyclery &#8211; Northside",
+			"custom_fields": {
+				"website": "http:\/\/kozy.com\/",
+				"phone_number": "773-281-2263",
+				"address": {
+					"coordinates": "41.949603,-87.64984199999998",
+					"address": "3712 N Halsted Street\tChicago\tIL\t60613-3910"
+				}
+			}
+		}, {
+			"id": 452,
+			"title": "Free Range Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.freerangecycles.com\/",
+				"phone_number": "(206) 547-8407",
+				"address": {
+					"coordinates": "47.6516891,-122.35467699999998",
+					"address": "3501 Phinney Ave. N\tSeattle\tWA\t98103-8625"
+				}
+			}
+		}, {
+			"id": 451,
+			"title": "Bend Velo",
+			"custom_fields": {
+				"website": "http:\/\/www.bendvelo.com\/",
+				"phone_number": "541-382-2453",
+				"address": {
+					"coordinates": "44.062131,-121.30516699999998",
+					"address": "1212 NE 1st St \tBend\tOR\t97701"
+				}
+			}
+		}, {
+			"id": 449,
+			"title": "Fairmount Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.fairmountbicycles.com\/",
+				"phone_number": "267-507-9370",
+				"address": {
+					"coordinates": "39.967469,-75.17082490000001",
+					"address": "2015 Fairmount Ave\tPhilladelphia\tPA\t19130"
+				}
+			}
+		}, {
+			"id": 447,
+			"title": "Bikes &#038; More",
+			"custom_fields": {
+				"website": "http:\/\/bikesandmoregainesville.com\/",
+				"phone_number": "352-373-6574",
+				"address": {
+					"coordinates": "29.672692,-82.3305092",
+					"address": "2133 NW 6th St\tGainesville\tFL\t32601"
+				}
+			}
+		}, {
+			"id": 445,
+			"title": "Silverdale Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.silverdalecyclery.com\/",
+				"phone_number": "360-692-5508",
+				"address": {
+					"coordinates": "47.6471486,-122.69731260000003",
+					"address": "9242 Silverdale Way NW\tSilverdale\tWA\t98383-9197"
+				}
+			}
+		}, {
+			"id": 444,
+			"title": "Huckleberry Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.huckleberrybicycles.com\/",
+				"phone_number": "415-484-6575",
+				"address": {
+					"coordinates": "37.7809058,-122.411722",
+					"address": "1073 Market St\tSan Francisco\tCA\t94103"
+				}
+			}
+		}, {
+			"id": 442,
+			"title": "Bicycle Revolutions",
+			"custom_fields": {
+				"website": "http:\/\/www.bicyclerevolutions.com\/",
+				"phone_number": "215-629-2453",
+				"address": {
+					"coordinates": "39.9402436,-75.14954999999997",
+					"address": "756 S 4th St\tPhiladelphia\tPA\t19147"
+				}
+			}
+		}, {
+			"id": 441,
+			"title": "Elliott Bay Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/elliottbaybicycles.com\/",
+				"phone_number": "206-441-8144",
+				"address": {
+					"coordinates": "47.6115994,-122.34529329999998",
+					"address": "2116 Western Ave\tSeattle\tWA\t98121-2110"
+				}
+			}
+		}, {
+			"id": 439,
+			"title": "Palo Alto Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.paloaltobicycles.com\/",
+				"phone_number": "650-328-7411",
+				"address": {
+					"coordinates": "37.4445088,-122.1630338",
+					"address": "171 University Avenue\tPalo Alto\tCA\t94301-1633"
+				}
+			}
+		}, {
+			"id": 437,
+			"title": "Bicycle Way of Life &#8211; West 11th",
+			"custom_fields": {
+				"website": "http:\/\/bicycleway.com\/",
+				"phone_number": "541-343-2250",
+				"address": {
+					"coordinates": "44.0473715,-123.15337390000002",
+					"address": "3870 W 11th Ave\tEugene\tOR\t97402"
+				}
+			}
+		}, {
+			"id": 436,
+			"title": "Bicycle Way of Life &#8211; Charnelton",
+			"custom_fields": {
+				"website": "http:\/\/bicycleway.com\/",
+				"phone_number": "541-344-4105",
+				"address": {
+					"coordinates": "44.05369,-123.09614299999998",
+					"address": "556 Charnelton St\tEugene\tOR\t97401"
+				}
+			}
+		}, {
+			"id": 435,
+			"title": "Bicycle Way of Life &#8211; Alder",
+			"custom_fields": {
+				"website": "http:\/\/bicycleway.com\/",
+				"phone_number": "541-342-6155",
+				"address": {
+					"coordinates": "44.0325289,-123.08065999999996",
+					"address": "2480 Alder Street\tEugene\tOR\t97405"
+				}
+			}
+		}, {
+			"id": 434,
+			"title": "The Freewheel Bicycle Shop- Hayes",
+			"custom_fields": {
+				"website": "http:\/\/www.thefreewheel.com\/",
+				"phone_number": "415-752-9195",
+				"address": {
+					"coordinates": "37.773876,-122.44815399999999",
+					"address": "1920 Hayes St\tSan Francisco\tCA\t94117"
+				}
+			}
+		}, {
+			"id": 433,
+			"title": "The Freewheel Bicycle Shop- Valencia",
+			"custom_fields": {
+				"website": "http:\/\/www.thefreewheel.com\/",
+				"phone_number": "415-643-9213",
+				"address": {
+					"coordinates": "37.758226,-122.421332",
+					"address": "914 Valencia Street\tSan Francisco\tCA\t94110-2321"
+				}
+			}
+		}, {
+			"id": 431,
+			"title": "Lickton&#8217;s Supply",
+			"custom_fields": {
+				"website": "http:\/\/www.lickbike.com\/",
+				"phone_number": "800-323-4083",
+				"address": {
+					"coordinates": "41.888632,-87.78369699999996",
+					"address": "310 Lake Street\tOak Park\tIL\t60302-2604"
+				}
+			}
+		}, {
+			"id": 425,
+			"title": "Redbeard Bike",
+			"custom_fields": {
+				"website": "http:\/\/redbeardbikes.com",
+				"phone_number": "718-858-2453",
+				"address": {
+					"coordinates": "40.7024365,-73.98664810000002",
+					"address": "165 Front St.\tBrooklyn\tNY\t11201"
+				}
+			}
+		}, {
+			"id": 424,
+			"title": "The Bike Rack",
+			"custom_fields": {
+				"website": "http:\/\/thebikerackdc.com\/",
+				"phone_number": "(202)-387-2453",
+				"address": {
+					"coordinates": "38.9110185,-77.03258900000003",
+					"address": "1412 Q Street NW\tWashington\tDC\t20009"
+				}
+			}
+		}, {
+			"id": 423,
+			"title": "Adventures Edge &#8211; Eureka",
+			"custom_fields": {
+				"website": "http:\/\/www.adventuresedge.com\/",
+				"phone_number": "707-445-1711",
+				"address": {
+					"coordinates": "40.800591,-124.17394000000001",
+					"address": "125 W 5th Street\tEureka\tCA\t95501"
+				}
+			}
+		}, {
+			"id": 422,
+			"title": "Adventures Edge-Arcata",
+			"custom_fields": {
+				"website": "http:\/\/www.adventuresedge.com\/",
+				"phone_number": "707-822-1652",
+				"address": {
+					"coordinates": "40.8695657,-124.0849245",
+					"address": "650 10th St\tArcata\tCA\t95521"
+				}
+			}
+		}, {
+			"id": 420,
+			"title": "The Old Spokes Home",
+			"custom_fields": {
+				"website": "http:\/\/www.oldspokeshome.com\/",
+				"phone_number": "802-863-4475",
+				"address": {
+					"coordinates": "44.488299,-73.20699200000001",
+					"address": "322 North Winooski Ave\tBurlington\tVT\t05401"
+				}
+			}
+		}, {
+			"id": 419,
+			"title": "Broadway Bicycle School",
+			"custom_fields": {
+				"website": "http:\/\/broadwaybicycleschool.com\/",
+				"phone_number": "617-868-3392",
+				"address": {
+					"coordinates": "42.37038990000001,-71.10338039999999",
+					"address": "351 Broadway\tCambridge\tMA\t02139-1715"
+				}
+			}
+		}, {
+			"id": 418,
+			"title": "Saturday Cycles",
+			"custom_fields": {
+				"website": "http:\/\/saturdaycycles.com\/",
+				"phone_number": "801-935-4605",
+				"address": {
+					"coordinates": "40.7826558,-111.89998159999999",
+					"address": "605 N 300 W.\tSalt Lake City\tUT\t84103"
+				}
+			}
+		}, {
+			"id": 416,
+			"title": "Cycle Smithy",
+			"custom_fields": {
+				"website": "http:\/\/www.cyclesmithy.com\/",
+				"phone_number": "773-281-0444",
+				"address": {
+					"coordinates": "41.9273284,-87.64178559999999",
+					"address": "2468 N Clark St \tChicago\tIL\t60614"
+				}
+			}
+		}, {
+			"id": 412,
+			"title": "The Spokesman",
+			"custom_fields": {
+				"website": "http:\/\/www.spokesmanbicycles.com\/",
+				"phone_number": "831-429-6062",
+				"address": {
+					"coordinates": "36.9714077,-122.02648590000001",
+					"address": "231 Cathcart Street\tSanta Cruz\tCA\t95060-4419"
+				}
+			}
+		}, {
+			"id": 410,
+			"title": "Johnny Sprockets- Bryn Mawr",
+			"custom_fields": {
+				"website": "http:\/\/johnnysprockets.com\/",
+				"phone_number": "773-293-1695",
+				"address": {
+					"coordinates": "41.9837281,-87.65742460000001",
+					"address": "1052 W Bryn Mawr\tChicago\tIL\t60660"
+				}
+			}
+		}, {
+			"id": 409,
+			"title": "Johnny Sprockets",
+			"custom_fields": {
+				"website": "http:\/\/johnnysprockets.com\/",
+				"phone_number": "773-244-1079",
+				"address": {
+					"coordinates": "41.9365128,-87.64427469999998",
+					"address": "3001 N. Broadway Street\tChicago\tIL\t60657-5315"
+				}
+			}
+		}, {
+			"id": 408,
+			"title": "Bikes Not Bombs",
+			"custom_fields": {
+				"website": "https:\/\/bikesnotbombs.org\/",
+				"phone_number": "617-522-0222",
+				"address": {
+					"coordinates": "42.3147124,-71.10456479999999",
+					"address": "284 Amory St \tJamaica Plain\tMA\t02130-2678"
+				}
+			}
+		}, {
+			"id": 407,
+			"title": "West End Bikes",
+			"custom_fields": {
+				"website": "http:\/\/westendbikespdx.com\/",
+				"phone_number": "(503)-208-2933",
+				"address": {
+					"coordinates": "45.5223191,-122.6821473",
+					"address": "1111 SW Stark St\tPortland\tOR\t97205"
+				}
+			}
+		}, {
+			"id": 406,
+			"title": "Freewheel Bicycle Co-op- Eden Prairie",
+			"custom_fields": {
+				"website": "http:\/\/freewheelbike.com\/",
+				"phone_number": "952-377-2230",
+				"address": {
+					"coordinates": "44.864401,-93.44019000000003",
+					"address": "12910 Plaza Drive\tEden Prairie\tMN\t55344"
+				}
+			}
+		}, {
+			"id": 405,
+			"title": "Freewheel Bicycle Co-op- Midtown",
+			"custom_fields": {
+				"website": "http:\/\/freewheelbike.com\/",
+				"phone_number": "612-238-4447",
+				"address": {
+					"coordinates": "44.9504539,-93.26030550000001",
+					"address": "2834 10th Ave S\tMinneapolis\tMN\t55407"
+				}
+			}
+		}, {
+			"id": 404,
+			"title": "Freewheel Bicycle Co-op- Westbank",
+			"custom_fields": {
+				"website": "http:\/\/freewheelbike.com\/",
+				"phone_number": "612-339-2219",
+				"address": {
+					"coordinates": "44.968092,-93.246488",
+					"address": "1812 S 6th St\tMinneapolis\tMN\t55454"
+				}
+			}
+		}, {
+			"id": 403,
+			"title": "Montlake Bicycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.montlakebike.com\/",
+				"phone_number": "206-329-7333",
+				"address": {
+					"coordinates": "47.639379,-122.30234200000001",
+					"address": "2223 24th Ave E\tSeattle\tWA\t98112-3038"
+				}
+			}
+		}, {
+			"id": 402,
+			"title": "Landry&#8217;s Bicycles-Westborough",
+			"custom_fields": {
+				"website": "http:\/\/www.landrys.com\/",
+				"phone_number": "508-836-3878",
+				"address": {
+					"coordinates": "42.2819476,-71.64412060000001",
+					"address": "276 Turnpike Road\tWestborough\tMA\t01581"
+				}
+			}
+		}, {
+			"id": 401,
+			"title": "Landry&#8217;s Bicycles-Norwood",
+			"custom_fields": {
+				"website": "http:\/\/www.landrys.com\/",
+				"phone_number": "781-440-0310",
+				"address": {
+					"coordinates": "42.171236,-71.19454389999998",
+					"address": "1210 Boston-Providence Turnpike\tNorwood\tMA\t02062"
+				}
+			}
+		}, {
+			"id": 400,
+			"title": "Landry&#8217;s Bicycles-Natick",
+			"custom_fields": {
+				"website": "http:\/\/www.landrys.com\/",
+				"phone_number": "508-655-1990",
+				"address": {
+					"coordinates": "42.3002617,-71.3566897",
+					"address": "790 Worcester Street\tNatick\tMA\t01760"
+				}
+			}
+		}, {
+			"id": 399,
+			"title": "Landry&#8217;s Bicycles-Boston",
+			"custom_fields": {
+				"website": "http:\/\/www.landrys.com\/",
+				"phone_number": "617-232-0446",
+				"address": {
+					"coordinates": "42.35087559999999,-71.1155286",
+					"address": "890 Commonwealth Avenue\tBoston\tMA\t02215"
+				}
+			}
+		}, {
+			"id": 398,
+			"title": "Golden Saddle Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/goldensaddlecyclery.com\/",
+				"phone_number": "323-661-1174",
+				"address": {
+					"coordinates": "34.0914704,-118.27835240000001",
+					"address": "1618 Lucile Ave.\tLos Angeles\tCA\t90026"
+				}
+			}
+		}, {
+			"id": 396,
+			"title": "Catrikes",
+			"custom_fields": {
+				"website": "http:\/\/www.catrike.com\/",
+				"phone_number": "407-999-0200",
+				"address": {
+					"coordinates": "28.5674707,-81.40760499999999",
+					"address": "2016 Stanhome Way\tOrlando\tFL\t32804"
+				}
+			}
+		}, {
+			"id": 395,
+			"title": "Silk Road Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.silkroadcycles.net\/",
+				"phone_number": "718-389-2222",
+				"address": {
+					"coordinates": "40.72720289999999,-73.95689800000002",
+					"address": "76 Franklin St\tBrooklyn\tNY\t11222"
+				}
+			}
+		}, {
+			"id": 392,
+			"title": "Peter White Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.peterwhitecycles.com\/",
+				"phone_number": "603-478-0900",
+				"address": {
+					"coordinates": "43.124774,-71.96988449999998",
+					"address": "24 Hall Road\tHillsborough\tNH\t03244-4609"
+				}
+			}
+		}, {
+			"id": 389,
+			"title": "Rivendell Bicycle Works",
+			"custom_fields": {
+				"website": "http:\/\/www.rivbike.com\/",
+				"phone_number": "800-345-3918",
+				"address": {
+					"coordinates": "37.908184,-122.06339000000002",
+					"address": "2040 N Main Street\tWalnut Creek\tCA\t94596-3702"
+				}
+			}
+		}, {
+			"id": 388,
+			"title": "Race Pace Bicycles-Westminster",
+			"custom_fields": {
+				"website": "http:\/\/racepacebicycles.com\/",
+				"phone_number": "410-876-3001",
+				"address": {
+					"coordinates": "39.5759924,-76.99488840000003",
+					"address": "1 Railroad Ave\tWestminster\tMD\t21157"
+				}
+			}
+		}, {
+			"id": 387,
+			"title": "Race Pace Bicycles-Owings Mills",
+			"custom_fields": {
+				"website": "http:\/\/racepacebicycles.com\/",
+				"phone_number": "410-581-9700",
+				"address": {
+					"coordinates": "39.41166940000001,-76.7691883",
+					"address": "9930 Reisterstown Road\tOwings Mills \tMD\t21117"
+				}
+			}
+		}, {
+			"id": 385,
+			"title": "Race Pace Bicycles-Ellicott City",
+			"custom_fields": {
+				"website": "http:\/\/racepacebicycles.com\/",
+				"phone_number": "410-461-7878",
+				"address": {
+					"coordinates": "39.2864814,-76.80653029999996",
+					"address": "8450 Baltimore National Pike\tEllicott City\tMD\t21043"
+				}
+			}
+		}, {
+			"id": 384,
+			"title": "Race Pace Bicycles- Columbia",
+			"custom_fields": {
+				"website": "http:\/\/racepacebicycles.com\/",
+				"phone_number": "410-290-6880",
+				"address": {
+					"coordinates": "39.18057599999999,-76.82558999999997",
+					"address": "6925 Oakland Mills Road\tColumbia\tMD\t21045"
+				}
+			}
+		}, {
+			"id": 383,
+			"title": "Race Pace Bicycles- Baltimore",
+			"custom_fields": {
+				"website": "http:\/\/racepacebicycles.com\/",
+				"phone_number": "410-986-0001",
+				"address": {
+					"coordinates": "39.2740625,-76.60347059999998",
+					"address": "1410 Key Highway\tBaltimore\tMD\t21230"
+				}
+			}
+		}, {
+			"id": 382,
+			"title": "The Hub Bicycle Co-op &#8211; U of M",
+			"custom_fields": {
+				"website": "http:\/\/thehubbikecoop.org\/",
+				"phone_number": "612-624-9468",
+				"address": {
+					"coordinates": "44.9722584,-93.22696480000002",
+					"address": "401 Oak St SE\tMinneapolis\tMN\t55414"
+				}
+			}
+		}, {
+			"id": 381,
+			"title": "The Hub Bicycle Co-op &#8211; West Bank",
+			"custom_fields": {
+				"website": "http:\/\/thehubbikecoop.org\/",
+				"phone_number": "612-238-3593",
+				"address": {
+					"coordinates": "44.97099799999999,-93.24695500000001",
+					"address": "301 Cedar Ave S\tMinneapolis\tMN\t55454"
+				}
+			}
+		}, {
+			"id": 380,
+			"title": "The Hub Bicycle Co-op",
+			"custom_fields": {
+				"website": "http:\/\/thehubbikecoop.org\/",
+				"phone_number": "612-729-0437",
+				"address": {
+					"coordinates": "44.947587,-93.23425900000001",
+					"address": "3020 Minnehaha Avenue\tMinneapolis\tMN\t55406-1932"
+				}
+			}
+		}, {
+			"id": 379,
+			"title": "NorCal Bike Sport",
+			"custom_fields": {
+				"website": "http:\/\/norcalcycling.com\/",
+				"phone_number": "707-573-0112",
+				"address": {
+					"coordinates": "38.445998,-122.719469",
+					"address": "425 College Avenue\tSanta Rosa\tCA\t95401-5119"
+				}
+			}
+		}, {
+			"id": 378,
+			"title": "The Sports Basement- Campbell",
+			"custom_fields": {
+				"website": "http:\/\/www.sportsbasement.com\/stores\/campbell\/",
+				"phone_number": "408-377-3628",
+				"address": {
+					"coordinates": "37.2880227,-121.93269650000002",
+					"address": "1875 S Bascom Ave, Ste 240\tCampbell\tCA\t95008"
+				}
+			}
+		}, {
+			"id": 377,
+			"title": "The Sports Basement-Walnut Creek",
+			"custom_fields": {
+				"website": "http:\/\/www.sportsbasement.com\/stores\/walnut-creek\/",
+				"phone_number": "925-941-6100",
+				"address": {
+					"coordinates": "37.9186118,-122.0368489",
+					"address": "1881 Ygnacio Valley Road\tWalnut Creek\tCA\t94598"
+				}
+			}
+		}, {
+			"id": 376,
+			"title": "The Sports Basement- Sunnyvale",
+			"custom_fields": {
+				"website": "http:\/\/www.sportsbasement.com\/stores\/sunnyvale\/",
+				"phone_number": "408-732-0300",
+				"address": {
+					"coordinates": "37.382779,-121.9964129",
+					"address": "1177 Kern Ave\tSunnyvale\tCA\t94085"
+				}
+			}
+		}, {
+			"id": 375,
+			"title": "The Sports Basement- Bryant",
+			"custom_fields": {
+				"website": "http:\/\/www.sportsbasement.com\/stores\/bryant-street\/",
+				"phone_number": "415-575-3000",
+				"address": {
+					"coordinates": "37.7669578,-122.41079660000002",
+					"address": "1590 Bryant St\tSan Francisco\tCA\t94103"
+				}
+			}
+		}, {
+			"id": 374,
+			"title": "The Sports Basement- Old Mason",
+			"custom_fields": {
+				"website": "http:\/\/www.sportsbasement.com\/stores\/presidio\/",
+				"phone_number": "415-437-0100",
+				"address": {
+					"coordinates": "37.8028839,-122.4591279",
+					"address": "610 Old Mason St\tSan Francisco\tCA\t94129"
+				}
+			}
+		}, {
+			"id": 373,
+			"title": "Bayou Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/bayoubicycles.com\/",
+				"phone_number": "504-488-1946",
+				"address": {
+					"coordinates": "29.974937,-90.09195699999998",
+					"address": "3530 Toulouse Street\tNew Orleans\tLA\t70119"
+				}
+			}
+		}, {
+			"id": 372,
+			"title": "Bicycle Michael&#8217;s",
+			"custom_fields": {
+				"website": "http:\/\/www.bicyclemichaels.com\/",
+				"phone_number": "504-945-9505",
+				"address": {
+					"coordinates": "29.9640682,-90.05787459999999",
+					"address": "622 Frenchmen Street\tNew Orleans\tLA\t70116"
+				}
+			}
+		}, {
+			"id": 370,
+			"title": "Corvallis Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.corvalliscyclery.com\/",
+				"phone_number": "541-752-5952",
+				"address": {
+					"coordinates": "44.561289,-123.26138700000001",
+					"address": "344 SW 2nd Street\tCorvallis\tOR\t97333-4632"
+				}
+			}
+		}, {
+			"id": 369,
+			"title": "Thick Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.thickbikes.com\/",
+				"phone_number": "412-390-3590",
+				"address": {
+					"coordinates": "40.429196,-79.98358250000001",
+					"address": "1408 Bingham Street\tPittsburgh\tPA\t15203"
+				}
+			}
+		}, {
+			"id": 368,
+			"title": "The Peddler Bike Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.peddlerbike.com\/",
+				"phone_number": "512-220-6766",
+				"address": {
+					"coordinates": "30.3139768,-97.7200307",
+					"address": "5015 Duval St\tAustin\tTX\t78751"
+				}
+			}
+		}, {
+			"id": 367,
+			"title": "9th Street Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.9thstreetcycles.com\/",
+				"phone_number": "718-768-2453",
+				"address": {
+					"coordinates": "40.6682443,-73.9839895",
+					"address": "375 9th Street\tBrooklyn\tNY\t11215"
+				}
+			}
+		}, {
+			"id": 366,
+			"title": "Bike Friday",
+			"custom_fields": {
+				"website": "http:\/\/www.bikefriday.com\/",
+				"phone_number": "1-800-777-0258",
+				"address": {
+					"coordinates": "44.046974,-123.14245800000003",
+					"address": "3364 West 11th Ave \tEugene\tOR\t97402"
+				}
+			}
+		}, {
+			"id": 365,
+			"title": "Harris Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/harriscyclery.net\/",
+				"phone_number": "(617) 244-1040",
+				"address": {
+					"coordinates": "42.34879919999999,-71.22862520000001",
+					"address": "1353 Washington ST\tNewton\tMA\t02465-2004"
+				}
+			}
+		}, {
+			"id": 360,
+			"title": "Andy &#038; Bax",
+			"custom_fields": {
+				"website": "http:\/\/www.andyandbax.com\/",
+				"phone_number": "503-234-7538",
+				"address": {
+					"coordinates": "45.5206703,-122.66050009999998",
+					"address": "324 SE Grand Avenue\tPortland\tOR\t97214"
+				}
+			}
+		}, {
+			"id": 357,
+			"title": "Orange 20 Bikes",
+			"custom_fields": {
+				"website": "http:\/\/orange20bikes.com\/",
+				"phone_number": "323-662-4537",
+				"address": {
+					"coordinates": "34.0837058,-118.2951703",
+					"address": "4351 Melrose Ave\tLos Angeles\tCA\t90029-3542"
+				}
+			}
+		}, {
+			"id": 355,
+			"title": "The New Wheel",
+			"custom_fields": {
+				"website": "http:\/\/www.newwheel.net\/",
+				"phone_number": "415-524-7362",
+				"address": {
+					"coordinates": "37.7391183,-122.41725889999998",
+					"address": "420 Cortland Ave.\tSan Francisco\tCA\t94110"
+				}
+			}
+		}, {
+			"id": 354,
+			"title": "Bicycle Sport Shop- Parmer",
+			"custom_fields": {
+				"website": "http:\/\/bicyclesportshop.com\/",
+				"phone_number": "512-637-6890",
+				"address": {
+					"coordinates": "30.486597,-97.76970899999998",
+					"address": "9900 W Parmer Ln\tAustin\tTX\t78717"
+				}
+			}
+		}, {
+			"id": 353,
+			"title": "Bicycle Sport Shop- Research",
+			"custom_fields": {
+				"website": "http:\/\/bicyclesportshop.com\/",
+				"phone_number": "512-345-7460",
+				"address": {
+					"coordinates": "30.40250399999999,-97.74474499999996",
+					"address": "10947 Research Blvd\tAustin\tTX\t78759"
+				}
+			}
+		}, {
+			"id": 352,
+			"title": "Bicycle Sport Shop",
+			"custom_fields": {
+				"website": "http:\/\/bicyclesportshop.com\/",
+				"phone_number": "512-477-3472",
+				"address": {
+					"coordinates": "30.25964299999999,-97.758396",
+					"address": "517 S. Lamar Blvd\tAustin\tTX\t78704"
+				}
+			}
+		}, {
+			"id": 351,
+			"title": "CounterBalance Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/www.counterbalancebicycles.com",
+				"phone_number": "206-922-3555",
+				"address": {
+					"coordinates": "47.6647553,-122.29582720000002",
+					"address": "2943 NE Blakeley Street\tSeattle\tWA\t98105-3120"
+				}
+			}
+		}, {
+			"id": 350,
+			"title": "Circle City Bicycle &#038; Fitness",
+			"custom_fields": {
+				"website": "http:\/\/circlecitybicycles.com\/",
+				"phone_number": "317 786 9244",
+				"address": {
+					"coordinates": "39.686709,-86.13561849999996",
+					"address": "5506 Madison Avenue\tIndianapolis\tIN\t46227-4669"
+				}
+			}
+		}, {
+			"id": 349,
+			"title": "Cambridge Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/cambridgebicycle.com\/",
+				"phone_number": "617-876-6555",
+				"address": {
+					"coordinates": "42.3619592,-71.09733510000001",
+					"address": "259 Massachusetts Ave\tCambridge\tMA\t02139-4257"
+				}
+			}
+		}, {
+			"id": 348,
+			"title": "Revolution Cycles- Rockville",
+			"custom_fields": {
+				"website": "http:\/\/revolutioncycles.com\/",
+				"phone_number": "301-424-0990",
+				"address": {
+					"coordinates": "39.0720241,-77.13294880000001",
+					"address": "1066 Rockville Pike\tRockville\tMD\t20852"
+				}
+			}
+		}, {
+			"id": 347,
+			"title": "Revolution Cycles- Clarendon",
+			"custom_fields": {
+				"website": "http:\/\/revolutioncycles.com\/",
+				"phone_number": "703-312-0007",
+				"address": {
+					"coordinates": "38.8893836,-77.0916633",
+					"address": "2731 Wilson Blvd, Arlington, VA 22201"
+				}
+			}
+		}, {
+			"id": 346,
+			"title": "Revolution Cycles-Georgetown",
+			"custom_fields": {
+				"website": "http:\/\/revolutioncycles.com\/",
+				"phone_number": "202-965-3601",
+				"address": {
+					"coordinates": "38.905173324826656,-77.06830322742468",
+					"address": "3411 M Street Northwest, Washington, DC 20007, USA"
+				}
+			}
+		}, {
+			"id": 345,
+			"title": "Revolution Cycles- Stafford",
+			"custom_fields": {
+				"website": "http:\/\/revolutioncycles.com\/",
+				"phone_number": "540-657-6900",
+				"address": {
+					"coordinates": "38.45632767046106,-77.40737199783325",
+					"address": "2773 Jefferson Davis Highway, Stafford, VA 22554, USA"
+				}
+			}
+		}, {
+			"id": 344,
+			"title": "Box Dog Bikes",
+			"custom_fields": {
+				"website": "http:\/\/www.boxdogbikes.com\/",
+				"phone_number": "415-431-9627",
+				"address": {
+					"coordinates": "37.76809412377135,-122.42410898208618",
+					"address": "494 14th Street, San Francisco, CA 94103, USA"
+				}
+			}
+		}, {
+			"id": 343,
+			"title": "Valencia Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/www.valenciacyclery.com\/",
+				"phone_number": "415-550-6600",
+				"address": {
+					"coordinates": "37.75577005282696,-122.42088496685028",
+					"address": "1077 Valencia Street, San Francisco, CA 94110, USA"
+				}
+			}
+		}, {
+			"id": 342,
+			"title": "Calhoun Cycle",
+			"custom_fields": {
+				"website": "http:\/\/www.calhouncycle.com\/",
+				"phone_number": "612-827-8000",
+				"address": {
+					"coordinates": "44.94157587611645,-93.29843580722809",
+					"address": "3342 Hennepin Avenue, Minneapolis, MN 55408, USA"
+				}
+			}
+		}, {
+			"id": 340,
+			"title": "Second Ascent",
+			"custom_fields": {
+				"website": "http:\/\/secondascent.com\/",
+				"phone_number": "206-545-8810",
+				"address": {
+					"coordinates": "47.665636633183816,-122.38248646259308",
+					"address": "5209 Ballard Avenue Northwest, Seattle, WA 98107, USA"
+				}
+			}
+		}, {
+			"id": 338,
+			"title": "Ride Brooklyn- Williamsburg",
+			"custom_fields": {
+				"website": "http:\/\/ridebrooklynny.com\/",
+				"phone_number": "718-387-2453",
+				"address": {
+					"coordinates": "40.72033522733092,-73.96189481019974",
+					"address": "52 North 7th Street, Brooklyn, NY 11211, USA"
+				}
+			}
+		}, {
+			"id": 337,
+			"title": "Ride Brooklyn -Bergen",
+			"custom_fields": {
+				"website": "http:\/\/ridebrooklynny.com\/",
+				"phone_number": "347-599-1340",
+				"address": {
+					"coordinates": "40.680930930031366,-73.97574573755264",
+					"address": "468 Bergen Street, Brooklyn, NY 11217, USA"
+				}
+			}
+		}, {
+			"id": 336,
+			"title": "Bike N&#8217; Hike- Beaverton",
+			"custom_fields": {
+				"website": "http:\/\/www.bikenhike.com\/",
+				"phone_number": "503-646-6363",
+				"address": {
+					"coordinates": "45.48640273495913,-122.78114318847656",
+					"address": "10120 Southwest Beaverton-Hillsdale Highway, Beaverton, OR 97005, USA"
+				}
+			}
+		}, {
+			"id": 335,
+			"title": "Bike N&#8217; Hike -Albany",
+			"custom_fields": {
+				"website": "http:\/\/www.bikenhike.com\/",
+				"phone_number": "541-928-2143",
+				"address": {
+					"coordinates": "44.63694080942845,-123.10905933380127",
+					"address": "400-498 West 1st Avenue, Albany, OR 97321, USA"
+				}
+			}
+		}, {
+			"id": 334,
+			"title": "Bike N&#8217; Hike -Corvallis",
+			"custom_fields": {
+				"website": "http:\/\/www.bikenhike.com\/",
+				"phone_number": "541-753-2912",
+				"address": {
+					"coordinates": "44.5611356829869,-123.2622241973877",
+					"address": "401 Southwest 3rd Street, Corvallis, OR 97333, USA"
+				}
+			}
+		}, {
+			"id": 333,
+			"title": "Bike N&#8217; Hike -Milwaukie",
+			"custom_fields": {
+				"website": "http:\/\/www.bikenhike.com\/",
+				"phone_number": "503-653-2742",
+				"address": {
+					"coordinates": "45.41389152368834,-122.63001143932342",
+					"address": "15080-15098 Southeast McLoughlin Boulevard, Oak Grove, OR 97267, USA"
+				}
+			}
+		}, {
+			"id": 332,
+			"title": "Bike N&#8217; Hike- Hillsboro",
+			"custom_fields": {
+				"website": "http:\/\/www.bikenhike.com\/",
+				"phone_number": "503-681-0594",
+				"address": {
+					"coordinates": "45.52225505311702,-122.98430442810058",
+					"address": "156 Southeast 4th Avenue, Hillsboro, OR 97123, USA"
+				}
+			}
+		}, {
+			"id": 331,
+			"title": "Bike N&#8217; Hike-Portland",
+			"custom_fields": {
+				"website": "http:\/\/www.bikenhike.com\/",
+				"phone_number": "503-736-1074",
+				"address": {
+					"coordinates": "45.51998112444606,-122.6605886220932",
+					"address": "400 Southeast Grand Avenue, Portland, OR 97214, USA"
+				}
+			}
+		}, {
+			"id": 330,
+			"title": "Missing Link Bicycle",
+			"custom_fields": {
+				"website": "http:\/\/www.missinglink.org\/",
+				"phone_number": "510-843-7471",
+				"address": {
+					"coordinates": "37.87250325141446,-122.26846575737",
+					"address": "1988 Shattuck Avenue, Berkeley, CA 94704, USA"
+				}
+			}
+		}, {
+			"id": 329,
+			"title": "Clever Cycles",
+			"custom_fields": {
+				"website": "http:\/\/clevercycles.com\/",
+				"phone_number": "503-334-1560",
+				"address": {
+					"coordinates": "45.51215134148343,-122.65648886561394",
+					"address": "900 Southeast Hawthorne Boulevard, Portland, OR 97214, USA"
+				}
+			}
+		}, {
+			"id": 328,
+			"title": "Citybikes Workers&#8217; Co-Op",
+			"custom_fields": {
+				"website": "http:\/\/www.citybikes.coop\/",
+				"phone_number": "503-239-0553",
+				"address": {
+					"coordinates": "45.52207840409954,-122.64615297317505",
+					"address": "1914 Southeast Ankeny Street, Portland, OR 97214, USA"
+				}
+			}
+		}, {
+			"id": 327,
+			"title": "PSU Bike Hub",
+			"custom_fields": {
+				"website": "http:\/\/www.pdx.edu\/bikehub\/home",
+				"phone_number": "503-725-9006",
+				"address": {
+					"coordinates": "45.5111739517212,-122.68277049064636",
+					"address": "1818 Southwest 6th Avenue, Portland, OR 97201, USA"
+				}
+			}
+		}, {
+			"id": 326,
+			"title": "Pro Bikes-Bethel Park",
+			"custom_fields": {
+				"website": "http:\/\/www.probikesllc.com\/",
+				"phone_number": "412-851-1109",
+				"address": {
+					"coordinates": "40.3406728488478,-80.05203008651733",
+					"address": "102 Fort Couch Road, Pittsburgh, PA 15241, USA"
+				}
+			}
+		}, {
+			"id": 325,
+			"title": "Pro Bikes-Monroeville",
+			"custom_fields": {
+				"website": "http:\/\/www.probikesllc.com\/",
+				"phone_number": "412-229-8473",
+				"address": {
+					"coordinates": "40.43868385579089,-79.76885318756103",
+					"address": "4030 William Penn Highway, Miracle Mile Shopping Center, Monroeville, PA 15146, USA"
+				}
+			}
+		}, {
+			"id": 324,
+			"title": "Pro Bikes-Pittsburgh",
+			"custom_fields": {
+				"website": "http:\/\/www.probikesllc.com\/",
+				"phone_number": "412-586-5497",
+				"address": {
+					"coordinates": "40.43799793155861,-79.91996884346008",
+					"address": "5876 Forbes Avenue, Pittsburgh, PA 15217, USA"
+				}
+			}
+		}, {
+			"id": 323,
+			"title": "American Cyclery",
+			"custom_fields": {
+				"website": "http:\/\/americancyclery.com",
+				"phone_number": "415-876-4545",
+				"address": {
+					"coordinates": "37.76647421515012,-122.45281934738159",
+					"address": "858 Stanyan Street, San Francisco, CA 94117, USA"
+				}
+			}
+		}, {
+			"id": 322,
+			"title": "Recycled Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.recycledcycles.com\/",
+				"phone_number": "206-547-4491",
+				"address": {
+					"coordinates": "47.65301594860769,-122.31752872467041",
+					"address": "1007 Northeast Boat Street, Recycled Cycles, Seattle, WA 98105, USA"
+				}
+			}
+		}, {
+			"id": 321,
+			"title": "Arriving By Bike",
+			"custom_fields": {
+				"website": "http:\/\/arrivingbybike.com\/",
+				"phone_number": "541-484-5410",
+				"address": {
+					"coordinates": "44.02886490592919,-123.09030532836914",
+					"address": "2705 Willamette Street, Eugene, OR 97405, USA"
+				}
+			}
+		}, {
+			"id": 320,
+			"title": "Ace Wheelworks",
+			"custom_fields": {
+				"website": "http:\/\/wheelworks.com\/",
+				"phone_number": "617-776-2100",
+				"address": {
+					"coordinates": "42.391254249670624,-71.11861109733581",
+					"address": "145 Elm Street, Somerville, MA 02144, USA"
+				}
+			}
+		}, {
+			"id": 319,
+			"title": "Belmont Wheelworks",
+			"custom_fields": {
+				"website": "http:\/\/wheelworks.com\/",
+				"phone_number": "617-489-3577",
+				"address": {
+					"coordinates": "42.387480392908444,-71.1896587908268",
+					"address": "472-482 Trapelo Road, Belmont, MA 02478, USA"
+				}
+			}
+		}, {
+			"id": 317,
+			"title": "Bicycle Habitat- Park Slope",
+			"custom_fields": {
+				"website": "http:\/\/bicyclehabitat.com\/",
+				"phone_number": "718-788-2543",
+				"address": {
+					"coordinates": "40.66818431190024,-73.98732483386993",
+					"address": "476 5th Avenue, Brooklyn, NY 11215, USA"
+				}
+			}
+		}, {
+			"id": 316,
+			"title": "Bicycle Habitat- Chelsea",
+			"custom_fields": {
+				"website": "http:\/\/bicyclehabitat.com\/",
+				"phone_number": "212-206-6949",
+				"address": {
+					"coordinates": "40.744446603929305,-73.99561554193496",
+					"address": "228 7th Avenue, New York, NY 10011, USA"
+				}
+			}
+		}, {
+			"id": 314,
+			"title": "Bicycle Habitat- SoHo",
+			"custom_fields": {
+				"website": "http:\/\/bicyclehabitat.com\/",
+				"phone_number": "212-431-3315",
+				"address": {
+					"coordinates": "40.72283152505002,-73.99725437164306",
+					"address": "244 Lafayette Street, New York, NY 10012, USA"
+				}
+			}
+		}, {
+			"id": 312,
+			"title": "River City Bicycles",
+			"custom_fields": {
+				"website": "http:\/\/rivercitybicycles.com\/",
+				"phone_number": "503-233-5973",
+				"address": {
+					"coordinates": "45.517823626168045,-122.66144424676895",
+					"address": "706 Southeast Martin Luther King Junior Boulevard, Portland, OR 97214, USA"
+				}
+			}
+		}, {
+			"id": 311,
+			"title": "The Bike Gallery-Beaverton",
+			"custom_fields": {
+				"website": "http:\/\/www.bikegallery.com\/",
+				"phone_number": "503-641-2580",
+				"address": {
+					"coordinates": "45.488463658513716,-122.80398488044739",
+					"address": "12345 Southwest Canyon Road, Beaverton, OR 97005, USA"
+				}
+			}
+		}, {
+			"id": 310,
+			"title": "The Bike Gallery-Lake Oswego",
+			"custom_fields": {
+				"website": "http:\/\/www.bikegallery.com\/",
+				"phone_number": "503-636-1600",
+				"address": {
+					"coordinates": "45.42079742511072,-122.66553997993469",
+					"address": "200 B Avenue, Lake Oswego, OR 97034, USA"
+				}
+			}
+		}, {
+			"id": 284,
+			"title": "The Bike Gallery-Clackamas",
+			"custom_fields": {
+				"website": "",
+				"phone_number": "",
+				"address": {
+					"coordinates": "45.45579686016523,-122.57911115884781",
+					"address": "9351-9353 Southeast 82nd Avenue, Portland, OR 97222, USA"
+				}
+			}
+		}, {
+			"id": 283,
+			"title": "The Bike Gallery-Downtown",
+			"custom_fields": {
+				"website": "http:\/\/www.bikegallery.com\/",
+				"phone_number": "503-222-3821",
+				"address": {
+					"coordinates": "45.51800122823622,-122.68319562077522",
+					"address": "1001-1019 Southwest 10th Avenue, Portland, OR 97205, USA"
+				}
+			}
+		}, {
+			"id": 282,
+			"title": "The Bike Gallery- Woodstock",
+			"custom_fields": {
+				"website": "http:\/\/www.bikegallery.com\/",
+				"phone_number": "803-281-9800",
+				"address": {
+					"coordinates": "45.479301749396214,-122.61888027191162",
+					"address": "4235 Southeast Woodstock Boulevard, Portland, OR 97206, USA"
+				}
+			}
+		}, {
+			"id": 281,
+			"title": "Gregg&#8217;s Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.greggscycles.com\/",
+				"phone_number": "206-523-1822",
+				"address": {
+					"coordinates": "47.56170075451973,-122.23388671875",
+					"address": "4651 Forest Avenue Southeast, Mercer Island, WA 98040, USA"
+				}
+			}
+		}, {
+			"id": 280,
+			"title": "Universal Cycles",
+			"custom_fields": {
+				"website": "http:\/\/www.universalcycles.com\/",
+				"phone_number": "800-936-5156",
+				"address": {
+					"coordinates": "45.52279627218582,-122.6432991027832",
+					"address": "2202 East Burnside Street, Portland, OR 97214, USA"
+				}
+			}
+		}, {
+			"id": 279,
+			"title": "Modern Bike",
+			"custom_fields": {
+				"website": "http:\/\/www.modernbike.com\/",
+				"phone_number": "515-263-2000",
+				"address": {
+					"coordinates": "41.626542548199076,-93.59652042388916",
+					"address": "1515 East Euclid Avenue, Des Moines, IA 50316, USA"
+				}
+			}
+		}, {
+			"id": 275,
+			"title": "The Bike Gallery",
+			"custom_fields": {
+				"website": "www.bikegallery.com",
+				"phone_number": "503-282-3455",
+				"address": {
+					"coordinates": "45.54042292545117,-122.60913849662756",
+					"address": "5235-5253 Northeast Sandy Boulevard, Portland, OR 97213, USA"
+				}
+			}
+		}, {
+			"id": 127,
+			"title": "Old Town Bicycle &#8211; Olympia",
+			"custom_fields": {
+				"website": "http:\/\/oldtownbicycle.com\/",
+				"phone_number": "(360) 943-7661",
+				"address": {
+					"coordinates": "47.044291,-122.90123599999998",
+					"address": "420 Capitol Way South Olympia, WA 98501"
+				}
+			}
+		}, {
+			"id": 126,
+			"title": "Old Town Bicycle &#8211; Tacoma",
+			"custom_fields": {
+				"website": "http:\/\/oldtownbicycle.com\/",
+				"phone_number": "(253) 573-9400 ",
+				"address": {
+					"coordinates": "47.275076,-122.46511190000001",
+					"address": "3009 McCarver St Tacoma, WA 98403"
+				}
+			}
+		}, {
+			"id": 125,
+			"title": "Old Town Bicycle &#8211; Gig Harbor",
+			"custom_fields": {
+				"website": "http:\/\/oldtownbicycle.com\/",
+				"phone_number": "(253) 858-8040",
+				"address": {
+					"coordinates": "47.32079299999999,-122.58757700000001",
+					"address": "6820 Kimball Dr Suite B1 Gig Harbor, WA 98335"
+				}
+			}
+		}, {
+			"id": 124,
+			"title": "Kulshan Cycles",
+			"custom_fields": {
+				"website": "http:\/\/kulshancycles.com\/",
+				"phone_number": "(360) 733-6440",
+				"address": {
+					"coordinates": "48.748425,-122.48076000000003",
+					"address": "100 E. Chestnut Bellingham, WA 98225"
+				}
+			}
+		}, {
+			"id": 123,
+			"title": "Fairhaven Bike",
+			"custom_fields": {
+				"website": "http:\/\/fairhavenbike.com\/",
+				"phone_number": "(360) 733-4433",
+				"address": {
+					"coordinates": "48.721981,-122.50375300000002",
+					"address": "1108 11th Street, Bellingham, WA 98225"
+				}
+			}
+		}, {
+			"id": 122,
+			"title": "Gregg&#8217;s Cycles &#8211; Greenlake",
+			"custom_fields": {
+				"website": "http:\/\/www.greggscycles.com\/",
+				"phone_number": "(206) 523-1822",
+				"address": {
+					"coordinates": "47.67954599999999,-122.32496700000002",
+					"address": "7007 Woodlawn Ave NE Seattle, WA 98115"
+				}
+			}
+		}, {
+			"id": 121,
+			"title": "Gregg&#8217;s Cycles &#8211; Alderwood",
+			"custom_fields": {
+				"website": "http:\/\/www.greggscycles.com\/",
+				"phone_number": "(425) 248-1822",
+				"address": {
+					"coordinates": "47.83566,-122.27128920000001",
+					"address": "18021 Alderwood Mall Pkwy #104 Lynnwood, WA 98037"
+				}
+			}
+		}, {
+			"id": 107,
+			"title": "B.I. Cycle Shop",
+			"custom_fields": {
+				"website": "http:\/\/www.b-i-cycle.com\/",
+				"phone_number": "(206) 842-6413",
+				"address": {
+					"coordinates": "47.624395,-122.52061900000001",
+					"address": "124 Bjune Dr. Bainbridge Island, WA 98110"
+				}
+			}
+		}, {
+			"id": 91,
+			"title": "Gregg&#8217;s Cycles &#8211; Bellevue",
+			"custom_fields": {
+				"website": "http:\/\/www.greggscycles.com\/",
+				"phone_number": "(425) 462-1900",
+				"": false,
+				"address": {
+					"coordinates": "47.611566,-122.20194500000002",
+					"address": "105 Bellevue Way NE Bellevue, WA 98004"
+				}
+			}
+		}
+	]
+}
