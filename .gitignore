@@ -124,3 +124,4 @@ local.properties
 #iis
 web.config
 wp-content/themes/Stoemper-autofocus-5.0/page-templates/contact-form-submitted.php
+/nbproject/private/

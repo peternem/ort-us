@@ -48,7 +48,7 @@ class VernacularWidget extends WP_Widget {
     <option value="<?= $value; ?>" <?= $selected ? ' selected' : ''; ?>>
       <?= $label; ?>
     </option>
- <?php }
+  <? }
 
   private function value($value, $default){
     if($value == ''){
@@ -60,25 +60,25 @@ class VernacularWidget extends WP_Widget {
 
   private function label($id, $title){ ?>
     <label for="<?= $this->get_field_id( $id ); ?>"><?= $title ?></label>
- <?php }
+  <? }
 
   private function field_meta($id, $class = '', $style = ''){ ?>
     id="<?= $this->get_field_id( $id ); ?>" name="<?= $this->get_field_name( $id ); ?>" class="<?= $class; ?>" style="<?= $style; ?>"
-<?php }
+  <? }
 
   public function textfield($id, $title, $default = ''){ ?>
     <p>
       <?= $this->label($id, $title); ?>
       <input <?= $this->field_meta($id, 'widefat'); ?> value="<?= $this->value($this->form_instance[$id], $default); ?>" type="text"/>
     </p>
-<?php }
+  <? }
 
   public function textarea($id, $title, $default = ''){ ?>
     <p>
       <?= $this->label($id, $title); ?>
       <textarea <?= $this->field_meta($id, 'widefat', 'height:5em;'); ?>><?= $this->value($this->form_instance[$id], $default); ?></textarea>
     </p>
-<?php }
+  <? }
 
   public function dropdown($id, $title, $options){ ?>
     <p>
@@ -89,12 +89,12 @@ class VernacularWidget extends WP_Widget {
         <? endforeach; ?>
       </select>
     </p>
-<?php }
+  <? }
 
   public function category($id = "category", $title = "Category"){ ?>
     <p>
       <?= $this->label($id, $title); ?><br>
-      <?php wp_dropdown_categories(array(
+      <? wp_dropdown_categories(array(
         'id' => $this->get_field_id($id),
         'name' => $this->get_field_name( $id ),
         'selected' => $this->form_instance[$id],
@@ -104,30 +104,30 @@ class VernacularWidget extends WP_Widget {
         'show_option_all' => 'All Categories'
       )); ?>
     </p>
-<?php }
+  <? }
 
   public function tag($id = "tag", $title = "Tag"){ ?>
     <p>
       <?= $this->label($id, $title); ?><br>
       <select <?= $this->field_meta($id, $style = 'max-width: 98%;'); ?>>
         <option value="">&mdash;</option>
-        <?php $tags = get_tags(); ?>
-        <?php foreach ($tags as $tag): ?>
-        <?php $this->option($tag->slug, $tag->name, $this->form_instance[$id]); ?>
-        <?php endforeach; ?>
+        <? $tags = get_tags(); ?>
+        <? foreach ($tags as $tag): ?>
+          <? $this->option($tag->slug, $tag->name, $this->form_instance[$id]); ?>
+        <? endforeach; ?>
       </select>
     </p>
-  <?php }
+  <? }
 
   public function tags($id = "tags", $title = "Tags"){ ?>
     <p>
       <?= $this->label($id, $title); ?><br>
       <select id="<?= $this->get_field_id( $id ); ?>" name="<?= $this->get_field_name( $id ); ?>[]" style="max-width: 98%;" multiple>
-        <?php $tags = get_tags(); ?>
-        <?php foreach ($tags as $tag): ?>
-            <?php $this->option($tag->slug, $tag->name, $this->form_instance[$id]); ?>
-        <?php endforeach; ?>
+        <? $tags = get_tags(); ?>
+        <? foreach ($tags as $tag): ?>
+          <? $this->option($tag->slug, $tag->name, $this->form_instance[$id]); ?>
+        <? endforeach; ?>
       </select>
     </p>
-  <?php }
+  <? }
 }

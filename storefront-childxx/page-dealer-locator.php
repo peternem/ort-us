@@ -1,10 +1,10 @@
-<?php get_header(); ?>
+<? get_header(); ?>
 <div id="primary" class="content-area">
 
 
 <div id="main" class="site-main">
 
-<?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
+<? if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
   
 
 	<div id="dealer_boxes">
@@ -91,9 +91,9 @@
 </script>
 
 
-<?php endwhile; ?>
+<? endwhile; ?>
 
 </div>
 </div>
 
-<?php get_footer(); ?>
+<? get_footer(); ?>

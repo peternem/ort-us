@@ -1,4 +1,12 @@
-<? // Template Name: Two-column Page ?>
+<<?php
+/**
+ * Template Name: Two Column Page
+ * The template used for displaying page content in page.php
+ *
+ * @author Matthias Thom | http://upplex.de
+ * @package upBootWP 0.1
+ */
+?>
 <? get_header(); ?>
 <div id="main">
 

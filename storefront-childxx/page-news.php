@@ -1,4 +1,4 @@
-<?php get_header(); ?>
+<? get_header(); ?>
 
 <div id="primary" class="content-area">
 	<div id="main" class="site-main news">
@@ -67,4 +67,4 @@
 	</div>
 </div>
 
-<?php get_footer(); ?>
+<? get_footer(); ?>

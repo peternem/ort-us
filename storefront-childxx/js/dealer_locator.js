@@ -337,7 +337,7 @@ jQuery(document).ready(function() {
     DealerMap.show_dealers_within_of(dealers, distance, location);
   };
 
-  jQuery('form[action="#"]').submit(false);
+  jQuery('form[action=#]').submit(false);
 
   var api_url = jQuery('#map_wrapper').data('api-url');
 
