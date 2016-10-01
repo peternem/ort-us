@@ -1,0 +1,240 @@
+.btn-group {
+  /*    text-align: center;*/
+}
+.btn.modal-btn {
+  padding: 0 1em;
+}
+.byLocalNowLink {
+  background-color: rgba(255, 255, 255, 0);
+  border: 1px solid #ffffff;
+  box-shadow: inherit;
+  border-radius: 4px;
+  text-transform: capitalize;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  outline: 0 none;
+  padding: 0.618em 0.15em;
+  text-decoration: none;
+  text-shadow: none;
+}
+.byLocalNowLink:hover {
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
+  color: #ffffff;
+}
+.single-product div.product form.cart button.button {
+  float: left;
+  margin-left: 2em;
+}
+/*
+Styling for Modal dialog popup boxes
+*/
+.modal-popup {
+  background-color: #ffffff;
+  display: none;
+  padding: 1em;
+  position: fixed;
+  width: 30em;
+  height: 30em;
+  z-index: 9999;
+  overflow-y: scroll;
+  -webkit-box-shadow: 0 8px 6px -3px black;
+  -moz-box-shadow: 0 8px 6px -3px black;
+  box-shadow: 0 8px 6px -3px black;
+}
+.modal-popup .modal-container {
+  position: relative;
+}
+.modal-popup .close_btn {
+  background-color: #f5f5f5;
+  height: 2em;
+  line-height: 30px;
+  position: absolute;
+  right: 1em;
+  text-align: center;
+  top: 1em;
+  width: 2em;
+  z-index: 99;
+}
+.modal-popup .img-responsive {
+  height: auto;
+  max-width: 100%;
+}
+/*
+Online Dealer Module
+*/
+.online-dlr-wrapper {
+  border-top: 3px solid rgba(0, 0, 0, 0.024);
+  border-bottom: 3px solid rgba(0, 0, 0, 0.024);
+  overflow: auto;
+  padding-top: 1.5em;
+  position: relative;
+  width: 100%;
+}
+.online-dlr-wrapper .online-dealers {
+  overflow: auto;
+  float: left;
+  width: 100%;
+  margin-right: 1.5%;
+}
+.online-dlr-wrapper .smart-etailing {
+  overflow: auto;
+  float: left;
+  width: 20%;
+}
+.online-dlr-wrapper .online-list {
+  float: left;
+  margin: 0.5em 0 1.5em;
+  overflow: auto;
+  width: 100%;
+}
+.online-dlr-wrapper .online-list li {
+  list-style: none;
+}
+.online-dlr-wrapper .online-list .list-item {
+  display: block;
+  float: left;
+  margin: 0 1em 1em 0;
+  max-width: 200px;
+  min-height: 65px;
+  text-align: center;
+}
+.online-dlr-wrapper .online-list .list-item:first-child {
+  margin-left: 0;
+}
+.online-dlr-wrapper .online-list .list-item:last-child {
+  margin-right: 0;
+}
+.online-dlr-wrapper .online-list .list-item.wide {
+  max-width: 135px;
+}
+.online-dlr-wrapper .online-list .list-item a {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+  .online-dlr-wrapper .online-dealers {
+    width: 100%;
+    margin-right: 0;
+    float: left;
+  }
+  .online-dlr-wrapper .smart-etailing {
+    width: 100%;
+    float: left;
+  }
+  .online-dlr-wrapper .online-list .list-item.wide {
+    max-width: 100px;
+  }
+}
+@media (min-width: 481px) and (max-width: 768px) {
+  .online-dlr-wrapper .online-dealers {
+    width: 100%;
+    margin-right: 0;
+    float: none;
+  }
+  .online-dlr-wrapper .smart-etailing {
+    width: 100%;
+    float: none;
+  }
+  .online-dlr-wrapper .online-list .list-item.wide {
+    max-width: 100px;
+  }
+}
+@media (max-width: 480px) {
+  .online-dlr-wrapper .online-dealers {
+    width: 100%;
+    margin-right: 0;
+    float: none;
+  }
+  .online-dlr-wrapper .online-dealers ul li.list-item {
+    margin: 0 auto;
+    max-width: 50%;
+    width: 100%;
+  }
+  .online-dlr-wrapper .online-dealers ul li.list-item img {
+    max-width: 100px;
+    margin: 0px auto 1em;
+  }
+  .online-dlr-wrapper .online-dealers ul li.list-item.wide {
+    max-width: 100%;
+    text-align: center;
+    margin: 1em auto 0;
+  }
+  .online-dlr-wrapper .smart-etailing {
+    width: 100%;
+    float: none;
+    text-align: center;
+  }
+}
+.modal-popup .online-dealers > ul {
+  margin: 0;
+  padding: 0;
+}
+.modal-popup .list-item {
+  padding: 0.5em 0.25em;
+}
+.modal-popup .list-item.even-row {
+  background-color: #f8f8f8;
+}
+.modal-popup .list-item.odd-row {
+  background-color: #fefefe;
+}
+.modal-popup .list-item,
+.modal-popup li {
+  list-style: outside none none;
+  overflow: auto;
+}
+.modal-popup .list-item:last-child,
+.modal-popup li:last-child {
+  margin-bottom: 0;
+}
+.modal-popup .dlr-link {
+  float: left;
+  width: 50%;
+}
+.modal-popup .dlr-link ul {
+  margin: 0;
+}
+.modal-popup .dlr-link ul li {
+  margin-bottom: 0.25em;
+}
+.modal-popup .dlr-link ul li:last-child {
+  margin-bottom: 0;
+}
+.modal-popup .dlr-logo {
+  float: left;
+  width: 50%;
+}
+@media (max-width: 680px) {
+  body .modal-popup {
+    position: fixed;
+    width: inherit;
+    top: 1em !important;
+    overflow-x: scroll;
+  }
+}
+@media (max-width: 680px) {
+  body .modal-popup {
+    left: 1em !important;
+    right: 1em !important;
+    bottom: 1em !important;
+    position: fixed;
+    width: inherit;
+    top: 1em !important;
+    overflow-x: scroll;
+  }
+}
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+@media (max-width: 1024px) {
+  .single-product .site-content {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}

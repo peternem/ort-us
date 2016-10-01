@@ -1,16 +1,20 @@
 <?php
 
+get_template_part('config-roles');
 /**
  * Loading Scripts
  */
+//add_action( 'wp_enqueue_scripts', 'load_my_child_styles', 20 );
+//function load_my_child_styles() {
+//    wp_enqueue_style( 'storefront-child-theme',get_stylesheet_directory_uri().'/css/storfront-child-theme.css' );
+//}
 
 function my_scripts_method() {
-
+    wp_enqueue_style('ortlieb-styles', get_stylesheet_directory_uri() . '/css/ortlieb-styles.css');
     wp_enqueue_script('modernizer', get_stylesheet_directory_uri() . '/js/modernizr.custom.92053.js', array('jquery'));
     wp_enqueue_script('custom-script', get_stylesheet_directory_uri() . '/js/jquery.cycle.all.min.js', array('jquery'));
     wp_enqueue_script('maximage', get_stylesheet_directory_uri() . '/js/jquery.maximage.min.js', array('jquery'));
-    wp_enqueue_script('main-js', get_stylesheet_directory_uri() . '/js/ortlieb.js', array('jquery'));
-
+    wp_enqueue_script('main-js', get_stylesheet_directory_uri() . '/js/ortlieb.js', array('jquery'), true);
 
     if (is_page('dealer-locator')) :
         wp_enqueue_script('dealer-locator-a', get_stylesheet_directory_uri() . '/js/underscore-min.js', array(), '', true);
@@ -287,5 +291,6 @@ register_nav_menus(array(
 add_filter('woocommerce_after_add_to_cart_form', 'back_to_shop', 999);
 
 function back_to_shop() {
-    require get_stylesheet_directory() . '/inc/smartetail.php';
+    //require get_stylesheet_directory() . '/inc/smartetail.php';
+    require get_stylesheet_directory() . '/inc/online-retailers.php';
 }

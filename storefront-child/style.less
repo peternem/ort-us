@@ -1,12 +1,11 @@
 /*
-Theme Name: Storefront Child cccdd
+Theme Name: Storefront Child - 05242016
 Version: 1.0
 Description: Child theme for Canvas.
 Author: WooThemes
 Author URI: http://www.woothemes.com
 Template: storefront
 */
-//@import url("../storefront/style.css");
 
 
 /* =Theme customization starts here
@@ -17,9 +16,17 @@ Template: storefront
 @import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600,700,300,400italic");
 
 
+@ortlieb_orange_1: #ff9500;
+@ortlieb_orange_2: #fdaa42;
+
+//Links
+@link_color: @ortlieb_orange_1;
+@link_hover_color: #331e00;
+
 /********************************************************************
  * IE specific fixes
  ********************************************************************/
+
 
 .ie8 .menu.handheld, .ie9 .menu.handheld {
     display: none;
@@ -30,18 +37,10 @@ body {
     font-size: 100%;
 }
 
-
 .woocommerce-active .site-header .site-search {
     padding: 0.5em 0;
 }
-.buylocalnow {
-    border-bottom: 3px solid rgba(0, 0, 0, 0.024);
-    overflow: auto;
-    padding-bottom: 1.5em;
-    .buyLocalNowButton {
-        float: right;
-    }
-}
+
 
 .home.blog .site-header,
 .home.page:not(.page-template-template-homepage) .site-header,
@@ -50,14 +49,14 @@ body {
 }
 /* Typography */
 a {
-    color: #ff9500;
+    color: @link_color;
     text-decoration: none;
 }
 a:hover {
-    color: #331e00;
+    color: @link_hover_color;
 }
 a:not(.button):hover {
-    color: #331e00;
+    color: @link_hover_color;
 }
 h1,
 h2,
@@ -76,7 +75,7 @@ input[type="reset"],
 input[type="submit"],
 .button,
 .added_to_cart {
-    background-color: #ff9500;
+    background-color: @ortlieb_orange_1;
     border: 1px solid #e68600;
     box-shadow: inherit;
     border-radius: 4px;
@@ -105,7 +104,7 @@ p iframe {
  ********************/
 header {
     &.site-header {
-        background-color: #ff9500;
+        background-color: @ortlieb_orange_1;
         padding-bottom: 0;
     }
 }
@@ -168,26 +167,25 @@ button {
 }
 .site-header {
     padding-top: 0;
+    .site-branding {
+        margin: 0;
+        max-height: 58px;
+        h1 {
+            a {
+                font-weight: 400;
+                letter-spacing: 2px;
+            }
+        }
+        .logo {
+            > a {
+                display: block;
+            }
+        }
+    }
+    .company-name {
+        margin: 0.75em;
+    }
 }
-.site-header .site-branding {
-    margin: 0;
-    max-height: 58px;
-}
-.site-header .company-name {
-    margin: 0.75em;
-}
-.site-branding h1 a {
-    font-weight: 400;
-    letter-spacing: 2px;
-}
-.site-branding .logo > a {
-    display: block;
-}
-.main-navigation ul.menu ul li,
-.main-navigation ul.nav-menu ul li {
-    border-right: medium none;
-}
-
 
 .main-navigation {
     padding-top: 0;
@@ -251,51 +249,70 @@ button {
 }
 
 .site-header-cart {
-    .cart-contents {
-        padding: 1.15em 0;
+    a {
+        &.cart-contents {
+            padding: 1.15em 0;
+        }
+    }
+
+}
+
+.primary-navigation {
+    float: right;
+    ul.nav-menu > li > a::before {
+        background: #cccccc;
+        bottom: 20%;
+        content: "";
+        display: block;
+        left: -3px;
+        line-height: 11px;
+        position: absolute;
+        top: 20%;
+        width: 1px;
+    }
+    ul.nav-menu > li:first-child > a::before {
+        display: none;
     }
 }
-.primary-navigation ul.nav-menu > li > a::before {
-    background: #cccccc;
-    bottom: 20%;
-    content: "";
-    display: block;
-    left: -3px;
-    line-height: 11px;
-    position: absolute;
-    top: 20%;
-    width: 1px;
+
+
+.main-navigation {
+    ul {
+        float: right;
+    }
+    .icon-bar + .icon-bar {
+        margin-top: 4px;
+    }
 }
-.primary-navigation ul.nav-menu > li:first-child > a::before {
-    display: none;
+
+.main-navigation ul.menu ul li,
+.main-navigation ul.nav-menu ul li {
+    border-right: medium none;
 }
-.main-navigation ul {
-    float: right;
-}
+
+
 .main-navigation ul.menu ul li a,
 .main-navigation ul .nav-menu ul li a {
     font-weight: 400;
     padding: 0.857em 1em;
 }
 
+.woocommerce-active {
+    .site-header {
+        .main-navigation {
+            clear: inherit;
+            float: right;
+            margin: 0;
+            width: 59.913%;
+        }
+        .secondary-navigation {
+            //float: right;
+            margin: 0;
+            width: 47.8261%;
+        }
+    }
+}
 
-.main-navigation .icon-bar + .icon-bar {
-    margin-top: 4px;
-}
-.primary-navigation {
-    float: right;
-}
-.woocommerce-active .site-header .main-navigation {
-    clear: inherit;
-    float: right;
-    margin: 0;
-    width: 59.913%;
-}
-.woocommerce-active .site-header .secondary-navigation {
-    //float: right;
-    margin: 0;
-    width: 47.8261%;
-}
 
 .header-b .site-header-cart.menu {
     display: none;
@@ -321,17 +338,22 @@ button {
     content: "|";
     line-height: 11px;
 }
-.site-search .widget_product_search form {
-    margin: 0.50em;
+
+.site-search {
+    .widget_product_search {
+        form {
+            margin: 0.50em;
+            &::before {
+                left: 0.75em;
+                top: 0.75em;
+            }
+        }
+        input[type="search"], input[type="text"] {
+            padding: 0.75em 1.618em 0.75em 2.631em !important;
+        }
+    }
 }
-.site-search .widget_product_search form::before {
-    left: 0.75em;
-    top: 0.75em;
-}
-.site-search .widget_product_search input[type="search"],
-.site-search .widget_product_search input[type="text"] {
-    padding: 0.75em 1.618em 0.75em 2.631em;
-}
+
 .logo,
 .company-name {
     float: left;
@@ -363,13 +385,13 @@ button {
 }
 .orange {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff9500+0,fc8e00+50,f37800+100 */
-    background: #ff9500;
+    background: @ortlieb_orange_1;
     /* Old browsers */
-    background: -moz-linear-gradient(top, #ff9500 0%, #fc8e00 50%, #f37800 100%);
+    background: -moz-linear-gradient(top, @ortlieb_orange_1 0%, #fc8e00 50%, #f37800 100%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(top, #ff9500 0%, #fc8e00 50%, #f37800 100%);
+    background: -webkit-linear-gradient(top, @ortlieb_orange_1 0%, #fc8e00 50%, #f37800 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom, #ff9500 0%, #fc8e00 50%, #f37800 100%);
+    background: linear-gradient(to bottom, @ortlieb_orange_1 0%, #fc8e00 50%, #f37800 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 .grey {
@@ -386,6 +408,12 @@ button {
 .page_featured_img {
     margin-bottom: 2em;
 }
+
+.error404 #content {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
 /**********************
  * Grid
  ********************/
@@ -459,8 +487,8 @@ ul.products li.product {
     padding-right: 0;
 }
 .page .site-content {
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .storefront-full-width-content .content-area {
@@ -477,6 +505,7 @@ ul.products li.product {
 .site-header-cart audio.cart-contents {
     padding: 1.25em 0;
 }
+
 /**********************
  * Home Pager Slideshow
  ********************/
@@ -563,7 +592,7 @@ ul.products li.product {
     display: block;
 }
 .box .inner h3 a:hover {
-    color: #ff9500;
+    color: @ortlieb_orange_1;
 }
 .box .inner .teaser_copy {
     font-weight: 600;
@@ -613,7 +642,7 @@ ul.products li.product {
 #dealer_map h3 {
     padding: 3px 15px;
     color: #fff;
-    background: #ff9500;
+    background: @ortlieb_orange_1;
     margin: 0;
     overflow: hidden;
 }
@@ -664,7 +693,7 @@ ul.products li.product {
     padding: 0.25rem;
 }
 #dealer_boxes ul li ma a:hover {
-    color: #ff9500;
+    color: @ortlieb_orange_1;
 }
 #dealer_boxes .omega li {
     float: none;
@@ -814,7 +843,7 @@ ul.products li.product {
     color: #000000;
 }
 .social-links a:hover {
-    color: #ff9500;
+    color: @ortlieb_orange_1;
 }
 .support-links > li {
     display: block;
@@ -863,7 +892,7 @@ ul.products li.product {
     padding: 0.5em 1em;
 }
 .footer-aux-navigation a:hover {
-    color: #ff9500;
+    color: @ortlieb_orange_1;
 }
 .footer-aux-navigation > li::before {
     content: "|";
@@ -1026,30 +1055,35 @@ ul.products li.product {
         display: none !important;
     }
     #menu-tablet-phone {
-            &.menu {
-                li {
-                    a:before {
-                        font-family: "FontAwesome";
-                        content: "\f0f6";
-                        margin-right: .53em;
-                        font-weight: 400;
-                        display: inline;
-                    }
-                    a {
-                      padding: 0.50em 1em;
-                    }
+        .menu-item-has-children {
+            overflow: auto;
+        }
+        &.menu {
+            li {
+                a:before {
+                    font-family: "FontAwesome";
+                    content: "\f0f6";
+                    margin-right: .53em;
+                    font-weight: 400;
+                    display: inline;
                 }
-                > li:first-child {
-                    margin-left: 0;
+                a {
+                    padding: 0.50em 1em;
+                    max-width: 275px;
+                    width: 100%;
                 }
             }
-            .sub-menu {
-                position: relative;
-                display: block;
-                padding: 0;
-                background: transparent !important;
-                width: 100%;
+            > li:first-child {
+                margin-left: 0;
             }
+        }
+        .sub-menu {
+            position: relative;
+            display: block;
+            padding: 0;
+            background: transparent !important;
+            width: 100%;
+        }
     }
 
     .site-header .site-branding {
@@ -1103,7 +1137,7 @@ ul.products li.product {
 
 @media (min-width: 481px) and (max-width: 800px) {
     #menu-tablet-phone .sub-menu {
-        margin: 0 0 2em 1em;
+        margin: 0 0 0 1em;
         padding: 0;
     }
 }
@@ -1124,18 +1158,18 @@ ul.products li.product {
         margin-left: 0;
         margin-right: 0;
     }
-        #menu-tablet-phone {
-            &.menu {
-                li {
-                    a {
-                      
-                    }
+    #menu-tablet-phone {
+        &.menu {
+            li {
+                a {
+
                 }
             }
-            .sub-menu {
-                margin: 0 0 2em 1em;
-                padding: 0;
-            }
+        }
+        .sub-menu {
+            margin: 0 0 0.15em 1em;
+            padding: 0;
+        }
     }
-    
+
 }

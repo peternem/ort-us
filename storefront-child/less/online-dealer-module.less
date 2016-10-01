@@ -1,0 +1,179 @@
+/*
+Online Dealer Module
+*/
+.online-dlr-wrapper {
+    border-top: 3px solid rgba(0, 0, 0, 0.024); 
+    border-bottom: 3px solid rgba(0, 0, 0, 0.024); 
+    overflow: auto;
+    padding-top: 1.5em;
+    position: relative;
+    width: 100%;
+    .online-dealers {
+        overflow: auto;
+        float: left;
+        width: 100%;
+        margin-right: 1.5%
+    }
+    .smart-etailing {
+        overflow: auto;
+        float: left;
+        width: 20%;
+    }
+    .online-list {
+        float: left;
+        margin: 0.5em 0 1.5em;
+        overflow: auto;
+        width: 100%;
+        li {
+            list-style: none;
+        }
+        .list-item {
+            &:first-child {
+                margin-left: 0;
+            }
+            display: block;
+            float: left;
+            margin: 0 1em 1em 0;
+            max-width: 200px;
+            min-height: 65px;
+            text-align: center;
+            &:last-child {
+                margin-right: 0;
+            }
+            &.wide {
+                max-width: 135px;
+            }
+            a {
+                display: inline-block;
+                height: 100%;
+                vertical-align: middle;
+            }
+        }
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .online-dlr-wrapper {
+        .online-dealers {
+            width: 100%;
+            margin-right: 0;
+            float: left;
+        }
+        .smart-etailing {
+            width: 100%;
+            float: left;
+        }
+        .online-list .list-item.wide {
+            max-width: 100px; 
+        }
+    }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .online-dlr-wrapper {
+        .online-dealers {
+            width: 100%;
+            margin-right: 0;
+            float: none;
+        }
+        .smart-etailing {
+            width: 100%;
+            float: none;
+        }
+        .online-list .list-item.wide {
+            max-width: 100px; 
+        }
+    }
+}
+
+@media  (max-width: 480px) {
+    .online-dlr-wrapper {
+        .online-dealers {
+            width: 100%;
+            margin-right: 0;
+            float: none;
+            ul li.list-item {
+                margin: 0 auto;
+                max-width: 50%;
+                width: 100%;
+            }
+            ul li.list-item img {
+                max-width: 100px;
+                margin: 0px auto 1em;
+            }
+            ul li.list-item.wide {
+                max-width: 100%;
+                text-align: center;
+                margin: 1em auto 0;
+            }
+        }
+        .smart-etailing {
+            width: 100%;
+            float: none;
+            text-align: center;
+        }
+    }
+}
+
+.modal-popup {
+    .online-dealers > ul {
+        margin: 0;
+        padding: 0;
+    }
+    .list-item {
+        padding: 0.5em 0.25em;
+        &.even-row {
+            background-color: #f8f8f8;
+        }
+        &.odd-row {
+            background-color: #fefefe;
+        }
+    }
+
+    .list-item, li {
+        list-style: outside none none;
+        overflow: auto;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+    .dlr-link {
+        float: left;
+        width: 50%;
+        ul {
+            margin: 0;
+            li {
+                margin-bottom: 0.25em;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+    .dlr-logo {
+        float: left;
+        width: 50%;
+    }
+}
+
+@media  (max-width: 680px) {
+    body .modal-popup {
+        position: fixed;
+        width: inherit;
+        top: 1em !important;
+        overflow-x: scroll;
+    }
+}
+
+@media  (max-width: 680px) {
+    body .modal-popup {
+        left: 1em !important;
+        right: 1em !important;
+        bottom: 1em !important;
+        position: fixed;
+        width: inherit;
+        top: 1em !important;
+        overflow-x: scroll;
+    }
+}

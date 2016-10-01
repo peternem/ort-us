@@ -1,0 +1,35 @@
+{
+  "name": "ncc-theme",
+  "version": "2.0.0",
+  "description": "Ortlieb USA Storefront Child Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/peternem/ort-us.git"
+  },
+  "keywords": [
+    "Newport",
+    "Church"
+  ],
+  "private": true,
+  "author": "mjpeternell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peternem/new-cc/issues"
+  },
+  "homepage": "https://github.com/peternem/new-cc#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-less": "^1.3.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-lesslint": "^1.4.1",
+    "grunt-phplint": "0.0.5",
+    "jit-grunt": "^0.9.1",
+    "jshint-stylish": "^2.2.0",
+    "phplint": "^1.7.1"
+  }
+}
