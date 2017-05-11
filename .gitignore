@@ -54,6 +54,7 @@ node_modules
 .cvs
 *.bak
 *.swp
+
 node_modules
 node_modules/*
 sitemap.xml
